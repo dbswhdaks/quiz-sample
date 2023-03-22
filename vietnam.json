@@ -1,0 +1,3602 @@
+[
+ {
+  "id": 1,
+  "문제": "1. Nội dung nào dưới đây không phải là giấy phép lái xe cần thiết khi điều khiển xe tải chở hàng 4,5 tấn kéo xe ô tô chở người có trọng tải 1,5 tấn?",
+  "보기1": "① Giấy phép lái xe cỡ lớn hạng 1 và giấy phép lái xe đầu kéo cỡ nhỏ",
+  "보기2": "② Giấy phép lái xe phổ thông hạng 1 và giấy phép lái xe đầu kéo cỡ lớn",
+  "보기3": "③ Giấy phép lái xe phổ thông hạng 1 và giấy phép lái xe đầu kéo cỡ nhỏ",
+  "보기4": "④ Giấy phép lái xe phổ thông hạng 2 và giấy phép lái xe đầu kéo cỡ lớn",
+  "정답": 4
+ },
+ {
+  "id": 2,
+  "문제": "2. Nội dung nào là giải thích không đúng về cấp Giấy phép lái xe theo Pháp lệnh Giao thông đường bộ?",
+  "보기1": "① Giấy phép lái xe phải được cấp trong vòng 30 ngày kể từ ngày đỗ Kỳ thi sát hạch bằng lái xe.",
+  "보기2": "② Không thể cấp Giấy phép lái xe bằng tiếng Anh.",
+  "보기3": "③ Có thể cấp Giấy phép lái xe trên điện thoại.",
+  "보기4": "④ Nếu bị mất Giấy phép lái xe, có thể xin cấp lại.",
+  "정답": 2
+ },
+ {
+  "id": 3,
+  "문제": "3. Giấy phép lái xe quốc tế do Giám đốc Sở cảnh sát tỉnh - thành phố cấp có hiệu lực mấy năm kể từ ngày cấp?",
+  "보기1": "① 1 năm",
+  "보기2": "② 2 năm",
+  "보기3": "③ 3 năm",
+  "보기4": "④ 4 năm",
+  "정답": 1
+ },
+ {
+  "id": 4,
+  "문제": "4. Nội dung nào sau đây đúng với điều kiện cần thiết khi lần đầu tiên lái xe cứu trợ khẩn cấp cỡ lớn 15 chỗ theo Luật Giao thông đường bộ?",
+  "보기1": "① Giấy phép lái xe phổ thông hạng 1 và 3 tiếng đào tạo về an toàn giao thông",
+  "보기2": "② Giấy phép lái xe chuyên dụng hạng 1 (xe kéo cỡ lớn) và 2 tiếng đào tạo về an toàn giao thông",
+  "보기3": "③ Giấy phép lái xe chuyên dụng hạng 1 (xe cứu hộ cứu nạn) và 2 tiếng đào tạo về an toàn giao thông",
+  "보기4": "④ Giấy phép lái xe phổ thông hạng 2 và 3 tiếng đào tạo về an toàn giao thông",
+  "정답": 1
+ },
+ {
+  "id": 5,
+  "문제": "5. Thời hạn hiệu lực của giấy phép tập lái xe theo Luật Giao thông đường bộ?",
+  "보기1": "① 6 tháng kể từ ngày nhận",
+  "보기2": "② 1 năm kể từ ngày nhận",
+  "보기3": "③ 2 năm kể từ ngày nhận",
+  "보기4": "④ 3 năm kể từ ngày nhận",
+  "정답": 2
+ },
+ {
+  "id": 6,
+  "문제": "6. Nội dung nào không đúng với cách ghi trên giấy phép lái xe trong các tiêu chuẩn áp dụng điều kiện của giấy phép lái xe theo Luật Giao thông đường bộ?",
+  "보기1": "① A",
+  "보기2": "② E",
+  "보기3": "③ G",
+  "보기4": "④ H",
+  "정답": 1
+ },
+ {
+  "id": 7,
+  "문제": "7. Khi muốn điều khiển xe khách 11 chỗ kéo một chiếc xe khác có tổng trọng lượng 780 kg thì ngươì lái xe cần phải có giấy phép lái xe loại nào?",
+  "보기1": "① Giấy phép lái xe phổ thông hạng 1 và giấy phép lái xe kéo cỡ nhỏ",
+  "보기2": "② Giấy phép lái xe phổ thông hạng 2 và giấy phép lái xe kéo cỡ nhỏ hạng 1",
+  "보기3": "③ Giấy phép lái xe phổ thông hạng 1 và giấy phép lái xe cứu hộ cứu nạn",
+  "보기4": "④ Giấy phép lái xe phổ thông hạng 2 và giấy phép lái xe cứu hộ cứu nạn hạng 1",
+  "정답": 1
+ },
+ {
+  "id": 8,
+  "문제": "8. Câu nào giải thích đúng về các loại xe có thể điều khiển tùy vào từng loại bằng?",
+  "보기1": "① Có thể lái xe rải nhựa đường khi có bằng lái xe cỡ lớn hạng 1.",
+  "보기2": "② Có thể lái xe ben khi có bằng lái xe phổ thông hạng 1.",
+  "보기3": "③ Có thể lái xe mô tô 250cc bằng giấy phép lái xe phổ thông hạng 2.",
+  "보기4": "④ Có thể lái xe có động cơ gắn máy khi có bằng lái xe cỡ nhỏ hạng 2.",
+  "정답": 1.4
+ },
+ {
+  "id": 9,
+  "문제": "9. Nếu muốn lái xe ô tô khách 12 chỗ trên đường thì người lái xe cần phải có giấy phép lái xe loại nào?",
+  "보기1": "① Giấy phép lái xe kéo cỡ lớn hạng 1",
+  "보기2": "② Giấy phép lái xe cứu hộ cứu nạn hạng 1",
+  "보기3": "③ Giấy phép lái xe phổ thông hạng 1",
+  "보기4": "④ Giấy phép lái xe phổ thông hạng 2",
+  "정답": 3
+ },
+ {
+  "id": 10,
+  "문제": "10. Đối tượng nào có thể lấy bằng lái xe phổ thông hạng 2?",
+  "보기1": "① Người có một mắt không nhìn thấy nhưng mắt bên kia có thị lực là 0,5",
+  "보기2": "② Người không có khả năng phân biệt màu đỏ, màu xanh, màu vàng",
+  "보기3": "③ Người 17 tuổi",
+  "보기4": "④ Người không nghe được",
+  "정답": 4
+ },
+ {
+  "id": 11,
+  "문제": "11. Nội dung nào dưới đây đúng với miêu tả về định nghĩa (tiêu chuẩn) xe gắn máy theo Luật Giao thông đường bộ?",
+  "보기1": "① Dung tích xi lanh từ 50cc trở xuống - công suất tối đa từ 0,59kW trở xuống",
+  "보기2": "② Dung tích xi lanh dưới 50cc - công suất tối đa dưới 0,59kW",
+  "보기3": "③ Dung tích xi lanh từ 125cc trở xuống - công suất tối đa từ 11kW trở xuống",
+  "보기4": "④ Dung tích xi lanh dưới 125cc - công suất tối đa dưới 11kW",
+  "정답": 3
+ },
+ {
+  "id": 12,
+  "문제": "12. Theo Luật Giao thông đường bộ, tiêu chuẩn nào dưới đây là tiêu chuẩn có thể tham dự thi lấy giấy phép lái xe cỡ lớn hạng 1? (Ngoại trừ kinh nghiệm lái xe mô tô hai bánh)",
+  "보기1": "① Người đủ 18 tuổi và có kinh nghiệm lái xe ô tô từ 6 tháng trở lên",
+  "보기2": "② Người đủ 18 tuổi và có kinh nghiệm lái xe ô tô từ 1 năm trở lên",
+  "보기3": "③ Người đủ 19 tuổi và có kinh nghiệm lái xe ô tô từ 6 tháng trở lên",
+  "보기4": "④ Người đủ 19 tuổi và có kinh nghiệm lái xe ô tô từ 1 năm trở lên",
+  "정답": 4
+ },
+ {
+  "id": 13,
+  "문제": "13. Trường hợp lấy được bằng lái xe bằng hành vi gian lận hoặc bất chính khác và bị ấn định mức hình phạt từ phạt tiền trở lên thì sẽ không thể lấy bằng lái trong thời gian bao lâu?",
+  "보기1": "① 1 năm kể từ ngày bị hủy bằng",
+  "보기2": "② 2 năm kể từ ngày bị hủy bằng",
+  "보기3": "③ 3 năm kể từ ngày bị hủy bằng",
+  "보기4": "④ 4 năm kể từ ngày bị hủy bằng",
+  "정답": 2
+ },
+ {
+  "id": 14,
+  "문제": "14. Người thi trượt phần thi lái xe trên đường có thể đăng ký thi lại phần thi lái xe trên đường sau ( ) ngày kể từ ngày thi trượt. Nội dung nào đúng với quy định khi điền vào vị trí ( )?",
+  "보기1": "① 1 ngày",
+  "보기2": "② 3 ngày",
+  "보기3": "③ 5 ngày",
+  "보기4": "④ 7 ngày",
+  "정답": 2
+ },
+ {
+  "id": 15,
+  "문제": "15. Hai nội dung nào không phù hợp với giải thích về chế độ 'Tích điểm lái xe an toàn'?",
+  "보기1": "① Là chế độ tặng thêm ưu đãi thực tiễn cho người lái xe tuân thủ và chấp hành Luật Giao thông.",
+  "보기2": "② Trường hợp bị xử lý đình chỉ giấy phép lái xe có thể trừ vào điểm đã tích lũy.",
+  "보기3": "③ Người chưa nộp tiền phạt vi phạm giao thông hoặc tiền phạt hành chính vẫn có thể tham gia vào cam kết Không vi phạm - không tai nạn trong Chế độ tích điểm.",
+  "보기4": "④ Nếu gây ra tai nạn giao thông hoặc vi phạm quy định pháp luật về giao thông trong thời gian thực hiện cam kết sẽ không thể tham gia lại.",
+  "정답": 3.4
+ },
+ {
+  "id": 16,
+  "문제": "16. Nội dung nào dưới đây không đúng với giải thích về định nghĩa phương tiện di chuyển cá nhân thuộc loại xe gắn động cơ?",
+  "보기1": "① Góc đi lên dốc phải dưới 25 độ.",
+  "보기2": "② Trọng lượng thân xe phải dưới 30 kg.",
+  "보기3": "③ Xe đạp v.v có nghĩa là xe đạp và thiết bị di chuyển cá nhân.",
+  "보기4": "④ Khi lái xe với tốc độ 25km/giờ trở lên, mô tơ phải không hoạt động.",
+  "정답": 1
+ },
+ {
+  "id": 17,
+  "문제": "17. Nội dung nào mô tả đúng về tiêu chuẩn của phương tiện di chuyển cá nhân?",
+  "보기1": "① Khi mô tơ chính vận hành với tốc độ 30km/giờ trở lên thì động cơ điện không được hoạt động.",
+  "보기2": "② Xe đạp điện cũng bao gồm trong loại xe có động cơ chính có công suất định mức tối đa từ 11kW trở xuống.",
+  "보기3": "③ Trọng lượng của thân xe có động cơ chính có công suất định mức tối đa từ 11kW trở xuống phải dưới 35kg.",
+  "보기4": "④ Trọng lượng thân xe phải dưới 30kg.",
+  "정답": 4
+ },
+ {
+  "id": 18,
+  "문제": "18. Trong các câu dưới đây, 2 lí do nào tương ứng với việc bị mất tư cách lấy bằng lái xe trong vòng 2 năm? (Trường hợp bị ấn định mức hình phạt từ phạt tiền trở lên)",
+  "보기1": "① Khi 3 lần điều khiển phương tiện giao thông mà không có bằng lái xe.",
+  "보기2": "② Khi thi lấy bằng lái xe thay cho người khác.",
+  "보기3": "③ Khi sử dụng xe để giam cầm ai đó.",
+  "보기4": "④ Khi bị hủy bằng lái xe do không kiểm tra định kì năng lực lái xe.",
+  "정답": 1.2
+ },
+ {
+  "id": 19,
+  "문제": "19. Giải thích nào về Giấy phép lái xe tiếng Anh theo Luật Giao thông đường bộ là không đúng?",
+  "보기1": "① Có thể lái xe không cần bản dịch công chứng riêng tại các quốc gia công nhận giấy phép lái xe bằng tiếng Anh.",
+  "보기2": "② Có thể sử dụng bất kể thời gian lưu trú tại các quốc gia công nhận giấy phép lái xe bằng tiếng Anh.",
+  "보기3": "③ Phải xuất trình kèm giấy phép lái xe của Hàn Quốc, giấy phép lái xe quốc tế, hộ chiếu tại các quốc gia không công nhận giấy phép lái xe bằng tiếng Anh.",
+  "보기4": "④ Hiển thị nội dung của giấy phép lái xe bằng tiếng Anh ở mặt sau của giấy phép lái xe.",
+  "정답": 2
+ },
+ {
+  "id": 20,
+  "문제": "20. Theo Luật Giao thông đường bộ, trường hợp xe gắn máy có động cơ điện thì công suất quy định tối đa của xe mô tô hai bánh phải từ ( ) trở xuống. Nội dung nào đúng với quy định khi điền vào vị trí ( )?",
+  "보기1": "① 11kW",
+  "보기2": "② 9kW",
+  "보기3": "③ 5kW",
+  "보기4": "④ 0,59kW",
+  "정답": 1
+ },
+ {
+  "id": 21,
+  "문제": "21. Đáp án nào đúng với định nghĩa 'gờ vỉa hè' được sử dụng trong Luật Giao thông đường bộ?",
+  "보기1": "① Vạch phân định chính xác hướng đi của xe",
+  "보기2": "② Vạch chỉ dẫn cho xe ô tô đi vào phần đường định sẵn thành một hàng",
+  "보기3": "③ Đường gờ được làm bằng đá, v.v. để phân tách phần đường đi cho xe cộ và đường dành cho người đi bộ",
+  "보기4": "④ Vạch để phân biệt giữa các làn đường dành cho xe chạy",
+  "정답": 3
+ },
+ {
+  "id": 22,
+  "문제": "22. Nội dung nào đúng với nội dung liên quan đến phương tiện di chuyển cá nhân theo Luật Giao thông đường bộ?",
+  "보기1": "① Điều khiển xe chở quá số người cho phép",
+  "보기2": "② Người điều khiển xe từ 65 tuổi trở lên và đã trả lại giấy phép lái xe",
+  "보기3": "③ Người từ 13 tuổi trở lên điều khiển xe nhưng không có giấy phép lái xe",
+  "보기4": "④ Mang hay dẫn phương tiện di chuyển cá nhân cùng băng qua đường ở lối qua đường dành cho người đi bộ",
+  "정답": 4
+ },
+ {
+  "id": 23,
+  "문제": "23. Theo Luật Giao thông đường bộ, độ tuổi của người cao tuổi cần kiểm tra năng lực theo chu kỳ 3 năm và đổi giấy phép lái xe là nhóm tuổi nào?",
+  "보기1": "① Từ 65 tuổi trở lên",
+  "보기2": "② Từ 70 tuổi trở lên",
+  "보기3": "③ Từ 75 tuổi trở lên",
+  "보기4": "④ Từ 80 tuổi trở lên",
+  "정답": 3
+ },
+ {
+  "id": 24,
+  "문제": "24. Dưới đây là giải thích về quy trình xác nhận nhân thân của người tham gia thi lấy giấy phép lái xe theo Pháp lệnh về Giao thông đường bộ. Nội dung nào sau đây không đúng?",
+  "보기1": "① Trường hợp bị mất chứng minh thư nhân dân thì có thể sử dụng giấy xác nhận đăng ký xin cấp chứng minh thư nhân dân.",
+  "보기2": "② Nếu không thể xác minh danh tính của bản thân bằng giấy tờ tùy thân hoặc bằng dấu vân tay thì không thể đăng ký thi.",
+  "보기3": "③ Thông tin vân tay có thể được đối chiếu và xác minh bằng phương pháp điện tử mà không cần sự đồng ý của người đăng ký.",
+  "보기4": "④ Trường hợp từ chối xác minh danh tính có thể bị từ chối cấp giấy phép lái xe.",
+  "정답": 3
+ },
+ {
+  "id": 25,
+  "문제": "25. Trong số các cơ quan sau, cơ quan nào thực hiện đào tạo đặc biệt dành cho người lái xe mới bắt đầu điều khiển xe Hydro chở khách cỡ lớn (35 chỗ trở lên)?",
+  "보기1": "① Tổng công ty An toàn Khí gas Hàn Quốc",
+  "보기2": "② Tổng công ty An toàn Công nghiệp Hàn Quốc",
+  "보기3": "③ Tổng công ty Giao thông Đường bộ Hàn Quốc",
+  "보기4": "④ Tổng công ty Đường bộ Hàn Quốc",
+  "정답": 1
+ },
+ {
+  "id": 26,
+  "문제": "26. Người có khả năng bị xử lý đình chỉ hiệu lực của giấy phép lái xe do vi phạm luật giao thông theo Luật Giaothông đường bộ nếu muốn được đào tạo về an toàn giao thông đặc biệt thì phải đăng ký với ai?",
+  "보기1": "① Giám đốc Tổng công ty Giao thông đường bộ",
+  "보기2": "② Người đứng đầu chính quyền địa phương nơi cư trú",
+  "보기3": "③ Giám đốc Trung tâm sát hạch lái xe",
+  "보기4": "④ Giám đốc Cảnh sát tỉnh - thành phố",
+  "정답": 4
+ },
+ {
+  "id": 27,
+  "문제": "27. Theo Luật Giao thông đường bộ, trường hợp một người không nhìn thấy một bên mắt muốn thi giấy phép láixe phổ thông hạng 1 thì thị lực mắt còn lại phải từ ( ) trở lên, tầm nhìn ngang phải từ ( ) trởlên và tầm nhìn đứng phải từ 20 độ trở lên, tầm nhìn trung tâm phải trong phạm vi 20 độ và phải không cóđiểm tối hoặc không bị bán mù. Đáp án nào đúng với tiêu chuẩn trong ( )?",
+  "보기1": "① 0,5; 50",
+  "보기2": "② 0,6; 80",
+  "보기3": "③ 0,7; 100",
+  "보기4": "④ 0,8; 120",
+  "정답": 4
+ },
+ {
+  "id": 28,
+  "문제": "28. Người từ 65 đến dưới 75 tuổi đã được cấp giấy phép lái xe hạng 1 (ngoại trừ người có một bên mắt khôngthể nhìn được) thì mấy năm phải thi sát hạch định kỳ một lần?",
+  "보기1": "① 3 năm",
+  "보기2": "② 5 năm",
+  "보기3": "③ 10 năm",
+  "보기4": "④ 15 năm",
+  "정답": 2
+ },
+ {
+  "id": 29,
+  "문제": "29. Hãy chọn 2 lý do phải nộp lại bằng lái xe cho Giám đốc Sở Cảnh sát tỉnh - thành phố?",
+  "보기1": "① Khi bị xử phạt ở mức hủy bằng lái xe.",
+  "보기2": "② Khi bị xử phạt ở mức đình chỉ hiệu lực của bằng lái xe.",
+  "보기3": "③ Khi nhận được thông báo kiểm tra năng lực lái xe đột xuất.",
+  "보기4": "④ Khi thời gian thi sát hạch định kỳ của bằng lái bị vượt quá 6 tháng.",
+  "정답": 1.2
+ },
+ {
+  "id": 30,
+  "문제": "30. Nội dung nào sau đây là giải thích không đúng về Đào tạo an toàn (Đào tạo đặc biệt) dành cho người điềukhiển xe Hydro theo Pháp lệnh Quản lý An toàn Khí gas Cao áp?",
+  "보기1": "① Người điều khiển xe Hydro chở người không phải là đối tượng phải tham gia đào tạo đặc biệt.",
+  "보기2": "② Người mới điều khiển xe Hydro chở khách cỡ lớn (36 chỗ trở lên) là đối tượng phải tham gia đào tạo đặc biệt.",
+  "보기3": "③ Chương trình đào tạo đặc biệt dành cho người điều khiển xe Hydro được thực hiện bởi Tổng công ty An toànKhí gas Hàn Quốc.",
+  "보기4": "④ Theo Luật Kinh doanh Vận tải Hành khách, người thuê và điều khiển xe chuyên kinh doanh cho thuê cũng làđối tượng phải tham gia đào tạo đặc biệt.",
+  "정답": 4
+ },
+ {
+  "id": 31,
+  "문제": "31. Người nào sau đây không được cấp giấy phép lái xe bằng tiếng Anh theo Pháp lệnh về Giao thông đườngbộ?",
+  "보기1": "① Trường hợp đỗ kỳ thi cấp phép lái xe và đăng ký xin cấp giấy phép lái xe",
+  "보기2": "② Trường hợp vượt qua bài kiểm tra năng lực lái xe và đăng ký xin cấ́p giấy phép lái xe",
+  "보기3": "③ Trường hợp đăng ký đổi giấy phép lái xe nước ngoài sang giấy phép lái xe trong nước",
+  "보기4": "④ Trường hợp đăng ký bằng giấy phép tập lái",
+  "정답": 4
+ },
+ {
+  "id": 32,
+  "문제": "32. Loại xe không được điều khiển khi sử dụng giấy phép lái xe phổ thông hạng 2 theo Pháp lệnh về Giao thôngđường bộ?",
+  "보기1": "① Xe cứu hộ cứu nạn",
+  "보기2": "② Xe chở khách quy định dưới 10 chỗ",
+  "보기3": "③ Xe ô tô loại nhỏ",
+  "보기4": "④ Xe chở hàng có trọng tải 2,5 tấn",
+  "정답": 1
+ },
+ {
+  "id": 33,
+  "문제": "33. Người đã bị xử lý vô hiệu hóa bài thi do hành vi gian lận trong kỳ thi lấy giấy phép lái xe thì sẽ không thể̉tham gia kỳ̀ thi tương ứng trong vòng ( ) kể từ khi bị xử̉ lý vi phạm. Nội dung nào sau đây đúng với ( )?",
+  "보기1": "① 2 năm",
+  "보기2": "② 3 năm",
+  "보기3": "③ 4 năm",
+  "보기4": "④ 5 năm",
+  "정답": 1
+ },
+ {
+  "id": 34,
+  "문제": "34. Theo Pháp lệnh về Giao thông đường bộ thì trong các trường hợp sau, trường hợp nào không được xem làlý do có thể xin trì hoãn việc kiểm tra năng lực lái xe định kỳ hoặc xin đổi bằng lái xe mới?",
+  "보기1": "① Trường hợp đang ở nước ngoài",
+  "보기2": "② Trường hợp không thể cử động do bệnh tật",
+  "보기3": "③ Trường hợp đang tại ngũ với quân hàm hạ sĩ quan trở lên tại lục-hải-không quân theo Luật Quân sự",
+  "보기4": "④ Trường hợp gặp phải thiên tai hay tai nạn",
+  "정답": 3
+ },
+ {
+  "id": 35,
+  "문제": "35. Theo Pháp lệnh về Giao thông đường bộ, người được hoãn thời hạn đổi giấy phép lái xe phải đổi giấy phéplái xe trong vòng ( ) kể từ ngày lý do đó hết hiệu lực. Nội dung nào đúng với quy định khi điền vào vị trí( )?",
+  "보기1": "① 1 tháng",
+  "보기2": "② 3 tháng",
+  "보기3": "③ 6 tháng",
+  "보기4": "④ 12 tháng",
+  "정답": 2
+ },
+ {
+  "id": 36,
+  "문제": "36. Trong số những người điều khiển xe Hydro sau đây, người nào là đối tượng phải tham gia đào tạo đặc biệttheo Pháp lệnh Quản lý An toàn Khí gas Cao áp?",
+  "보기1": "① Người điều khiển xe Hydro chở người",
+  "보기2": "② Người điều khiển xe Hydro chở khách cỡ lớn (36 chỗ trở lên)",
+  "보기3": "③ Người điều khiển xe Hydro chở hàng",
+  "보기4": "④ Người điều khiển xe Hydro chuyên dụng",
+  "정답": 2
+ },
+ {
+  "id": 37,
+  "문제": "37. Đặc điểm nào sau đây của lốp xe có ảnh hưởng nhiều nhất đến hiệu suất tiêu thụ năng lượng của xe ô tô?",
+  "보기1": "① Lực phanh trên đường",
+  "보기2": "② Sức chịu mòn",
+  "보기3": "③ Chống lăn",
+  "보기4": "④ Lực bám mặt đường",
+  "정답": 3
+ },
+ {
+  "id": 38,
+  "문제": "38. Mức xử phạt đối với người lái xe biết là sản phẩm dầu giả nhưng vẫn dùng làm nhiên liệu cho xe?",
+  "보기1": "① Phạt tiền hành chính từ 50.000 Won đến 100.000 Won",
+  "보기2": "② Phạt tiền hành chính từ 500.000 Won đến 1 triệu Won",
+  "보기3": "③ Phạt tiền hành chính từ 2 triệu Won đến 20 triệu Won",
+  "보기4": "④ Không bị xử phạt.",
+  "정답": 3
+ },
+ {
+  "id": 39,
+  "문제": "39. Nội dung nào sau đây không đúng với trạm sạc xe ô tô điện?",
+  "보기1": "ⓛ Trạm sạc công cộng có nghĩa là thiết bị sạc được lắp đặt ở các trạm dừng chân, siêu thị lớn, cơ quan nhànước.",
+  "보기2": "② Có hai cách sạc xe điện là sạc chậm sử dụng dòng điện xoay chiều và sạc chậm sử dụng dòng điện mộtchiều.",
+  "보기3": "③ Chỉ những xe đã đăng ký trước mới có thể sử dụng trạm sạc công cộng.",
+  "보기4": "④ Trường hợp có đất thuộc sở hữu của bản thân thì có thể lắp đặt trạm sạc dùng cho cá nhân.",
+  "정답": 3
+ },
+ {
+  "id": 40,
+  "문제": "40. Nội dung nào không phải là vấn đề có thể xảy ra với ô tô khi đổ xăng dầu giả?",
+  "보기1": "① Tăng tiếng ồn của động cơ do ăn mòn và hỏng bộ cung cấp nhiên liệu",
+  "보기2": "② Giảm công suất và hiệu suất nhiên liệu do hỏng kim phun phun nhiên liệu",
+  "보기3": "③ Giảm công suất do giảm ma sát động cơ và tăng độ bôi trơn",
+  "보기4": "④ Bị tắt máy do hỏng bơm cao áp cung cấp nhiên liệu",
+  "정답": 3
+ },
+ {
+  "id": 41,
+  "문제": "41. Trước khi lên xe, người điều khiển xe phải kiểm tra điều gì ở xung quanh? Hãy chọn 2 đáp án đúng.",
+  "보기1": "① Trạng thái mòn của bánh xe.",
+  "보기2": "② Có hay không có chướng ngại vật phía trước và sau xe.",
+  "보기3": "③ Bảng điều khiển trước ghế lái có hoạt động bình thường hay không.",
+  "보기4": "④ Bàn đạp phanh có hoạt động bình thường hay không.",
+  "정답": 1.2
+ },
+ {
+  "id": 42,
+  "문제": "42. Thông thường màu sắc nào xuất hiện trên cửa sổ kiểm tra khi tuổi thọ của bình ắc quy bảo trì miễn phí đãhết?",
+  "보기1": "① Màu vàng",
+  "보기2": "② Màu trắng",
+  "보기3": "③ Màu đen",
+  "보기4": "④ Màu xanh lá",
+  "정답": 2
+ },
+ {
+  "id": 43,
+  "문제": "43. Sản phẩm nào sau đây không được xem là sản phẩm xăng dầu giả khi được sử dụng làm nhiên liệu cho xeô tô?",
+  "보기1": "① Sản phẩm lẫn metanol vào xăng",
+  "보기2": "② Sản phẩm lẫn khoảng dưới 5% xăng cao cấp với xăng thường",
+  "보기3": "③ Sản phẩm lẫn dầu diesel với dầu hỏa",
+  "보기4": "④ Sản phẩm lẫn khoảng dưới 5% nước trong dầu diesel",
+  "정답": 4
+ },
+ {
+  "id": 44,
+  "문제": "44. Cách nào không phải là cách có thể kiểm tra rò rỉ khí Hydro?",
+  "보기1": "① Sử dụng máy dò khí dễ cháy để đo",
+  "보기2": "② Kiểm tra bằng nước xà phòng",
+  "보기3": "③ Kiểm tra bằng cách ngửi khí gas",
+  "보기4": "④ Kiểm tra bằng máy dò Hydro",
+  "정답": 3
+ },
+ {
+  "id": 45,
+  "문제": "45. Nội dung nào không đúng với quy tắc an toàn khi sử dụng xe chạy bằng Hydro?",
+  "보기1": "① Tắt máy trước khi sạc.",
+  "보기2": "② Khi hút thuốc lá tại điểm nạp nhiên liệu, phải hút ở nơi cách xa xe.",
+  "보기3": "③ Khi khí Hydro bị rò rỉ, hãy yêu cầu người quản lý an toàn tại điểm nạp nhiên liệu kiểm tra an toàn.",
+  "보기4": "④ Sau khi xảy ra tai nạn giao thông va chạm với xe chạy bằng Hydro, chỉ sử dụng sau khi đã kiểm tra an toànvề khí gas.",
+  "정답": 2
+ },
+ {
+  "id": 46,
+  "문제": "46. Vị trí nào sau đây không cần kiểm tra rò rỉ trên xe chạy bằng Hydro?",
+  "보기1": "① Bộ phận kết nối giữa van và bình đựng nhiên liệu",
+  "보기2": "② Bộ điều chỉnh",
+  "보기3": "③ Bộ phận kết nối giữa vòi khí và đường ống",
+  "보기4": "④ Biến tần tăng cường pin nhiên liệu",
+  "정답": 4
+ },
+ {
+  "id": 47,
+  "문제": "47. Sự chênh lệch giữa vết rẽ của bánh phải trước và bánh phải sau khi xe rẽ phải là gì?",
+  "보기1": "① Lực cản vòng quay",
+  "보기2": "② Là hiện tượng chênh lệch giữa bán kính quay vòng của vết bánh xe trước phía ngoài và bánh xe sau phíangoài khi rẽ",
+  "보기3": "③ Bán kính xoay tối thiểu",
+  "보기4": "④ Là hiện tượng chênh lệch giữa bán kính quay vòng của vết bánh xe trước phía trong và bánh xe sau phíatrong khi rẽ",
+  "정답": 4
+ },
+ {
+  "id": 48,
+  "문제": "48. Lượng khí nạp tối đa của bình khí trong xe ô tô LPG là bao nhiêu?",
+  "보기1": "① Từ 100% trở xuống (95% hình vòng xuyến trở xuống)",
+  "보기2": "② Từ 95% trở xuống (90% hình vòng xuyến trở xuống)",
+  "보기3": "③ Từ 85% trở xuống (80% hình vòng xuyến trở xuống)",
+  "보기4": "④ Từ 75% trở xuống (70% hình vòng xuyến trở xuống)",
+  "정답": 3
+ },
+ {
+  "id": 49,
+  "문제": "49. Nội dung nào sau đây không phù hợp với mô tả về đặc điểm nhiên liệu của xe LPG?",
+  "보기1": "① Tồn tại ở dạng khí trong nhiệt độ thông thường.",
+  "보기2": "② LPG dành cho xe thì có mùi đặc biệt.",
+  "보기3": "③ Thường nhẹ hơn không khí.",
+  "보기4": "④ Có nguy cơ cháy nổ cao.",
+  "정답": 3
+ },
+ {
+  "id": 50,
+  "문제": "50. Nội dung nào không đúng với nguyên nhân làm giảm lực phanh của xe ô tô?",
+  "보기1": "① Hỏng xi lanh chính",
+  "보기2": "② Lỗi xi lanh bánh xe",
+  "보기3": "③ Biến dạng chạc bộ ly hợp",
+  "보기4": "④ Phát sinh hiện tượng nghẽn bột khí trong dầu phanh",
+  "정답": 3
+ },
+ {
+  "id": 51,
+  "문제": "51. Nội dung nào không đúng với quy tắc lái xe được gắn thiết bị trợ lái?",
+  "보기1": "① Khi sử dụng thiết bị trợ lái phải thường xuyên kiểm tra xem thiết bị có duy trì hoạt động hay không trướckhi lái.",
+  "보기2": "② Khi có cảnh báo cần can thiệp lái xe phải đợi cho đến khi thiết bị trợ lái tắt rồi mới can thiệp lái xe.",
+  "보기3": "③ Trường hợp đã tắt một phần hoặc toàn bộ thiết bị trợ lái, phải kiểm tra xem thiết bị còn hoạt động không.",
+  "보기4": "④ Ngay cả khi thiết bị trợ lái đang hoạt động, cũng phải luôn điều khiển xe ở tư thế chờ có thể can thiệp láixe ngay tức thì.",
+  "정답": 2
+ },
+ {
+  "id": 52,
+  "문제": "52. Nội dung nào là giải thích không đúng về tính năng trợ giúp để điều khiển xe ô tô an toàn và thuận tiện?",
+  "보기1": "① LFA (Lane Following Assist) là tính năng “Trợ giúp duy trì đúng làn xe”, hỗ trợ xe luôn chạy ở giữa làn đường.",
+  "보기2": "② ASCC (Adaptive Smart Crusise Control) là tính năng “Duy trì tốc độ và khoảng cách giữa các xe” để lưu thôngvới tốc độ lái xe đã cài đặt và cho phép tự tăng - giảm tốc bằng cách duy trì cự ly với xe phía trước.",
+  "보기3": "③ ABSD (Active Blind Spot Detection) là tính năng “Nhận diện điểm mù” phát hiện nguy cơ va chạm trong khuvực điểm mù để hỗ trợ đổi làn đường an toàn.",
+  "보기4": "④ AEB (Autonomous Emergency Braking) là tính năng “Tự động phanh khẩn cấp” giúp giảm khoảng cách phanhbằng cách ngăn không cho bánh xe bị khóa khi đạp phanh.",
+  "정답": 4
+ },
+ {
+  "id": 53,
+  "문제": "53. Nội dung nào là giải thích không đúng về hệ thống lái xe tự động theo Pháp lệnh Giao thông Đường bộ?",
+  "보기1": "① “Lái xe” theo Luật Giao thông Đường bộ không bao hàm việc sử dụng hệ thống lái xe tự động theo phươngpháp sử dụng xe sức kéo trên đường.",
+  "보기2": "② Người điều khiển xe khi sử dụng hệ thống lái xe tự động để lái xe không bị áp dụng quy định cấm sử dụngđiện thoại di động.",
+  "보기3": "③ Tiền phạt đối với người điều khiển xe ô tô chở người lái tự động không đáp ứng ngay lập tức yêu cầu lái xetrực tiếp của hệ thống lái xe tự động là 40,000 Won.",
+  "보기4": "④ “Hệ thống lái xe tự động” bao gồm thiết bị tự động hóa, phần mềm và tất cả các trang thiết bị có liên quankhác, có khả năng tự nhận diện và phán đoán tình hình xung quanh cũng như thông tin trên đường để điềukhiển xe mà không cần thao tác của người điều khiển xe hay hành khách.",
+  "정답": 1
+ },
+ {
+  "id": 54,
+  "문제": "54. Bộ phận nào sau đây không phải là bộ phận cấu tạo chính của Xe Hydro?",
+  "보기1": "① Pin nhiên liệu",
+  "보기2": "② Động cơ xoay",
+  "보기3": "③ Động cơ",
+  "보기4": "④ Pin",
+  "정답": 3
+ },
+ {
+  "id": 55,
+  "문제": "55. Lực quay (lực sinh ra tức thời) sinh ra ở trục khuỷu của động cơ đốt trong của ô tô sinh ra gì?",
+  "보기1": "① Ngẫu lực",
+  "보기2": "② Hiệu suất nhiên liệu",
+  "보기3": "③ Lượng khí thải",
+  "보기4": "④ Mã lực",
+  "정답": 1
+ },
+ {
+  "id": 56,
+  "문제": "56. Đèn cảnh báo nào dưới đây đưa ra cảnh báo động cơ quá nóng cho người lái xe?",
+  "보기1": "① Đèn cảnh báo phanh",
+  "보기2": "② Đèn cảnh báo nhiệt độ nước",
+  "보기3": "③ Đèn cảnh báo nhiên liệu",
+  "보기4": "④ Đèn cảnh báo phanh đỗ xe",
+  "정답": 2
+ },
+ {
+  "id": 57,
+  "문제": "57. Hai nội dung nào không đúng với phương pháp bảo dưỡng xe ô tô điện?",
+  "보기1": "① Nên sử dụng bãi đỗ xe trên mặt đất khi đỗ xe.",
+  "보기2": "② Khi lái xe đường dài, hãy kiểm tra pin và sạc đầy đủ.",
+  "보기3": "③ Ngay sau khi sạc, không nên tăng tốc hoặc dừng đột ngột.",
+  "보기4": "④ Sử dụng máy sưởi không khí sẽ hiệu quả hơn ghế sưởi và tay cầm có sưởi.",
+  "정답": 1.4
+ },
+ {
+  "id": 58,
+  "문제": "58. Theo Pháp lệnh về Giao thông đường bộ thì kính cửa nào phải áp dụng quy định hạn chế tỷ lệ ánh sángnhìn thấy được chiếu qua (ngoại trừ xe buýt đưa đón học sinh)?",
+  "보기1": "① Kính cửa bên ghế sau",
+  "보기2": "② Kính trước và hai bên trái phải của ghế lái",
+  "보기3": "③ Kính phía trước, hai bên trái phải của ghế lái, và phía sau",
+  "보기4": "④ Tất cả các kính",
+  "정답": 2
+ },
+ {
+  "id": 59,
+  "문제": "59. Theo Luật Quản lý xe ô tô, xe ô tô chở người là xe được sản xuất phù hợp để chở từ mấy người trởxuống?",
+  "보기1": "① 10 người",
+  "보기2": "② 12 người",
+  "보기3": "③ 15 người",
+  "보기4": "④ 18 người",
+  "정답": 1
+ },
+ {
+  "id": 60,
+  "문제": "60. Theo Luật Quản lý xe ô tô, thời hạn có hiệu lực cho kỳ kiểm tra đầu tiên của xe ô tô chở người đăng kýmới không dùng cho mục đích kinh doanh là bao lâu?",
+  "보기1": "① 1 năm",
+  "보기2": "② 2 năm",
+  "보기3": "③ 4 năm",
+  "보기4": "④ 6 năm",
+  "정답": 3
+ },
+ {
+  "id": 61,
+  "문제": "61. 2 loại nào sau đây thuộc loại xe ô tô theo Luật Quản lí xe ô tô?",
+  "보기1": "① Máy móc thiết bị thi công",
+  "보기2": "② Xe tải chở hàng hóa",
+  "보기3": "③ Xe máy cày",
+  "보기4": "④ Xe ô tô đặc chủng",
+  "정답": 2.4
+ },
+ {
+  "id": 62,
+  "문제": "62. Nội dung nào đúng là màu của biển số xe dành riêng cho xe ô tô điện chạy bằng nhiên liệu Hydro (ngoạitrừ xe ô tô Hybrid) và xe ô tô điện không dùng để kinh doanh và cho thuê?",
+  "보기1": "① Chữ màu đen trên nền màu vàng",
+  "보기2": "② Chữ màu đen trên nền màu xanh dương",
+  "보기3": "③ Chữ màu trắng trên nền màu xanh thẫm",
+  "보기4": "④ Chữ màu đen trên nền màu ánh tím",
+  "정답": 2
+ },
+ {
+  "id": 63,
+  "문제": "63. Xe nào trong các xe sau đây không thể sử dụng làn đường Hi-pass?",
+  "보기1": "① Xe ben trọng tải 16 tấn",
+  "보기2": "② Xe buýt 2 tầng có ghế ngồi chạy tại Seoul và Suwon",
+  "보기3": "③ Xe cứu hỏa có chiều rộng 3,7m lưu thông trên làn đường đơn",
+  "보기4": "④ Xe cứu hộ cứu nạn cỡ lớn 10 tấn",
+  "정답": 3
+ },
+ {
+  "id": 64,
+  "문제": "64. Theo Luật Quản lý xe ô tô, thời hạn có hiệu lực của việc kiểm tra xe ô tô chở người cỡ nhỏ là bao nhiêulâu?",
+  "보기1": "① 6 tháng",
+  "보기2": "② 1 năm",
+  "보기3": "③ 2 năm",
+  "보기4": "④ 4 năm",
+  "정답": 2
+ },
+ {
+  "id": 65,
+  "문제": "65. Theo Luật Quản lý xe ô tô, thời hạn có hiệu lực của việc kiểm tra phương tiện xe kéo rơ moóc đã hoạtđộng trên 6 năm là bao nhiêu lâu?",
+  "보기1": "① 6 tháng",
+  "보기2": "② 1 năm",
+  "보기3": "③ 2 năm",
+  "보기4": "④ 4 năm",
+  "정답": 3
+ },
+ {
+  "id": 66,
+  "문제": "66. Theo Luật Quản lý xe ô tô, tiêu chuẩn thời gian có hiệu lực của giấy phép lưu thông tạm thời khi mua xe ôtô mới là bao nhiêu lâu?",
+  "보기1": "① Trong vòng 10 ngày",
+  "보기2": "② Trong vòng 15 ngày",
+  "보기3": "③ Trong vòng 20 ngày",
+  "보기4": "④ Trong vòng 30 ngày",
+  "정답": 1
+ },
+ {
+  "id": 67,
+  "문제": "67. Theo Luật Quản lý xe ô tô, nội dung nào dưới đây không phải là lý do để đăng ký thay đổi xe?",
+  "보기1": "① Khi thay đổi khu vực sử dụng xe ô tô",
+  "보기2": "② Khi thay đổi biển số xe",
+  "보기3": "③ Khi thay đổi quyền sở hữu",
+  "보기4": "④ Khi thay đổi tên pháp nhân",
+  "정답": 3
+ },
+ {
+  "id": 68,
+  "문제": "68. Giải thích nào dưới đây là đúng nhất về cách đề phòng hỏa hoạn cho xe ô tô?",
+  "보기1": "① Cần kiểm tra định kỳ hệ thống điện, hệ thống chứa nhiên liệu và bộ phận đánh lửa 6 tháng 1 lần.",
+  "보기2": "② Khi vừa hút thuốc vừa lái xe, nên vứt tàn thuốc ra ngoài cửa để đảm bảo an toàn.",
+  "보기3": "③ Cần bảo quản những đồ như diêm hay bật lửa trong ngăn kéo riêng.",
+  "보기4": "④ Để đề phòng tình huống phát sinh hỏa hoạn, trong xe luôn phải có bình cứu hỏa và người lái cần biết rõ cáchsử dụng.",
+  "정답": 4
+ },
+ {
+  "id": 69,
+  "문제": "69. Doanh nghiệp kinh doanh vận tải hàng hóa theo Luật Kinh doanh vận tải bằng xe tải sẽ phải lưu giữ nhữngghi chép về hành trình trong thiết bị lưu trữ hành trình theo các quy định pháp lý có liên quan trongkhoảng thời gian ( ). Nội dung nào sau đây phù hợp với ( )?",
+  "보기1": "① 3 tháng",
+  "보기2": "② 6 tháng",
+  "보기3": "③ 1 năm",
+  "보기4": "④ 2 năm",
+  "정답": 2
+ },
+ {
+  "id": 70,
+  "문제": "70. Theo Luật Quản lý xe ô tô, người muốn đăng ký chuyển nhượng xe ô tô phải đăng ký trong vòng () ngày kể từ ngày mua. Nội dung nào đúng với quy định khi điền vào vị trí ( )?",
+  "보기1": "① 15 ngày",
+  "보기2": "② 20 ngày",
+  "보기3": "③ 30 ngày",
+  "보기4": "④ 40 ngày",
+  "정답": 1
+ },
+ {
+  "id": 71,
+  "문제": "71. Theo Luật Quản lý xe ô tô, thời gian kiểm tra định kỳ của xe là trong vòng ( ) trước và sau ngày hếthạn hiệu lực của kỳ kiểm tra trước. Nội dung nào đúng với quy định khi điền vào vị trí ( )?",
+  "보기1": "① 31 ngày",
+  "보기2": "② 41 ngày",
+  "보기3": "③ 51 ngày",
+  "보기4": "④ 61 ngày",
+  "정답": 1
+ },
+ {
+  "id": 72,
+  "문제": "72. Theo Luật Đảm bảo bồi thường thiệt hại cho xe ô tô, nội dung nào đúng với tiêu chuẩn xử phạt người sởhữu xe ô tô không tham gia bảo hiểm nghĩa vụ? (Không sử dụng xe để đi lại)",
+  "보기1": "① Phạt tiền hành chính tối đa 3 triệu Won",
+  "보기2": "② Phạt tiền hành chính tối đa 5 triệu Won",
+  "보기3": "③ Phạt tù tối đa 1 năm hoặc phạt tiền tối đa 10 triệu Won",
+  "보기4": "④ Phạt tù tối đa 2 năm hoặc phạt tiền tối đa 20 triệu Won",
+  "정답": 1
+ },
+ {
+  "id": 73,
+  "문제": "73. Theo Luật Quản lý xe ô tô, trường hợp thay đổi quyền sở hữu xe ô tô như thừa kế v.v..., cần đăng ký loạihình nào sau đây?",
+  "보기1": "① Đăng ký mới",
+  "보기2": "② Đăng ký chuyển nhượng",
+  "보기3": "③ Đăng ký thay đổi",
+  "보기4": "④ Đăng ký hủy",
+  "정답": 2
+ },
+ {
+  "id": 74,
+  "문제": "74. Theo Luật Quản lý xe ô tô, đáp án nào sau đây không phải là nội dung chủ sở hữu xe ô tô phải thực hiệnkiểm tra?",
+  "보기1": "① Kiểm tra sửa chữa",
+  "보기2": "② Kiểm tra đặc biệt",
+  "보기3": "③ Kiểm tra điều chỉnh máy",
+  "보기4": "④ Kiểm tra tạm thời",
+  "정답": 2
+ },
+ {
+  "id": 75,
+  "문제": "75. Cơ quan nào dưới đây đảm nhiệm công việc đăng ký chuyển nhượng cho xe đã mua bán?",
+  "보기1": "① Cơ quan Giao thông Đường bộ",
+  "보기2": "② Ủy ban quận - huyện - thành phố",
+  "보기3": "③ Cơ quan An toàn Giao thông Hàn Quốc",
+  "보기4": "④ Sở Cảnh sát tỉnh - thành phố",
+  "정답": 2
+ },
+ {
+  "id": 76,
+  "문제": "76. 2 loại đăng ký nào dưới đây không phải là đăng ký xe?",
+  "보기1": "① Đăng ký sửa chữa",
+  "보기2": "② Đăng ký quyền lợi",
+  "보기3": "③ Đăng ký thiết lập",
+  "보기4": "④ Đăng ký hủy",
+  "정답": 2.3
+ },
+ {
+  "id": 77,
+  "문제": "77. Tiêu chuẩn về tỷ lệ cho phép ánh sáng nhìn thấy được chiếu qua cửa kính phía trước xe ô tô (ngoại trừ xebuýt đưa đón học sinh) nào sau đây là đúng?",
+  "보기1": "① Dưới 40%",
+  "보기2": "② Dưới 50%",
+  "보기3": "③ Dưới 60%",
+  "보기4": "④ Dưới 70%",
+  "정답": 4
+ },
+ {
+  "id": 78,
+  "문제": "78. Thứ tự đạp phanh đúng khi điều khiển xe là?",
+  "보기1": "① Nhận thức nguy hiểm → Phán đoán tình huống → Phát lệnh hành động → Đạp phanh",
+  "보기2": "② Nhận thức nguy hiểm → Phát lệnh hành động → Phán đoán tình huống → Đạp phanh",
+  "보기3": "③ Phán đoán tình huống → Nhận thức nguy hiểm → Phát lệnh hành động → Đạp phanh",
+  "보기4": "④ Phát lệnh hành động → Nhận thức nguy hiểm → Phán đoán tình huống → Đạp phanh",
+  "정답": 1
+ },
+ {
+  "id": 79,
+  "문제": "79. Nội dung nào sau đây khác xa nhất với điều kiện chuẩn bị túi khí SRS được gắn trong xe ô tô?",
+  "보기1": "① Độ bền kéo và khả năng chịu nhiệt ở nhiệt độ cao",
+  "보기2": "② Độ bền kéo và khả năng chịu nhiệt ở nhiệt độ thấp",
+  "보기3": "③ Chịu được sức nổ, sức chịu mài mòn và tính dẻo",
+  "보기4": "④ Tối đa hóa năng lượng va đập khi tiếp xúc với người lái xe",
+  "정답": 4
+ },
+ {
+  "id": 80,
+  "문제": "80. Khi lên xuống xe, người lái xe và những người trên xe cần chú ý điều gì?",
+  "보기1": "① Khi lên xuống xe cần chú ý quan sát xem có xe từ phía sau đang đi tới hay không.",
+  "보기2": "② Khi mở cửa thì phải mở hết rồi xuống xe ngay.",
+  "보기3": "③ Lái xe cần chú ý quan sát phía trước khi người ngồi ghế sau xuống xe.",
+  "보기4": "④ Không cần tắt động cơ nếu chỉ tạm thời rời ghế lái.",
+  "정답": 1
+ },
+ {
+  "id": 81,
+  "문제": "81. Liên kết nào sau đây là phương pháp lái xe đúng theo Luật Giao thông đường bộ?",
+  "보기1": "① Đường đi bộ trước trường học - Vừa đi qua vừa bóp còi xe để báo cho trẻ em biết là có xe đang đi ngangqua.",
+  "보기2": "② Lối đi ngang đường ray xe lửa - Trong trường hợp thanh chắn đường đang chuẩn bị được hạ xuống thì điqua một cách nhanh chóng.",
+  "보기3": "③ Đoạn đường giao nhau không có đèn tín hiệu - Trong trường hợp muốn rẽ phải thì đi chậm chậm về phíalàn đường bên phải ngoài cùng trước rồi mới rẽ phải.",
+  "보기4": "④ Khi lái xe ban đêm - Trong trường hợp xe đi đối diện nhau thì điều chỉnh đèn trước theo hướng chiếu lêntrên để cho người lái xe phía đối diện chú ý.",
+  "정답": 3
+ },
+ {
+  "id": 82,
+  "문제": "82. Nội dung nào sau đây đúng với quy định vượt lên trước?",
+  "보기1": "① Khi ở trong đường hầm, có thể vượt lên trước vào ban ngày nhưng không được vượt lên trước vào banđêm.",
+  "보기2": "② Khi vượt lên trước, có thể bật đèn phía trước và bóp còi rồi vượt lên theo hướng bên phải hoặc trái.",
+  "보기3": "③ Trên cầu hay ở đoạn đường giao nhau là những khu vực cấm vượt nên không thể vượt lên trước.",
+  "보기4": "④ Không được vượt lên khi bên phải của xe trước có xe khác đang đi kế sát bên.",
+  "정답": 3
+ },
+ {
+  "id": 83,
+  "문제": "83. Nội dung nào sau đây không đúng nhất với suy nghĩ đúng đắn mà người điều khiển xe cần có?",
+  "보기1": "① Vì tình hình giao thông không có gì thay đổi nên không cần lên kế hoạch điều khiển xe trước.",
+  "보기2": "② Trong xe luôn để sẵn bình chữa cháy dùng cho xe ô tô để phòng xảy ra cháy.",
+  "보기3": "③ Không để trong xe các vật dụng dễ cháy như bật lửa.",
+  "보기4": "④ Điều khiển xe quan tâm đến những người mới lái xe.",
+  "정답": 1
+ },
+ {
+  "id": 84,
+  "문제": "84. Nội dung nào sau đây phù hợp nhất với hành vi lái xe đúng của người lái xe?",
+  "보기1": "① Lái xe trong khi buồn ngủ có nguy cơ gây tai nạn giao thông, vì vậy phải dừng ở lề đường để nghỉ ngơi.",
+  "보기2": "② Người mới lái xe chạy vượt trên đường cao tốc và tiếp tục lái xe trên làn xe.",
+  "보기3": "③ Lắp đặt thiết bị cản trở chức năng của thiết bị dùng để kiểm soát giao thông và lái xe.",
+  "보기4": "④ Khi phát hiện yếu tố gây nguy hiểm đến an toàn giao thông thì phải thông báo cho xung quanh bằng đènnhấp nháy khẩn cấp.",
+  "정답": 4
+ },
+ {
+  "id": 85,
+  "문제": "85. Nội dung nào sau đây không phù hợp nhất với suy nghĩ đúng đắn mà người điều khiển xe cần có?",
+  "보기1": "① Có thói quen điều khiển xe đúng đắn như lưu thông với tốc độ ổn định",
+  "보기2": "② Đi vào làn đường phụ (sát mép đường) khi đường bị tắc",
+  "보기3": "③ Nghĩ rằng Luật Giao thông là cam kết giữa các bên",
+  "보기4": "④ Ưu tiên cho người đi bộ hơn là để xe ô tô lưu thông nhanh chóng",
+  "정답": 2
+ },
+ {
+  "id": 86,
+  "문제": "86. Nếu tai nạn giao thông xảy ra do vi phạm luật giao thông, điều nào dưới đây cách xa với trách nhiệm củangười điều khiển phương tiện nhất?",
+  "보기1": "① Trách nhiệm hình sự",
+  "보기2": "② Trách nhiệm hành chính",
+  "보기3": "③ Trách nhiệm dân sự",
+  "보기4": "④ Trách nhiệm thông cáo",
+  "정답": 4
+ },
+ {
+  "id": 87,
+  "문제": "87. Nội dung nào không đúng với cách xử lý ứng phó của người lái xe tại hiện trường xảy ra tai nạn giaothông khi đang lái xe trên đường cao tốc?",
+  "보기1": "① Xử lý cấp cứu theo mức độ chấn thương của người đi cùng xe.",
+  "보기2": "② Trấn an người đi cùng.",
+  "보기3": "③ Sắp xếp giao thông phía sau xe bị tai nạn cho đến khi cảnh sát đến.",
+  "보기4": "④ Di chuyển đến nơi an toàn để phòng ngừa tai nạn thứ cấp.",
+  "정답": 3
+ },
+ {
+  "id": 88,
+  "문제": "88. Nội dung nào đúng nhất với hành vi của người điều khiển xe ô tô chở người trong trường hợp có trẻ em đicùng trên xe?",
+  "보기1": "① Người lớn ngồi ở ghế cạnh ghế lái ôm trẻ và thắt dây an toàn.",
+  "보기2": "② Nếu trẻ ngồi ở ghế sau ghế lái thì chỉ cần thắt dây an toàn, không cần chuẩn bị ghế ngồi ô tô cho bé.",
+  "보기3": "③ Trong lúc điều khiển xe mà trẻ quấy khóc thì cho trẻ ngồi cùng với ghế lái, thắt dây an toàn để dỗ trẻ.",
+  "보기4": "④ Khi có trẻ em đi cùng, bất kể là đoạn đường nào đều phải cho trẻ ngồi ở ghế ngồi ô tô cho bé và thắt dâyan toàn.",
+  "정답": 4
+ },
+ {
+  "id": 89,
+  "문제": "89. Chọn 2 câu đúng với các nội dung mà người điều khiển phương tiện phải tuân thủ.",
+  "보기1": "① Tạm thời dừng lại khi có nguy cơ xảy ra tai nạn giao thông đối với trẻ em.",
+  "보기2": "② Khi đi qua các nơi vũng nước đọng thì đi chậm lại để tránh không làm ảnh hưởng đến người khác.",
+  "보기3": "③ Không có quy định về độ sáng của cửa kính xe ô tô nên có thể nhuộm màu (dán phim) màu tối.",
+  "보기4": "④ Đi chậm lại khi người đi bộ đi qua lối qua đường.",
+  "정답": 1.2
+ },
+ {
+  "id": 90,
+  "문제": "90. Trong các hành vi sau, 2 hành vi điều khiển xe đúng của người điều khiển xe trên đường cao tốc là?",
+  "보기1": "① Khi mệt mỏi, dừng xe ở làn đường phụ để nghỉ ngơi, ổn định lại rồi mới tiếp tục xuất phát.",
+  "보기2": "② Vừa xem video yêu thích vừa điều khiển xe.",
+  "보기3": "③ Nghỉ ngơi và mở cửa cho thoáng khí thường xuyên để ngăn chặn tình trạng buồn ngủ khi điều khiển xe.",
+  "보기4": "④ Không chỉ trước khi xuất phát mà ngay cả trong lúc đang nghỉ, cũng phải luôn kiểm tra các yếu tố nguy hiểmtrên đường cho đến khi đến nơi.",
+  "정답": 3.4
+ },
+ {
+  "id": 91,
+  "문제": "91. Điều nào sau đây không đúng nhất với những điều người lái xe cần chuẩn bị để lái xe an toàn?",
+  "보기1": "① Chấn chỉnh tình trạng cơ thể không bị lơ là chú ý.",
+  "보기2": "② Mặc quần áo thoải mái để điều khiển thiết bị lái và phù hợp với việc lái xe.",
+  "보기3": "③ Chuẩn bị các dụng cụ phát tín hiệu khẩn cấp như đèn cầm tay màu đỏ v.v...",
+  "보기4": "④ Để tiết kiệm nhiên liệu nên khởi động làm nóng động cơ trước khi khởi hành 10 phút.",
+  "정답": 4
+ },
+ {
+  "id": 92,
+  "문제": "92. Hai nội dung phù hợp nhất về khả năng tập trung khi đang lái xe là gì?",
+  "보기1": "① Khi lái xe, việc nói chuyện liên tục với người đi cùng làm tăng khả năng tập trung.",
+  "보기2": "② Tốt nhất là bỏ các thứ làm hạn chế tầm nhìn của người lái.",
+  "보기3": "③ Sự tập trung khi đang lái xe không liên quan gì với việc lái xe an toàn.",
+  "보기4": "④ Tốt nhất là lắp đặt TV/DMB vào ghế sau để chỉ có những người ngồi ghế sau xem được.",
+  "정답": 2.4
+ },
+ {
+  "id": 93,
+  "문제": "93. Theo Luật Giao thông đường bộ, trường hợp có trẻ em đi cùng trên xe ô tô (ngoại trừ xe mô tô hai bánh)thì phải sử dụng trang bị bảo hộ trẻ em. Độ tuổi nào sau đây là tiêu chuẩn về độ tuổi của trẻ em?",
+  "보기1": "① Từ 8 tuổi trở xuống",
+  "보기2": "② Dưới 8 tuổi",
+  "보기3": "③ Dưới 6 tuổi",
+  "보기4": "④ Từ 6 tuổi trở xuống",
+  "정답": 3
+ },
+ {
+  "id": 94,
+  "문제": "94. Nội dung nào không đúng với quy định và cách điều khiển thiết bị di chuyển cá nhân an toàn theo Pháp lệnhGiao thông Đường bộ?",
+  "보기1": "① Khi đi trên đường vào ban đêm, người điều khiển xe phải bật đèn pha trước và đèn hậu.",
+  "보기2": "② Vì số người được phép đi trên xe Kickboard điện - một loại phương tiện di chuyển cá nhân, là 1 người nênkhông được đi 2 người.",
+  "보기3": "③ Thiết bị di chuyển cá nhân bao gồm các thiết bị phù hợp cho cá nhân di chuyển như xe điện hai bánh, xeKickboard điện, xe đạp điện, bánh xe điện, xe scooter điện v.v...",
+  "보기4": "④ Xe đạp điện chỉ di chuyển bằng động cơ điện có thể đi được 2 người.",
+  "정답": 3
+ },
+ {
+  "id": 95,
+  "문제": "95. Nội dung nào sau đây là giải thích đúng về việc thắt dây an toàn trên xe ô tô (trừ mô tô hai bánh)?",
+  "보기1": "① Nếu trẻ em dưới 13 tuổi không thắt dây an toàn, người điều khiển xe bị phạt vi cảnh 100,000 Won.",
+  "보기2": "② Nếu người đi cùng từ 13 tuổi trở lên không thắt dây an toàn, người điều khiển xe bị phạt vi cảnh 30,000 Won.",
+  "보기3": "③ Khi lưu thông trên đường thông thường, chỉ có người điều khiển xe và người đi cùng ngồi cạnh ghế lái cónghĩa vụ phải thắt dây an toàn.",
+  "보기4": "④ Tất cả người ngồi trên xe đều có nghĩa vụ phải thắt dây an toàn nhưng với trẻ dưới 3 tuổi thì chỉ cần ngườibảo hộ ôm là có thể đi cùng.",
+  "정답": 2
+ },
+ {
+  "id": 96,
+  "문제": "96. Nội dung nào sau đây là hành vi lái xe giúp phòng tránh tai nạn giao thông?",
+  "보기1": "① Sử dụng đèn xi nhan để chỉ rõ hướng di chuyển của mình",
+  "보기2": "② Thường xuyên có thao tác điều khiển bất ngờ và phanh gấp",
+  "보기3": "③ Phỏng đoán hướng có lợi cho bản thân và lái theo hướng đó",
+  "보기4": "④ Trả đũa các tài xế khác có hành vi lái xe vi phạm quy định pháp luật",
+  "정답": 1
+ },
+ {
+  "id": 97,
+  "문제": "97. Nội dung nào sau đây là hành vi lái xe không đúng nhất của người lái xe?",
+  "보기1": "① Lái xe theo luồng giao thông và duy trì tốc độ quy định.",
+  "보기2": "② Trường hợp là người mới bắt đầu lái xe, nên sử dụng làn đường phụ trên đường cao tốc để không gây cảntrở luồng giao thông.",
+  "보기3": "③ Không cãi nhau trong khi xe đang đỗ trên đường.",
+  "보기4": "④ Người có giấy phép tập lái xe phải đi cùng với người khác khi lái xe theo quy định của pháp luật.",
+  "정답": 2
+ },
+ {
+  "id": 98,
+  "문제": "98. Câu nào sau đây đúng khi giải thích về việc nhường đường khi lái xe?",
+  "보기1": "① Khi đang tiếp tục đi với tốc độ chậm thì tránh vào lề đường bên trái để nhường đường.",
+  "보기2": "② Đi với tốc độ nhanh khi có xe khẩn cấp đi đằng sau.",
+  "보기3": "③ Ở đoạn đường giao nhau, phải nhường tất cả các xe khác mà không cần quan tâm đến quyền ưu tiên.",
+  "보기4": "④ Xe đang đi trên đường có biển báo nhường đường phải nhường làn đường cho xe chạy trên đường khác.",
+  "정답": 4
+ },
+ {
+  "id": 99,
+  "문제": "99. Theo Luật Tăng cường tiện ích di chuyển cho người yếu thế trong giao thông, người nào dưới đây khôngthuộc nhóm này?",
+  "보기1": "① Người cao tuổi",
+  "보기2": "② Phụ nữ mang thai",
+  "보기3": "③ Người đi cùng trẻ sơ sinh, trẻ nhỏ",
+  "보기4": "④ Người đi cùng thú cưng",
+  "정답": 4
+ },
+ {
+  "id": 100,
+  "문제": "100. Theo Luật Tăng cường tiện ích di chuyển cho người yếu thế trong giao thông, nội dung nào khó được xemlà 'Cơ sở tiện ích an toàn cho đi bộ' dành cho những người yếu thế trong giao thông?",
+  "보기1": "① Công trình giảm tốc độ",
+  "보기2": "② Làn đường dành riêng cho xe đạp",
+  "보기3": "③ Trang thiết bị hướng dẫn về giao thông như phương tiện thông báo thông tin giao thông công cộng",
+  "보기4": "④ Đèn tín hiệu giao thông ưu tiên cho người đi bộ",
+  "정답": 2
+ },
+ {
+  "id": 101,
+  "문제": "101. Theo Luật Giao thông đường bộ, trường hợp nào sau đây phải lái xe đi chậm?",
+  "보기1": "① Khi đèn tín hiệu ở giao lộ đang nhấp nháy màu đỏ",
+  "보기2": "② Khi đi qua giao lộ không có điều khiển giao thông và lưu lượng giao thông đông đúc",
+  "보기3": "③ Khi đi qua giao lộ không có điều khiển giao thông",
+  "보기4": "④ Trường hợp đổi làn xe gần giao lộ",
+  "정답": 3
+ },
+ {
+  "id": 102,
+  "문제": "102. Chọn phương pháp lái xe đúng nhất trong trường hợp rẽ trái ở đoạn đường giao nhau khi đang bị ùn tắcgiao thông?",
+  "보기1": "① Tiến vào theo chiếc xe phía trước nếu có thể.",
+  "보기2": "② Khi có đèn xanh thì tiến vào cũng không sao.",
+  "보기3": "③ Dù có tín hiệu đèn đỏ nhưng nếu có khoảng trống thì vẫn tiến vào.",
+  "보기4": "④ Dù tín hiệu đèn mũi tên màu xanh bật sáng nhưng vẫn không lái xe tiến vào.",
+  "정답": 4
+ },
+ {
+  "id": 103,
+  "문제": "103. Chọn cách lái xe đúng khi đi vào đường cao tốc?",
+  "보기1": "① Nhất định phải tạm dừng để quan sát giao thông rồi sau đó mới nhanh chóng đi vào.",
+  "보기2": "② Tạm dừng trước khi đi vào, nếu trường hợp có xe thì nhanh chóng đi vào.",
+  "보기3": "③ Mặc dù thiếu không gian để đi vào nhưng vì nghĩ cho xe ở phía sau nên cứ thế đi vào.",
+  "보기4": "④ Sử dụng làn đường tăng tốc và duy trì tốc độ, sau khi xác định có đủ không gian thì mới tiến vào.",
+  "정답": 4
+ },
+ {
+  "id": 104,
+  "문제": "104. Xe A đang đi chậm ở làn đường bên phải làn đường chính trên đường cao tốc. Lúc này, cách phù hợpnhất khi chuyển sang làn đường chính an toàn của xe B là cách nào?",
+  "보기1": "① Từ từ tăng tốc và đi vào làn đường chính sau khi xe A đi qua.",
+  "보기2": "② Tăng tốc và lợi dụng đường trống để vào làn.",
+  "보기3": "③ Dừng xe ở cuối làn đường tăng tốc và chờ cho xe A đi qua rồi tiến vào.",
+  "보기4": "④ Tiếp tục lái xe với tốc độ giống với xe A ở làn đường tăng tốc.",
+  "정답": 1
+ },
+ {
+  "id": 105,
+  "문제": "105. Hành vi nào là hành vi lái xe đúng đắn nhất của người lái xe khi trẻ em đi sang đường mà không cóngười giám hộ?",
+  "보기1": "① Bấm còi liên tục để trẻ có thể băng qua đường nhanh chóng.",
+  "보기2": "② Đảm bảo an toàn cho trẻ em qua đường bằng cách đi chậm lại.",
+  "보기3": "③ Tạm dừng xe để đảm bảo an toàn cho trẻ em qua đường.",
+  "보기4": "④ Đảm bảo an toàn cho trẻ em đi qua đường bằng cách đi qua nhanh.",
+  "정답": 3
+ },
+ {
+  "id": 106,
+  "문제": "106. Theo Luật Giao thông đường bộ, cách lái xe an toàn nhất khi vào đoạn đường giao không thể quan sátbên phải - bên trái và không có đèn tín hiệu là gì?",
+  "보기1": "① Tùy theo tình hình xung quanh, đi từ từ kiểm tra an toàn rồi sau đó đi qua.",
+  "보기2": "② Bấm còi và nháy đèn pha trước, sau đó tiến vào rồi đi chậm qua.",
+  "보기3": "③ Nhất định phải tạm dừng, sau đó kiểm tra an toàn rồi đi qua theo thứ tự lái xe ưu tiên.",
+  "보기4": "④ Xe tiến vào trước được ưu tiên trước nhất nên vừa nhìn xung quanh vừa đi qua nhanh chóng.",
+  "정답": 3
+ },
+ {
+  "id": 107,
+  "문제": "107. Yếu tố nguy hiểm nhất khi rẽ trái ở đường giao nhau là gì?",
+  "보기1": "① Người đi bộ đi qua vạch sang đường của đường bên phải",
+  "보기2": "② Xe môtô hai bánh chạy từ phía sau tới ở làn đường bên phải",
+  "보기3": "③ Xe ô tô con rẽ phải từ đường phía bên trái",
+  "보기4": "④ Xe đạp rẽ phải từ đường phía đối diện",
+  "정답": 4
+ },
+ {
+  "id": 108,
+  "문제": "108. Giải thích nào đúng nhất về tư thế của người lái phương tiện di chuyển cá nhân theo Luật Giao thôngđường bộ?",
+  "보기1": "① Lái xe phải tránh người đi bộ trong trường hợp lưu thông trên vỉa hè.",
+  "보기2": "② Lái xe phải đặc biệt lưu ý trong trường hợp uống rượu trước khi lái xe.",
+  "보기3": "③ Nếu có lối qua đường dành cho người đi bộ và đường dành cho xe đạp qua đường, phải lái xe trên lànđường dành cho xe đạp qua đường.",
+  "보기4": "④ Lái xe phải tránh người đi bộ sử dụng làn đường dành cho người đi bộ qua đường trong trường hợp băngqua vạch đi bộ qua đường.",
+  "정답": 3
+ },
+ {
+  "id": 109,
+  "문제": "109. Nội dung nào đúng với chính sách an toàn giao thông 5030 về tốc độ an toàn?",
+  "보기1": "① Tối đa 50 km/giờ trên đường dành riêng cho xe ô tô và tối đa 30 km/giờ trên đường nhánh ở khu vực dâncư trong khu đô thị",
+  "보기2": "② Tối đa 50 km/giờ trên đường thông thường ở khu vực đô thị và tối đa 30 km/giờ trên đường nhánh ở khuvực dân cư trong khu đô thị",
+  "보기3": "③ Tối đa 50 km/giờ trên đường dành riêng cho ô tô và tối đa 30 km/giờ trong khu vực bảo vệ trẻ em",
+  "보기4": "④ Tối đa 50 km/giờ trên đường thông thường ở khu vực đô thị và tối đa 30 km/giờ trên đường dành cho xeđạp",
+  "정답": 2
+ },
+ {
+  "id": 110,
+  "문제": "110. Chọn 2 câu đúng về trường hợp hay địa điểm phải đi chậm lại khi đang lái xe?",
+  "보기1": "① Đoạn đường giao nhau không có đèn tín hiệu giao thông",
+  "보기2": "② Khi các em nhỏ qua đường mà không có người bảo hộ",
+  "보기3": "③ Khi người mù cầm gậy màu trắng đang đi qua đường",
+  "보기4": "④ Ở gần đoạn đường quanh co",
+  "정답": 1.4
+ },
+ {
+  "id": 111,
+  "문제": "111. Hai nội dung nào sau đây đúng nhất với cách lưu thông trong vòng xuyến?",
+  "보기1": "① Xe đang chạy trong vòng xuyến là xe được ưu tiên.",
+  "보기2": "② Khi muốn tiến vào vòng xuyến, phải tiến vào thật nhanh.",
+  "보기3": "③ Khi tiến vào vòng xuyến, phải bật đèn nháy khẩn cấp để báo hiệu sẽ tiến vào.",
+  "보기4": "④ Trong vòng xuyến lưu thông theo chiều ngược chiều kim đồng hồ.",
+  "정답": 1.4
+ },
+ {
+  "id": 112,
+  "문제": "112. Chọn 2 câu đúng khi đi trên đường cao tốc?",
+  "보기1": "① Phải thắt dây an toàn ở tất cả các chỗ ngồi khi đi trên đường cao tốc.",
+  "보기2": "② Các xe đang đi trên đường cao tốc phải nhường đường cho xe tiến vào.",
+  "보기3": "③ Nếu đang chạy xe trên đường cao tốc thì dù có xe cấp cứu đang tiến vào cũng không cần nhường đường.",
+  "보기4": "④ Khi đi phải mang theo biển báo hỏng xe (bao gồm cả biển tam giác cảnh báo an toàn).",
+  "정답": 1.4
+ },
+ {
+  "id": 113,
+  "문제": "113. Hãy chọn 2 câu giải thích đúng?",
+  "보기1": "① Biểu thị nhường đường ở trên mặt đường là hình tam giác '△'' màu trắng.",
+  "보기2": "② Xe đang chạy trên làn đường có biển báo nhường đường phải nhường đường cho các xe đang lưu thôngtrên làn đường khác.",
+  "보기3": "③ Khi muốn đổi làn ở đường thông thường, phải bật tín hiệu từ nơi cách chỗ đổi làn trên 30m.",
+  "보기4": "④ Để đảm bảo giao thông thông thoáng, phải tăng tốc điều khiển xe chạy sát nhau.",
+  "정답": 2.3
+ },
+ {
+  "id": 114,
+  "문제": "114. Chọn 2 nội dung giải thích đúng về nhường đường ở đường giao nhau không được phân luồng giaothông?",
+  "보기1": "① Người lái xe định rẽ trái phải nhường đường cho xe định rẽ phải hoặc xe đi thẳng.",
+  "보기2": "② Người lái xe đang định đi vào đường giao nhau không có nghĩa vụ phải nhường đường cho xe đang rẽ tráiở trong đường giao nhau.",
+  "보기3": "③ Trong trường hợp có xe từ đường hẹp cũng đang đi vào đường giao nhau thì người lái xe đang định tiếnvào đường giao nhau không được nhường đường cho xe đó.",
+  "보기4": "④ Khi các xe có cùng thứ bậc ưu tiên đồng thời định tiến vào đường giao nhau thì phải nhường đường cho xecủa đường bên phải.",
+  "정답": 1.4
+ },
+ {
+  "id": 115,
+  "문제": "115. Hai nội dung nào không đúng với giải thích về phương tiện di chuyển cá nhân theo Pháp lệnh về Giaothông đường bộ?",
+  "보기1": "① Không được khởi động động cơ khi lưu thông với tốc độ từ 25 km/giờ trở lên.",
+  "보기2": "② Bao gồm xe trượt điện Kickboard, ván trượt hai bánh, ván trượt điện.",
+  "보기3": "③ Xe đạp thuộc nhóm này.",
+  "보기4": "④ Bao gồm xe đạp điện có động cơ với công suất tối đa từ 11 kW trở xuống.",
+  "정답": 2.4
+ },
+ {
+  "id": 116,
+  "문제": "116. Hành vi nào dưới đây của người lái xe dễ gây ra tai nạn nhất?",
+  "보기1": "① Người lái xe chỉ tập trung vào lái xe",
+  "보기2": "② Người lái xe có thói quen khởi hành bất ngờ, phanh gấp và chuyển làn đột ngột",
+  "보기3": "③ Người lái xe giữ khoảng cách an toàn với xe đạp và xe môtô hai bánh",
+  "보기4": "④ Người lái xe kiên nhẫn và không vội vàng",
+  "정답": 2
+ },
+ {
+  "id": 117,
+  "문제": "117. Nội dung nào sau đây không đúng nhất với thái độ lái xe đúng đắn của người điều khiển xe?",
+  "보기1": "① Ghi nhớ ưu tiên tín hiệu điều khiển của cảnh sát giao thông hơn là tín hiệu đèn giao thông.",
+  "보기2": "② Phải nắm rõ Luật Giao thông đã sửa đổi theo sự thay đổi của môi trường giao thông.",
+  "보기3": "③ Khi phát hiện xe khẩn cấp, bất kể đang ở vị trí nào cũng phải tạm dừng xe và nhường đường.",
+  "보기4": "④ Trên đường đang có mưa to hoặc thường có mưa vào mùa mưa, phải chú ý các ổ gà (pothole).",
+  "정답": 3
+ },
+ {
+  "id": 118,
+  "문제": "118. Bạn định tiến vào để đi thẳng qua đoạn đường giao nhau không có điều khiển giao thông. Lúc này, nếu cóxe khác đi vào đường giao nhau và rẽ trái thì cách lái xe đúng của người điều khiển xe là?",
+  "보기1": "① Khi có xe khác, phải nhường đường cho xe đó.",
+  "보기2": "② Dù có xe khác thì xe đi thẳng vẫn là ưu tiên nên cứ đi qua trước.",
+  "보기3": "③ Khi có xe khác, cần kiểm tra hai bên trái phải và nhanh chóng đi qua đoạn đường giao nhau không liên quanđến xe khác đó.",
+  "보기4": "④ Dù có xe khác nhưng nếu làn đường xe bạn đang đi rộng hơn làn đường của xe khác thì cứ tiến vào theoquyền ưu tiên lưu thông.",
+  "정답": 1
+ },
+ {
+  "id": 119,
+  "문제": "119. Nội dung nào là giải thích không đúng về số người đi trên thiết bị di chuyển cá nhân theo Pháp lệnh Giaothông Đường bộ?",
+  "보기1": "① Số người đi trên xe Kickboard điện là 1 người.",
+  "보기2": "② Số người đi trên xe điện hai bánh là 1 người.",
+  "보기3": "③ Số người đi trên xe đạp chỉ chuyển động bằng động cơ là 1 người.",
+  "보기4": "④ Trường hợp vi phạm số người đi trên xe bị phạt tiền vi phạm giao thông 40,000 Won.",
+  "정답": 3
+ },
+ {
+  "id": 120,
+  "문제": "120. Tinh thần lái xe nào dưới đây là tinh thần tốt mà lái xe cần có?",
+  "보기1": "① Tôn trọng tín hiệu giao thông và an toàn",
+  "보기2": "② Ưu tiên cho xe hơn là cho con người",
+  "보기3": "③ Ưu tiên cho xe của mình hơn xe của người khác",
+  "보기4": "④ Tai nạn là kết quả của xui xẻo, không phải do lái xe không tuân thủ luật",
+  "정답": 1
+ },
+ {
+  "id": 121,
+  "문제": "121. Đáp án nào đúng với tiêu chuẩn về trạng thái say rượu bị cấm lái xe được quy định tại Luật Giao thôngđường bộ?",
+  "보기1": "① Lái xe ở trạng thái có nồng độ cồn trong máu vượt quá 0,03%",
+  "보기2": "② Lái xe ở trạng thái có nồng độ cồn trong máu vượt quá 0,08%",
+  "보기3": "③ Lái xe ở trạng thái có nồng độ cồn trong máu vượt quá 0,1%",
+  "보기4": "④ Lái xe ở trạng thái có nồng độ cồn trong máu vượt quá 0,12%",
+  "정답": 1
+ },
+ {
+  "id": 122,
+  "문제": "122. Theo Luật Giao thông đường bộ, người lái xe sẽ bị xử phạt như thế nào khi lái xe trong tình trạng khôngbình thường do quá sức (bao gồm cả lái xe khi buồn ngủ)?",
+  "보기1": "① Không xử phạt",
+  "보기2": "② Phạt tạm giam hoặc nộp phạt tối đa 100.000 Won",
+  "보기3": "③ Phạt tạm giam hoặc nộp phạt tối đa 200.000 Won",
+  "보기4": "④ Phạt tạm giam hoặc nộp phạt tối đa 300.000 Won",
+  "정답": 4
+ },
+ {
+  "id": 123,
+  "문제": "123. Người lái xe mệt mỏi sẽ gây ảnh hưởng đến việc lái xe. Câu nào giải thích đúng về tác động của sự mệtmỏi lên hành động lái xe?",
+  "보기1": "① Phản ứng về những kích thích xung quanh nhanh hơn.",
+  "보기2": "② Thị lực giảm và tầm nhìn mở rộng hơn.",
+  "보기3": "③ Cảm giác và khả năng điều khiển xe giảm.",
+  "보기4": "④ Lái xe tỉ mỉ và có kế hoạch.",
+  "정답": 3
+ },
+ {
+  "id": 124,
+  "문제": "124. Giải thích nào dưới đây về tiêu chuẩn xử phạt đối với lái xe ô tô khi uống rượu bia là sai?",
+  "보기1": "① Khi vi phạm lần đầu, nếu nồng độ cồn trong máu từ 0,2% trở lên thì bị phạt tù từ 2 năm đến 5 năm hoặcphạt tiền hình sự từ 10 triệu Won đến 20 triệu Won",
+  "보기2": "② Khi từ chối kiểm tra nồng độ bia rượu thì bị phạt tù từ 1 năm đến 5 năm hoặc phạt tiền hình sự từ 5 triệuWon đến 20 triệu Won",
+  "보기3": "③ Trường hợp 2 lần vi phạm nồng độ cồn trong máu 0,05% thì bị phạt tù tối đa 1 năm hoặc phạt tiền hình sựtối đa 5 triệu Won",
+  "보기4": "④ Nếu vi phạm lần đầu mà nồng độ cồn trong máu từ 0,08% đến dưới 0,20% thì bị phạt tù từ 1 năm đến 2năm hoặc phạt tiền hình sự từ 5 triệu Won đến 10 triệu Won",
+  "정답": 3
+ },
+ {
+  "id": 125,
+  "문제": "125. Nếu lái xe trong trạng thái mệt mỏi thì khả năng nhận định về tốc độ không đúng. Giải thích nào đúng vềnội dung này?",
+  "보기1": "① Trên đoạn đường hẹp sẽ cảm thấy chậm hơn tốc độ thực tế.",
+  "보기2": "② Ở đoạn đường xung quanh thoáng rộng sẽ cảm thấy nhanh hơn so với thực tế.",
+  "보기3": "③ Có thể xảy ra tai nạn do đánh giá thấp tốc độ của xe đang tiến đến từ phía xa.",
+  "보기4": "④ Không xảy ra tình huống lầm tưởng xe đang dừng lại ở phía trước là xe đang chạy trên đường cao tốc.",
+  "정답": 3
+ },
+ {
+  "id": 126,
+  "문제": "126. Hãy chọn 2 tình huống có thể gây ảnh hưởng đến khoảng cách phản xạ phanh khi lái xe.",
+  "보기1": "① Điều khiển xe khi trời mưa.",
+  "보기2": "② Điều khiển xe trong tình trạng say rượu.",
+  "보기3": "③ Điều khiển xe trong tình trạng lượng dầu phanh không đủ.",
+  "보기4": "④ Điều khiển xe trong tình trạng mệt mỏi.",
+  "정답": 2.4
+ },
+ {
+  "id": 127,
+  "문제": "127. Hãy chọn 2 hình phạt đúng đối với người uống rượu lái xe.",
+  "보기1": "① Người điều khiển xe mà nồng độ cồn trong máu trên 0,08% sẽ bị tước bằng lái xe và bị truy cứu tráchnhiệm hình sự.",
+  "보기2": "② Trường hợp lái xe không chấp hành đo nồng độ cồn theo yêu cầu của cảnh sát hoặc điều khiển xe trongtình trạng nồng độ cồn trong máu trên 0,03% gây tai nạn giao thông có tổn hại về người thì sẽ bị hủy bằnglái xe và bị truy cứu trách nhiệm hình sự.",
+  "보기3": "③ Trường hợp lái xe có nồng độ cồn trong máu từ 0,03% đến dưới 0,08% điều khiển xe lưu thông trên đườngthì sẽ bị cấm lái xe trong 120 ngày và bị truy cứu trách nhiệm hình sự.",
+  "보기4": "④ Người uống rượu trong lúc lái xe lần đầu tiên với nồng độ cồn trong máu từ 0,03% đến dưới 0,08% gâythiệt hại về mặt vật chất thì sẽ bị hủy giấy phép lái xe.",
+  "정답": 1.2
+ },
+ {
+  "id": 128,
+  "문제": "128. Chọn 2 câu giải thích đúng về việc lái xe khi uống rượu trong số các câu sau?",
+  "보기1": "① Trong trường hợp không chấp nhận kết quả thử nồng độ rượu dựa vào đo hô hấp thì có thể thực hiện đohô hấp lại.",
+  "보기2": "② Nếu như đã lái xe xong và đã đi về nhà thì lúc này không cần đảm bảo an toàn giao thông và đề phòngnguy hiểm nữa nên không phải là đối tượng đo nồng độ cồn.",
+  "보기3": "③ Theo Luật Quản lí máy móc thiết bị thi công thì máy móc thiết bị thi công dù không phải là xe hơi nhưngcũng là đối tượng cấm lái khi uống rượu theo Luật Giao thông đường bộ.",
+  "보기4": "④ Dù có lí do chính đáng để được công nhận tình trạng say rượu thì những người từ chối đo nồng độ rượudo cảnh sát giao thông thực hiện cũng sẽ bị tước bỏ bằng lái.",
+  "정답": 3.4
+ },
+ {
+  "id": 129,
+  "문제": "129. Hai nội dung giải thích đúng về lái xe khi mệt mỏi, làm việc quá sức và buồn ngủ?",
+  "보기1": "① Buồn ngủ khi lái xe thường xuyên xảy ra khi đang mệt mỏi, cần tăng lượng cafein hấp thụ và thường xuyênthay đổi làn đường để tránh buồn chán.",
+  "보기2": "② Trên đường ít có biến động và ít xuất hiện các tình huống nguy hiểm, khả năng chú ý được nâng cao và giảmtình trạng buồn ngủ khi lái xe.",
+  "보기3": "③ Uống thuốc cảm có thể dẫn đến buồn ngủ nên cần hạn chế lái xe để đảm bảo an toàn.",
+  "보기4": "④ Lái xe sau khi uống rượu làm giảm chức năng của não và tăng khả năng buồn ngủ khi lái xe.",
+  "정답": 3.4
+ },
+ {
+  "id": 130,
+  "문제": "130. Bạn phải đối mặt với hình phạt nào nếu bị cảnh sát bắt giữ trong khi đang lái xe ở tình trạng thể chấtkhông cho phép lái xe một cách bình thường do bệnh tật hay quá sức?",
+  "보기1": "① Có thể bị phạt tiền",
+  "보기2": "② Có thể bị đình chỉ bằng lái xe",
+  "보기3": "③ Bị tạm giữ hoặc phạt tiền hình sự",
+  "보기4": "④ Không bị phạt",
+  "정답": 3
+ },
+ {
+  "id": 131,
+  "문제": "131. Trường hợp gây tai nạn giao thông có thiệt hại về người do điều khiển xe ô tô trong trạng thái dùng thuốcnhư ma túy, nội dung đúng với trách nhiệm của người điều khiển xe phải có theo Luật đặc biệt về Xử lý Tainạn Giao thông?",
+  "보기1": "① Dù chỉ tham gia Bảo hiểm Trách nhiệm và có thỏa thuận thêm với nạn nhân thì vẫn bị xử phạt hình sự.",
+  "보기2": "② Nếu có tham gia Bảo hiểm cho Lái xe thì được miễn xử phạt hình sự.",
+  "보기3": "③ Nếu có tham gia Bảo hiểm Tổng hợp thì được miễn xử phạt hình sự.",
+  "보기4": "④ Nếu có tham gia Bảo hiểm Tổng hợp và đã thỏa thuận thêm với nạn nhân thì được miễn xử phạt hình sự.",
+  "정답": 1
+ },
+ {
+  "id": 132,
+  "문제": "132. Giải thích nào đúng với trường hợp tài xế A lái xe trong trạng thái nồng độ cồn trong máu từ 0,03% trởlên bị va chạm từ phía sau (với tài xế B) trong khi đang chờ đèn tín hiệu?",
+  "보기1": "① Tài xế A bị xử phạt với tư cách là người gây ra tai nạn vì lái xe khi say xỉn là hành vi vi phạm nghiêm trọng.",
+  "보기2": "② Tài xế B trở thành người gây ra tai nạn nhưng tài xế A cũng bị phạt do lái xe khi say xỉn.",
+  "보기3": "③ Tài xế A là nạn nhân trong vụ tai nạn nên không bị xử phạt hành chính.",
+  "보기4": "④ Tài xế B không phải đối mặt với hình phạt nào bất kể nguyên nhân và hậu quả của vụ tai nạn.",
+  "정답": 2
+ },
+ {
+  "id": 133,
+  "문제": "133. Theo Luật Giao thông đường bộ thì tiêu chuẩn về nồng độ cồn trong máu của người say rượu bị cấm láixe là ( ). Chọn câu đúng để điền vào trong dấu ngoặc ( )?",
+  "보기1": "① Trên 0,01%",
+  "보기2": "② Trên 0,02%",
+  "보기3": "③ Trên 0,03%",
+  "보기4": "④ Trên 0,08%",
+  "정답": 3
+ },
+ {
+  "id": 134,
+  "문제": "134. Hai câu nào dưới đây mô tả đúng về lái xe trong tình trạng mệt mỏi và lái xe trong trạng thái bị ảnhhưởng của thuốc?",
+  "보기1": "① Lái xe trong tình trạng mệt mỏi ít có khả năng gây ra buồn ngủ trong lúc lái xe.",
+  "보기2": "② Lái xe trong tình trạng mệt mỏi rất nguy hiểm do làm giảm khả năng tập trung, đánh giá và tốc độ phảnứng.",
+  "보기3": "③ Lái xe trong tình trạng đã sử dụng ma túy và gây tai nạn làm người khác bị thương sẽ bị xử phạt.",
+  "보기4": "④ Trường hợp lái xe trong tình trạng đã sử dụng ma túy và gây tai nạn làm người khác bị thương nên giấyphép lái xe bị hủy thì chỉ có thể thi lại giấy phép lái xe sau 3 năm.",
+  "정답": 2.3
+ },
+ {
+  "id": 135,
+  "문제": "135. Cách nào trong các cách sau không được xem là cách ngăn ngừa hành vi lái xe kiểu trả đũa?",
+  "보기1": "① Bật đèn nháy khẩn cấp trong trường hợp phanh gấp",
+  "보기2": "② Tắt đèn pha khi có xe đến gần từ làn đường ngược chiều",
+  "보기3": "③ Bật đèn pha chiếu lên khi tăng tốc",
+  "보기4": "④ Chờ khoảng 3 giây khi xe phía trước xuất phát chậm",
+  "정답": 3
+ },
+ {
+  "id": 136,
+  "문제": "136. Cách nào trong các cách sau KHÔNG phải là cách thức phù hợp để tố cáo hành vi lái xe kiểu trả đũa?",
+  "보기1": "① Khai báo với số 120.",
+  "보기2": "② Khai báo với số 112.",
+  "보기3": "③ Khai báo trên trang 'Tìm nhân chứng' của ứng dụng điện thoại thông minh.",
+  "보기4": "④ Khai báo với Cục Cảnh sát mạng.",
+  "정답": 1
+ },
+ {
+  "id": 137,
+  "문제": "137. Theo ( ) của Luật Giao thông Đường bộ, không cho phép hành vi 2 người điều khiển xe trở lên cùng nốiđuôi từ 2 xe trở lên và lưu thông trên đường mà không có lý do chính đáng, gây nguy hiểm cho giao thông.Trường hợp vi phạm bị xử phạt ( ). Nội dung nào đúng khi điền vào ( ).",
+  "보기1": "① Nếu là xe điện hai bánh, bị phạt tù lên đến 1 năm hoặc phạt tiền lên đến 5 triệu Won",
+  "보기2": "② Nếu là xe máy hai bánh, bị phạt tù lên đến 6 tháng hoặc phạt tiền lên đến 3 triệu Won",
+  "보기3": "③ Nếu là xe chuyên dụng, bị phạt tù lên đến 1 năm hoặc phạt tiền lên đến lên đến 5 triệu Won",
+  "보기4": "④ Nếu là xe đạp có gắn động cơ, bị phạt tù lên đến 6 tháng hoặc phạt tiền lên đến 3 triệu Won",
+  "정답": 3
+ },
+ {
+  "id": 138,
+  "문제": "138. Trong trường hợp thực hiện bất kỳ hành vi lái xe gây nguy hiểm như đi theo sau xe bị hại rồi vượt quavạch phân cách, đi lên phía trước sau đó phanh gấp lại thì có thể bị phạt theo「Luật Hình sự」 vì có hànhvi lái xe trả đũa. Hình phạt nào dưới đây đúng với hành vi này?",
+  "보기1": "① Tối đa 7 năm tù giam hoặc phạt tiền hình sự tối đa 10 triệu Won",
+  "보기2": "② Tối đa 10 năm tù giam hoặc phạt tiền hình sự tối đa 20 triệu Won",
+  "보기3": "③ Tù giam có thời hạn tối thiểu là 1 năm",
+  "보기4": "④ Tù giam có thời hạn tối thiểu là 1 năm 6 tháng",
+  "정답": 1
+ },
+ {
+  "id": 139,
+  "문제": "139. Bạn có thể bị phạt vì hành vi lái xe kiểu trả đũa theo Luật Hình sự nếu bạn phanh gấp trước một chiếc xeđã làm bạn tức giận do chuyển làn đột ngột, và kết quả là chiếc xe tải đằng sau đó đã đâm vào chiếc xeđằng sau bạn, khiến người lái xe tải bị thương. Trong trường hợp này, bạn sẽ phải chịu hình phạt nào?",
+  "보기1": "① Phạt tù tối thiểu 1 năm và tối đa 10 năm.",
+  "보기2": "② Phạt tù tối thiểu 1 năm và tối đa 20 năm.",
+  "보기3": "③ Phạt tù tối thiểu 2 năm và tối đa 10 năm.",
+  "보기4": "④ Phạt tù tối thiểu 2 năm và tối đa 20 năm.",
+  "정답": 1
+ },
+ {
+  "id": 140,
+  "문제": "140. Theo Luật Giao thông đường bộ, hành vi nào dưới đây không phải là lái xe ẩu?",
+  "보기1": "① Vi phạm tốc độ tối đa",
+  "보기2": "② Vi phạm quy định cấm sang đường - quay đầu - lùi xe",
+  "보기3": "③ Chen ngang vào",
+  "보기4": "④ Hành vi bấm còi liên tục",
+  "정답": 3
+ },
+ {
+  "id": 141,
+  "문제": "141. Trường hợp người điều khiển xe ô tô (ngoại trừ phương tiện di chuyển cá nhân) đe dọa người khác bằngcách lặp lại các hành vi sau đây sẽ bị xử phạt lái xe ẩu. Hành vi nào dưới đây không phải là hành vi lái xeẩu?",
+  "보기1": "① Vi phạm tín hiệu hoặc chỉ dẫn",
+  "보기2": "② Vi phạm quy định cấm băng qua đường - quay đầu - lùi xe",
+  "보기3": "③ Gây ra tiếng ồn mà không có lý do chính đáng",
+  "보기4": "④ Vi phạm làn đường chỉ định trên đường cao tốc",
+  "정답": 4
+ },
+ {
+  "id": 142,
+  "문제": "142. Hình phạt nào trong các hình phạt sau là hình phạt đúng đối với hành vi lái xe ẩu theo Luật Giao thôngđường bộ?",
+  "보기1": "① Bị gửi giấy báo phạt tiền vi phạm giao thông với số tiền phạt là 60.000 Won",
+  "보기2": "② Phạt tiền hành chính 30.000 Won",
+  "보기3": "③ Tối đa 6 tháng tù giam hoặc phạt tiền tối đa 2 triệu Won",
+  "보기4": "④ Tối đa 1 năm tù giam hoặc phạt tiền tối đa 5 triệu Won",
+  "정답": 4
+ },
+ {
+  "id": 143,
+  "문제": "143. Đáp án nào không đúng nhất với cách xử lý của người lái xe khi hàng hóa chất trên xe bị rơi xuốngđường xe chạy khi đang lưu thông trên đường cao tốc?",
+  "보기1": "① Kiểm tra xe lưu thông phía sau và dừng xe ở nơi an toàn.",
+  "보기2": "② Nhanh chóng báo lên Cục Quản lý đường cao tốc hoặc cơ quan liên quan.",
+  "보기3": "③ Dừng xe ở nơi an toàn sau đó kiểm tra trạng thái chất hàng hóa.",
+  "보기4": "④ Lái xe trả đũa người lái xe đã làm rơi hàng hóa chất trên xe.",
+  "정답": 4
+ },
+ {
+  "id": 144,
+  "문제": "144. Nội dung nào không bị xem là hành vi lái xe ẩu của xe đạp có gắn động cơ (Ngoại trừ thiết bị di chuyển cánhân) theo Pháp lệnh Giao thông Đường bộ?",
+  "보기1": "① Lái xe lặp lại hành vi vi phạm tín điệu đèn giao thông 3 lần.",
+  "보기2": "② Lái xe liên tiếp có hành vi vi phạm tốc độ và vi phạm hướng dẫn giao thông.",
+  "보기3": "③ Lái xe liên tiếp có hành vi vi phạm tín hiệu đèn giao thông và lấn vạch phân luồng giữa.",
+  "보기4": "④ Lái xe liên tiếp có hành vi lấn vạch phân luồng giữa và vi phạm nghĩa vụ bảo vệ người đi bộ.",
+  "정답": 4
+ },
+ {
+  "id": 145,
+  "문제": "145. Câu nào trong các câu sau giải thích đúng về hành vi lái xe ẩu và hành vi lái xe theo kiểu trả đũa?",
+  "보기1": "① Người lái xe mô tô gây ra tiếng ồn để đe dọa đám đông không cố định mà không có lý do chính đáng ltương ứng với hành vi lái xe theo kiểu trả đũa.",
+  "보기2": "② Người lái xe ô tô lái liên tiếp đi đè lên vạch phân cách giữa đường và vượt quá tốc độ để đe dọa đámđông là tương ứng với hành vi lái xe ẩu.",
+  "보기3": "③ Người lái xe tải cỡ lớn vượt lên cắt ngang đầu một chiếc xe cụ thể nào đó và phanh gấp một cách có chủđích là tương ứng với hành vi lái xe ẩu.",
+  "보기4": "④ Người lái xe buýt liên tục vi phạm quy định về cách vượt xe đúng luật, gây ra nguy cơ tai nạn giao thôngtiềm ẩn là tương ứng với hành vi lái xe theo kiểu trả đũa.",
+  "정답": 2
+ },
+ {
+  "id": 146,
+  "문제": "146. Theo Luật Giao thông đường bộ, người điều khiển xe ô tô có hành vi gây nguy hại cho người khác hoặcgây nguy hiểm cho người tham gia giao thông bằng cách liên tục lấn vạch phân cách thuộc ( ). Nộidung nào đúng với phần trong ( )?",
+  "보기1": "① Hành vi nguy hiểm cho cộng đồng",
+  "보기2": "② Lái xe phóng nhanh vượt ẩu",
+  "보기3": "③ Lái xe bạo lực",
+  "보기4": "④ Lái xe trả đũa",
+  "정답": 2
+ },
+ {
+  "id": 147,
+  "문제": "147. Trường hợp người lái xe ô tô (ngoại trừ phương tiện di chuyển cá nhân) trên đường thông thường lặp đilặp lại các hành vi dưới đây gây nguy hiểm cho những người khác sẽ bị xử phạt lái xe ẩu. Hành vi nàokhông phải là hành vi lái xe ẩu?",
+  "보기1": "① Vi phạm làn đường chỉ định trên đường thông thường",
+  "보기2": "② Chạy lấn vạch phân cách giữa đường, vi phạm quy định cấm phanh gấp",
+  "보기3": "③ Không đảm bảo khoảng cách an toàn, vi phạm quy định cấm thay đổi làn xe",
+  "보기4": "④ Vi phạm quy định về vượt xe trên đường thông thường",
+  "정답": 1
+ },
+ {
+  "id": 148,
+  "문제": "148. Trường hợp người lái xe ô tô (ngoại trừ phương tiện di chuyển cá nhân) liên tiếp lặp lại từ 2 hành vi trởlên gây nguy hiểm cho những người khác sẽ bị xử phạt lái xe ẩu. Nội dung nào dưới đây không giải thíchđúng về hành vi lái xe ẩu này?",
+  "보기1": "① Lơ là trong việc quan sát phía trước do đang điều khiển thiết bị hiển thị video trong lúc đang lái xe.",
+  "보기2": "② Vượt về bên phải xe phía trước với tốc độ cao.",
+  "보기3": "③ Liên tục phanh gấp và không đảm bảo khoảng cách an toàn.",
+  "보기4": "④ Vi phạm tốc độ để cản trở xe muốn vượt.",
+  "정답": 1
+ },
+ {
+  "id": 149,
+  "문제": "149. Trường hợp người lái xe ô tô (ngoại trừ phương tiện di chuyển cá nhân) lặp đi lặp lại hành vi dưới đâygây nguy hiểm cho những người khác sẽ bị xử phạt lái xe ẩu. Nội dung nào dưới đây không đúng vớihành vi lái xe ẩu này?",
+  "보기1": "① Vi phạm tín hiệu và chỉ dẫn, lái xe lấn vạch phân cách giữa đường",
+  "보기2": "② Không đảm bảo khoảng cách an toàn, vi phạm quy định cấm phanh gấp",
+  "보기3": "③ Vi phạm quy định cấm cản trở xe khác vượt lên, vi phạm cách vượt xe",
+  "보기4": "④ Vi phạm quy định cấm lưu thông, sử dụng điện thoại di động trong khi lái xe",
+  "정답": 4
+ },
+ {
+  "id": 150,
+  "문제": "150. Khi thực hiện lặp lại hành vi nào dưới đây dẫn đến gây nguy hiểm về mặt giao thông thì sẽ bị phạt vì láixe ẩu?",
+  "보기1": "① Dừng hoặc đỗ ở làn đường phụ khẩn cấp của đường cao tốc",
+  "보기2": "② Lái xe trong tình trạng say xỉn",
+  "보기3": "③ Vi phạm quy định về làn đường chuyên dụng trên đường thông thường",
+  "보기4": "④ Lấn vạch phân cách giữa đường",
+  "정답": 4
+ },
+ {
+  "id": 151,
+  "문제": "151. Khi lặp đi lặp lại hành vi nào dưới đây gây nguy hiểm về mặt giao thông vẫn không bị xử phạt vì lái xeẩu?",
+  "보기1": "① Vi phạm tín hiệu giao thông",
+  "보기2": "② Vi phạm giới hạn tốc độ",
+  "보기3": "③ Điều khiển phương tiện bị cấm hoạt động là xe lỗi thiết bị",
+  "보기4": "④ Vi phạm quy định cấm chuyển làn đường",
+  "정답": 3
+ },
+ {
+  "id": 152,
+  "문제": "152. Bị giam giữ do sử dụng xe ô tô gây ra thương tích đặc biệt (lái xe trả đũa) theo Luật Hình sự. Biện phápxử lý hành chính nào được áp dụng đối với giấy phép lái xe?",
+  "보기1": "① Hủy giấy phép lái xe",
+  "보기2": "② Đình chỉ giấy phép lái xe 100 ngày",
+  "보기3": "③ Đình chỉ giấy phép lái xe 60 ngày",
+  "보기4": "④ Không xử lý hành chính",
+  "정답": 1
+ },
+ {
+  "id": 153,
+  "문제": "153. Theo Luật Giao thông đường bộ, hành vi có từ 2 tài xế trở lên cùng lái 2 xe ô tô trở lên v.v... (ngoại trừphương tiện di chuyển cá nhân) song song hoặc nối đuôi nhau trên đường mà không có lý do chính đáng,gây nguy hại cho người khác hoặc gây ra nguy hiểm về mặt giao thông thì được gọi là hành vi gì?",
+  "보기1": "① Hành vi gây nguy hiểm cho cộng đồng",
+  "보기2": "② Hành vi chạy nối đuôi trên đường giao cắt",
+  "보기3": "③ Hành vi chen ngang",
+  "보기4": "④ Hành vi vi phạm trật tự",
+  "정답": 1
+ },
+ {
+  "id": 154,
+  "문제": "154. Người lái xe nào dưới đây sẽ không phải chịu phạt vì hành vi lái xe ẩu theo Luật Giao thông đường bộ?",
+  "보기1": "① Người lái xe nhiều lần phanh gấp, gây nguy hiểm trong lưu thông.",
+  "보기2": "② Người lái xe liên tục không duy trì khoảng cách an toàn, gây uy hiếp đến sự an toàn của người khác.",
+  "보기3": "③ Người lái xe nhiều lần vượt các phương tiện khác trên đường cao tốc không đúng luật, gây nguy hiểm vềmặt giao thông.",
+  "보기4": "④ Áp suất hơi của lốp xe phải luôn duy trì ở mức cao hơn 10% so với lượng phù hợp để đảm bảo lưu thôngổn định, bất kể mùa nào.",
+  "정답": 4
+ },
+ {
+  "id": 155,
+  "문제": "155. Nội dung nào sau đây không đúng nhất với thói quen lái xe đúng đắn của người điều khiển xe?",
+  "보기1": "① Tắt động cơ khi đang đổ xăng.",
+  "보기2": "② Ngoại trừ trường hợp khẩn cấp, không phanh gấp làm cho xe khác phải phanh gấp.",
+  "보기3": "③ Để dự đoán trước tình huống nguy hiểm và lái xe đề phòng, phải điều khiển xe tuân thủ tất cả tốc độ quyđịnh và giữ khoảng cách an toàn.",
+  "보기4": "④ Áp suất không khí của lốp xe phải luôn duy trì ở mức cao hơn 10% so với lượng phù hợp để đảm bảo lưuthông ổn định, bất kể mùa nào.",
+  "정답": 4
+ },
+ {
+  "id": 156,
+  "문제": "156. Bị kết tội do sử dụng xe ô tô thực hiện bạo hành đặc biệt (lái xe trả đũa) theo Luật Hình sự. Biện phápxử lý hành chính nào được áp dụng đối với giấy phép lái xe?",
+  "보기1": "① Hủy giấy phép lái xe",
+  "보기2": "② Đình chỉ giấy phép lái xe 100 ngày",
+  "보기3": "③ Đình chỉ giấy phép lái xe 60 ngày",
+  "보기4": "④ Không xử lý hành chính",
+  "정답": 2
+ },
+ {
+  "id": 157,
+  "문제": "157. Nội dung nào là giải thích không đúng về người đi bộ theo Pháp lệnh Giao thông Đường bộ?",
+  "보기1": "① Người đẩy xe không động cơ có chiều rộng từ 1m trở xuống không phải là người đi bộ.",
+  "보기2": "② Người sử dụng xe di chuyển có ghế hỗ trợ đi bộ có chiều rộng từ 1m trở xuống là người đi bộ.",
+  "보기3": "③ Người đi xe đạp không phải là người đi bộ.",
+  "보기4": "④ Người sử dụng dụng cụ hỗ trợ đi bộ cho người già yếu có chiều rộng từ 1m trở xuống là người đi bộ.",
+  "정답": 1
+ },
+ {
+  "id": 158,
+  "문제": "158. Đáp án nào đúng với quy định lái xe nhường đường đối với người điều khiển xe tiến vào giao lộ không cóđiều khiển giao thông theo Luật Giao thông đường bộ?",
+  "보기1": "① Người lái xe đang định cùng tiến vào cần nhường đường cho xe ở làn đường bên trái.",
+  "보기2": "② Xe đang định rẽ trái trong giao lộ là xe ưu tiên hơn xe đi thẳng trong giao lộ đó.",
+  "보기3": "③ Xe đang định rẽ trái trong giao lộ nhường đường cho xe định rẽ phải trong giao lộ đó.",
+  "보기4": "④ Khi có xe khác định tiến vào giao lộ từ làn đường nhỏ hơn thì nhường làn đường cho xe đó.",
+  "정답": 3
+ },
+ {
+  "id": 159,
+  "문제": "159. Nội dung nào là giải thích không đúng về hành động bảo vệ người đi bộ của người điều khiển xe?",
+  "보기1": "① Trên đường ưu tiên cho người đi bộ, nếu người điều khiển xe không đi chậm hoặc tạm dừng và làm ảnhhưởng đến người đi bộ lưu thông thì bị phạt tiền vi phạm luật giao thông.",
+  "보기2": "② Người điều khiển xe ở nơi không phải là đường đi vẫn có nghĩa vụ bảo vệ người đi bộ.",
+  "보기3": "③ Khi người đi bộ dự định băng qua vạch sang đường dành cho người đi bộ, người điều khiển xe phải dừngtạm thời ngay trước vạch sang đường này.",
+  "보기4": "④ Người điều khiển xe bắt buộc phải đi chậm lại ở phía trước vạch sang đường không có đèn giao thông trongkhu vực bảo vệ trẻ em.",
+  "정답": 4
+ },
+ {
+  "id": 160,
+  "문제": "160. Nội dung nào là giải thích không đúng về hành động bảo vệ người đi bộ của người điều khiển xe?",
+  "보기1": "① Khi người đi bộ dự định băng qua vạch sang đường dành cho người đi bộ, người điều khiển xe phải dừngtạm thời ngay trước vạch sang đường đó.",
+  "보기2": "② Khi có người đi bộ đi qua bên cạnh xe trên đoạn đường hẹp không bố trí làn đường, người điều khiển xephải đi chậm và giữ khoảng cách an toàn.",
+  "보기3": "③ Trước vạch sang đường dành cho người đi bộ không có đèn giao thông và nằm trong khu vực bảo vệ trẻ em,nếu không có người đi bộ sang đường thì người điều khiển xe không cần phải dừng lại.",
+  "보기4": "④ Người điều khiển xe không được cản trở lưu thông của người đi bộ đang băng qua đoạn đường giao nhaukhông có điều khiển giao thông.",
+  "정답": 3
+ },
+ {
+  "id": 161,
+  "문제": "161. Nơi nào mà người lái xe ô tô con có thể đi qua vỉa hè?",
+  "보기1": "① Khi đi ra hoặc đi vào nơi không phải là đường đi",
+  "보기2": "② Khi đi ra hoặc đi vào nơi không phải là đường dành cho xe chạy",
+  "보기3": "③ Khi đi ra hoặc đi vào nơi không phải là khu vực có vạch an toàn",
+  "보기4": "④ Khi đi ra hoặc đi vào nơi không phải là lối sang đường dành cho người đi bộ",
+  "정답": 1
+ },
+ {
+  "id": 162,
+  "문제": "162. Khi bạn đang đi với tốc độ 50km/giờ trên đường nội thành thì phát hiện người đi bộ qua đường trái luật.Cách xử lý hợp lý nhất là gì?",
+  "보기1": "① Người đi bộ đang qua đường nên phanh gấp và dừng lại.",
+  "보기2": "② Phán đoán di chuyển của người đi bộ và đi chen vào giữa.",
+  "보기3": "③ Giảm tốc, bật đèn nháy khẩn cấp để báo hiệu cho xe đằng sau và dừng xe một cách an toàn.",
+  "보기4": "④ Dùng còi báo hiệu cho người đi bộ, tăng tốc một chút rồi vượt qua.",
+  "정답": 3
+ },
+ {
+  "id": 163,
+  "문제": "163. Nội dung nào không đúng với giải thích liên quan đến bảo vệ người đi bộ theo Luật Giao thông Đường bộ?",
+  "보기1": "① Trong trường hợp có người đi bộ ở khu vực an toàn được bố trí trên đường xe chạy và trường hợp đi quabên cạnh người đi bộ trên đường hẹp không phân luồng xe chạy, phải giữ khoảng cách an toàn và đi chậm.",
+  "보기2": "② Khi có người đi bộ đang băng qua đường không có vạch sang đường dành cho người đi bộ, phải giữ khoảngcách, tạm dừng để người đi bộ có thể qua đường an toàn.",
+  "보기3": "③ Nếu cản trở lưu thông của người đi bộ trên đường không phân chia vỉa hè và lòng đường trên đường khôngcó vạch phân luồng giữa, thì phải đi chậm hoặc tạm dừng để người đi bộ có thể lưu thông một cách an toàn.",
+  "보기4": "④ Trước vạch sang đường dành cho người đi bộ không có đèn giao thông trong khu vực bảo vệ trẻ em (Trườnghợp có vạch dừng là trước vạch dừng đó), phải đi chậm bất kể có người đi bộ qua đường hay không.",
+  "정답": 4
+ },
+ {
+  "id": 164,
+  "문제": "164. Theo Pháp lệnh về Giao thông đường bộ, trường hợp trẻ em dưới 13 tuổi đi ( ) thì phải đeo dụngcụ bảo vệ tính mạng để đảm bảo an toàn cho trẻ. Nội dung nào không đúng với phần trong ( )?",
+  "보기1": "① Xe trượt điện Kickboard",
+  "보기2": "② Ván trượt 2 bánh",
+  "보기3": "③ Giày trượt patin một hàng bánh (InlineSkate)",
+  "보기4": "④ Ván trượt (Skate Board)",
+  "정답": 2
+ },
+ {
+  "id": 165,
+  "문제": "165. Giải thích đúng về nghĩa vụ bảo vệ người đi bộ?",
+  "보기1": "① Không cần bảo vệ người say rượu băng qua đường trái phép.",
+  "보기2": "② Tại đoạn đường có đèn tín hiệu giao thông, cho dù cản trở việc lưu thông của người đi bộ đang băng quađường thì cũng không có vấn đề gì.",
+  "보기3": "③ Trong trường hợp đèn xanh dành cho người đi bộ nhấp nháy thì xe có thể đi tiếp cũng không sao.",
+  "보기4": "④ Trường hợp muốn rẽ phải tại đoạn đường giao nhau có đèn tín hiệu giao thông thì không được cản trởngười đi bộ đang đi theo tín hiệu đèn giao thông.",
+  "정답": 4
+ },
+ {
+  "id": 166,
+  "문제": "166. Giải thích nào đúng về việc người hoặc đoàn người có thể đi lại ở giữa đường?",
+  "보기1": "① Đoàn người diễu hành trên đường trong các sự kiện xã hội quan trọng.",
+  "보기2": "② Người đang dắt động vật to như ngựa, bò v.v đi cùng.",
+  "보기3": "③ Người đang quét dọn đường, sửa chữa đường.",
+  "보기4": "④ Dòng người đưa tang cầm cờ hoặc chướng",
+  "정답": 1
+ },
+ {
+  "id": 167,
+  "문제": "167. Cách lái xe an toàn nhất khi chạy băng qua lối đi bộ sang đường không có đèn tín hiệu giao thông là gì?",
+  "보기1": "① Dù có người qua đường hay không thì cũng cần quan sát kỹ phía trước và đi chậm.",
+  "보기2": "② Không có người đi bộ qua đường nên cứ thế đi.",
+  "보기3": "③ Không có người đi bộ qua đường nên đi qua thật nhanh.",
+  "보기4": "④ Có thể có người đi bộ nên bấm còi báo hiệu và cứ thế đi qua.",
+  "정답": 1
+ },
+ {
+  "id": 168,
+  "문제": "168. Nội dung nào không đúng với cách xử lý của người lái xe trong trường hợp đang đi qua khúc giao đườngsắt thì bị hỏng xe nên không thể lưu thông xe trên khúc giao?",
+  "보기1": "① Sơ tán người đi cùng xe.",
+  "보기2": "② Bật đèn nháy báo khẩn cấp.",
+  "보기3": "③ Thông báo cho nhân viên đường sắt.",
+  "보기4": "④ Kiểm tra nguyên nhân xe hỏng.",
+  "정답": 4
+ },
+ {
+  "id": 169,
+  "문제": "169. Người điều khiển xe muốn băng qua vỉa hè để rẽ vào tòa nhà. Thứ tự đúng mà người điều khiển xe phảithực hiện là?",
+  "보기1": "① Đi chậm → Bật đèn xi nhan báo rẽ → Nhanh chóng rẽ vào tòa nhà",
+  "보기2": "② Tạm dừng → Bấm còi → Nhanh chóng rẽ vào tòa nhà",
+  "보기3": "③ Đi chậm → Kiểm tra trái phải → Từ từ rẽ vào tòa nhà",
+  "보기4": "④ Tạm dừng → Kiểm tra trái phải → Từ từ rẽ vào tòa nhà",
+  "정답": 4
+ },
+ {
+  "id": 170,
+  "문제": "170. Theo Luật Giao thông đường bộ, trong số những câu sau đây thì câu nào giải thích không đúng vềphương pháp qua đường của người đi bộ?",
+  "보기1": "① Không được sang đường ngay sát phía trước hoặc phía sau mọi loại xe.",
+  "보기2": "② Ngay cả người khuyết tật cũng bắt buộc phải sử dụng lối sang đường để qua đường.",
+  "보기3": "③ Không sang đường trên các đoạn đường có biển báo cấm sang đường.",
+  "보기4": "④ Phải sang đường bằng khoảng cách ngắn nhất trên những đoạn đường không có lối sang đường.",
+  "정답": 2
+ },
+ {
+  "id": 171,
+  "문제": "171. Vị trí nào dễ xảy ra hiện tượng tạm thời không nhìn thấy chướng ngại vật hay người đi bộ trong đêm -'hiện tượng lóa mắt'?",
+  "보기1": "① Bên lề của đường đối diện",
+  "보기2": "② Bên phải đường xe chạy",
+  "보기3": "③ Chỗ gần dải phân cách giữa đường",
+  "보기4": "④ Bên lề bên phải của đường",
+  "정답": 3
+ },
+ {
+  "id": 172,
+  "문제": "172. Nội dung nào giải thích đúng về việc lưu thông của người đi bộ?",
+  "보기1": "① Khi qua đường, người đi bộ phải đi qua ngay sát phía trước hoặc phía sau xe thật nhanh.",
+  "보기2": "② Nếu trên đường có lối sang đường cho người đi bộ, người khuyết tật phải qua đường bằng lối đó.",
+  "보기3": "③ Người đi bộ phải đi sang đường thật nhanh ở những nơi cấm sang đường theo chỉ dẫn của biển báo antoàn.",
+  "보기4": "④ Người đi bộ khi sang đường ở nơi không có lối sang đường thì phải sang đường ở chỗ có khoảng cáchngắn nhất.",
+  "정답": 4
+ },
+ {
+  "id": 173,
+  "문제": "173. Câu nào giải thích đúng nguyên tắc đi trên vỉa hè của người đi bộ?",
+  "보기1": "① Đi phía bên phải của vỉa hè",
+  "보기2": "② Đi phía bên trái của vỉa hè",
+  "보기3": "③ Đi chính giữa của vỉa hè",
+  "보기4": "④ Đi ở bất cứ nơi nào trên vỉa hè",
+  "정답": 1
+ },
+ {
+  "id": 174,
+  "문제": "174. Hai hành động đúng của người điều khiển xe trước vạch sang đường dành cho người đi bộ không có đèngiao thông trong khu vực bảo vệ trẻ em (Trường hợp có vạch dừng là trước vạch dừng đó) là?",
+  "보기1": "① Khi người đi bộ dự định băng qua vạch sang đường dành cho người đi bộ, phải kiểm tra an toàn của người đibộ rồi đi chậm qua.",
+  "보기2": "② Khi người đi bộ dự định băng qua vạch sang đường dành cho người đi bộ, phải tạm dừng để bảo đảm antoàn cho người đi bộ sang đường.",
+  "보기3": "③ Đi chậm qua bất kể có người đi bộ băng qua đường hay không.",
+  "보기4": "④ Tạm dừng bất kể có người đi bộ băng qua đường hay không.",
+  "정답": 2.4
+ },
+ {
+  "id": 175,
+  "문제": "175. Theo Luật Giao thông đường bộ, hai nội dung nào giải thích đúng về việc bảo vệ người đi bộ?",
+  "보기1": "① Người đang dắt xe đạp đi bộ không được xem là người đi bộ.",
+  "보기2": "② Ở đường giao nhau không được phân luồng giao thông, xe ô tô tiến vào trước có quyền ưu tiên đi trước sovới người đi bộ.",
+  "보기3": "③ Giám đốc Sở Cảnh sát tỉnh - thành phố có thể bố trí đường dành riêng cho người đi bộ trên đường để bảođảm việc đi lại của người đi bộ.",
+  "보기4": "④ Có thể kéo xe đẩy trẻ em trên đường dành riêng cho người đi bộ.",
+  "정답": 3.4
+ },
+ {
+  "id": 176,
+  "문제": "176. Chọn 2 câu giải thích đúng về việc lưu thông của người đi bộ?",
+  "보기1": "① Trường hợp người đi bộ phải đi trên đường của xe ô tô thì phải lưu thông ở phía bên trái đường.",
+  "보기2": "② Khi diễu hành trong các sự kiện mang tính xã hội quan trọng, người đi bộ có thể lưu thông ở giữa đường.",
+  "보기3": "③ Người khuyết tật không thể sử dụng các cơ sở hạ tầng để sang đường thì có thể đi sang đường mà khôngcần sử dụng lối sang đường dành cho người đi bộ.",
+  "보기4": "④ Trong trường hợp không có cơ sở hạ tầng để sang đường, người đi bộ phải sang đường ở nơi có khoảngcách dài nhất để giữ an toàn.",
+  "정답": 2.3
+ },
+ {
+  "id": 177,
+  "문제": "177. Mức phạt nào dưới đây dành cho người lái xe ô tô con vi phạm phương pháp lái xe băng ngang qua vỉahè?",
+  "보기1": "① 30.000 Won",
+  "보기2": "② 40.000 Won",
+  "보기3": "③ 50.000 Won",
+  "보기4": "④ 60.000 Won",
+  "정답": 4
+ },
+ {
+  "id": 178,
+  "문제": "178. Hành vi nào của người lái xe ô tô con có mức phạt tiền khác với các mức phạt còn lại trong số các hànhvi vi phạm luật bảo vệ người đi bộ dưới đây?",
+  "보기1": "① Cản trở người đi bộ sang đường theo tín hiệu giao thông",
+  "보기2": "② Vi phạm lưu thông trên đường dành riêng cho người đi bộ",
+  "보기3": "③ Hành vi ném đồ vật ra khỏi xe đang lưu thông trên đường",
+  "보기4": "④ Vi phạm nguyên tắc bảo vệ trẻ em, người không thể nhìn thấy phía trước, v.v.",
+  "정답": 3
+ },
+ {
+  "id": 179,
+  "문제": "179. Thái độ đúng đắn của người lái xe đối với người đi bộ là gì?",
+  "보기1": "① Người đi bộ qua đường trái phép không cần được bảo vệ.",
+  "보기2": "② Không cần phải chú ý đến người đi bộ ở phía bên cạnh xe.",
+  "보기3": "③ Người đi bộ phải tránh xe ô tô.",
+  "보기4": "④ Người lái xe cần ưu tiên bảo vệ cho người đi bộ.",
+  "정답": 4
+ },
+ {
+  "id": 180,
+  "문제": "180. Theo Luật Giao thông đường bộ, đâu là phần đường an toàn mà người đi bộ có thể băng qua đường?",
+  "보기1": "① Vỉa hè",
+  "보기2": "② Khu vực mép lề đường",
+  "보기3": "③ Vạch đi bộ sang đường",
+  "보기4": "④ Đường dành riêng cho người đi bộ",
+  "정답": 3
+ },
+ {
+  "id": 181,
+  "문제": "181. Hành vi nào dưới đây là cách xử lý sai của người lái xe đối với người đi bộ?",
+  "보기1": "① Phải chú ý trẻ em có thể bất ngờ chạy ra tại khu vực có biển báo 'Bảo vệ trẻ em'.",
+  "보기2": "② Phải bảo vệ người đi bộ bằng cách đi chậm ngay trước khi lái xe qua vỉa hè.",
+  "보기3": "③ Phải bảo vệ cả những người đi bộ qua đường không đúng nơi quy định.",
+  "보기4": "④ Phải tạm dừng khi có trẻ em qua đường mà không có người bảo hộ.",
+  "정답": 2
+ },
+ {
+  "id": 182,
+  "문제": "182. Câu nào dưới đây mô tả không đúng cách người đi bộ nên sang đường?",
+  "보기1": "① Người đi bộ cần chọn đường đi ngắn nhất khi sang đường ở nơi không có lối sang đường.",
+  "보기2": "② Người đi bộ không được sang đường ở ngay sát phía trước hay phía sau của tất cả các phương tiện.",
+  "보기3": "③ Người đi bộ có thể qua đường bằng cách trèo qua dải phân cách làn đường được lắp đặt nhằm ngăn chặnqua đường trái phép.",
+  "보기4": "④ Người đi bộ có thể đi dưới lòng đường nếu vỉa hè đang trong quá trình xây dựng.",
+  "정답": 3
+ },
+ {
+  "id": 183,
+  "문제": "183. Đối tượng nào dưới đây không được xếp vào “người không nhìn thấy phía trước”?",
+  "보기1": "① Trẻ sơ sinh và trẻ em",
+  "보기2": "② Người tàn tật phải di chuyển bằng chân giả",
+  "보기3": "③ Người gặp khó khăn trong việc giữ thăng bằng cơ thể",
+  "보기4": "④ Người điếc",
+  "정답": 1
+ },
+ {
+  "id": 184,
+  "문제": "184. Người lái xe ô tô con vi phạm tín hiệu giao thông vào khoảng thời gian từ ( ) đến ( ) trong khu vực bảovệ trẻ em bị nhận gấp đôi mức điểm phạt. Hãy điền thời gian đúng vào dấu ngoặc.",
+  "보기1": "① 6 giờ sáng, 6 giờ tối.",
+  "보기2": "② 7 giờ sáng, 7 giờ tối.",
+  "보기3": "③ 8 giờ sáng, 8 giờ tối.",
+  "보기4": "④ 9 giờ sáng, 9 giờ tối.",
+  "정답": 3
+ },
+ {
+  "id": 185,
+  "문제": "185. Mức phạt nào dành cho người lái xe tải 4,5 tấn khi đỗ xe không đúng luật trong khu vực bảo vệ ngườicao tuổi từ 10h đến 11h sáng?",
+  "보기1": "① 40.000 Won",
+  "보기2": "② 50.000 Won",
+  "보기3": "③ 90.000 Won",
+  "보기4": "④ 100.000 Won",
+  "정답": 3
+ },
+ {
+  "id": 186,
+  "문제": "186. Cách nào dưới đây không đúng đối với người đi bộ khi lưu thông?",
+  "보기1": "① Đi bộ về phía bên trái của vỉa hè.",
+  "보기2": "② Trên đường dành riêng cho người đi bộ, người đi bộ có thể lưu thông trên toàn bộ con đường.",
+  "보기3": "③ Trên các con đường mà vỉa hè và làn đường được phân tách rõ ràng, người đi bộ phải đi trên vỉa hè.",
+  "보기4": "④ Trên các con đường có vạch trung tâm mà vỉa hè và làn đường không được phân tách rõ ràng, người đi bộphải đi sát mép đường.",
+  "정답": 1
+ },
+ {
+  "id": 187,
+  "문제": "187. Trường hợp nào sau đây không phải là trường hợp một người hay đoàn người được cho phép di chuyểntrên làn đường dành cho xe chạy?",
+  "보기1": "① Khi thực hiện công việc như dọn vệ sinh hoặc tu sửa trên đường",
+  "보기2": "② Khi cưỡi các động vật lớn như ngựa, bò đi trên đường",
+  "보기3": "③ Người kéo xe đẩy em bé",
+  "보기4": "④ Khi diễu hành tang lễ",
+  "정답": 3
+ },
+ {
+  "id": 188,
+  "문제": "188. Người lái xe đỗ lấn vạch dừng khi đèn giao thông đã chuyển sang màu đỏ phải đối mặt với hình phạt viphạm nào sau đây?",
+  "보기1": "① Vi phạm cách đi qua đường giao nhau",
+  "보기2": "② Vi phạm quy định tạm dừng",
+  "보기3": "③ Vi phạm tín hiệu giao thông",
+  "보기4": "④ Vi phạm quy định đi chậm",
+  "정답": 3
+ },
+ {
+  "id": 189,
+  "문제": "189. Hành động nào dưới đây là cách lái xe đúng khi bạn nhìn thấy một người không nhìn thấy phía trước đangsang đường cùng với chó dẫn đường?",
+  "보기1": "① Tiếp tục đi nếu đây là khu vực không được dừng đỗ.",
+  "보기2": "② Tạm dừng xe lại.",
+  "보기3": "③ Dừng lại ngay và giúp người khiếm thị quay lại chỗ ban đầu.",
+  "보기4": "④ Bấm còi cảnh báo để bảo vệ họ.",
+  "정답": 2
+ },
+ {
+  "id": 190,
+  "문제": "190. Người điều khiển tất cả loại xe trong Luật Giao thông Đường bộ, trước vạch sang đường dành cho người đibộ không có đèn giao thông trong khu vực bảo vệ trẻ em, phải ( ) bất kể có người đi bộ băng quađường hay không? Nội dung đúng để điền vào ( ) là?",
+  "보기1": "① Đi chậm",
+  "보기2": "② Tạm dừng",
+  "보기3": "③ Đi chậm hoặc tạm dừng",
+  "보기4": "④ Đi giảm tốc độ",
+  "정답": 2
+ },
+ {
+  "id": 191,
+  "문제": "191. Dưới đây là phần giải thích về việc bảo vệ người đi bộ sang đường không đúng luật. Câu nào đúng?",
+  "보기1": "① Bạn không có nghĩa vụ bảo vệ người đi bộ trên đường ở ngoài đường giao nhau.",
+  "보기2": "② Bạn không có nghĩa vụ bảo vệ người đi bộ sang đường không đúng luật, vi phạm tín hiệu giao thông.",
+  "보기3": "③ Bạn phải bảo vệ người đi bộ, kể cả khi họ sang đường không đúng luật.",
+  "보기4": "④ Bạn không có nghĩa vụ bảo vệ người đi bộ sang đường không đúng luật ở đường một chiều.",
+  "정답": 3
+ },
+ {
+  "id": 192,
+  "문제": "192. Người đi bộ nào dưới đây không được phép đi vào làn đường dành cho xe cộ?",
+  "보기1": "① Người đi bằng xe dạng ghế dùng hỗ trợ đi lại",
+  "보기2": "② Người đi bộ diễu hành trên đường trong sự kiện xã hội quan trọng",
+  "보기3": "③ Người làm công việc vệ sinh hoặc tu sửa trên đường",
+  "보기4": "④ Người vận chuyển đồ vật có thể cản trở lưu thông của người đi bộ ví dụ như thang",
+  "정답": 1
+ },
+ {
+  "id": 193,
+  "문제": "193. Cách nào dưới đây là cách tốt nhất để người đi bộ sang đường khi đèn xanh cho người đi bộ sang đườngđang nhấp nháy?",
+  "보기1": "① Người đi bộ vẫn chưa tiến vào lối sang đường phải chờ lượt đèn xanh tiếp theo để sang đường.",
+  "보기2": "② Đứng im ở giữa lối sang đường.",
+  "보기3": "③ Sang đường mà không cần chờ tín hiệu tiếp theo.",
+  "보기4": "④ Có thể sang đường bất cứ lúc nào miễn là trước khi chuyển sang đèn đỏ.",
+  "정답": 1
+ },
+ {
+  "id": 194,
+  "문제": "194. Nội dung nào sau đây đúng với giải thích về người đi bộ đi trên vỉa hè theo Luật Giao thông đường bộ?",
+  "보기1": "① Người đi xe mô tô hai bánh dưới 125cc trên vỉa hè có thể được coi là người đi bộ.",
+  "보기2": "② Người đi xe đạp có thể được coi là người đi bộ.",
+  "보기3": "③ Người sử dụng xe y tế hỗ trợ đi lại có thể được coi là người đi bộ.",
+  "보기4": "④ Người đi xe đạp có gắn động cơ 49cc có thể được coi là người đi bộ.",
+  "정답": 3
+ },
+ {
+  "id": 195,
+  "문제": "195. Theo Luật Giao thông đường bộ, 2 giải thích nào đúng trong số các giải thích dưới đây về đường dànhriêng cho người đi bộ?",
+  "보기1": "① Người lái xe thô sơ và xe cơ giới được phép lưu thông phải lái xe bằng với tốc độ bước đi của người đi bộ.",
+  "보기2": "② Về nguyên tắc, người lái xe thô sơ và xe cơ giới có thể lưu thông trên đường dành cho người đi bộ.",
+  "보기3": "③ Khi Giám đốc Sở Cảnh sát công nhận là trường hợp đặc biệt cần thiết thì xe thô sơ và xe cơ giới khôngđược lưu thông.",
+  "보기4": "④ Người lái xe thô sơ và xe cơ giới được phép lưu thông phải tạm thời dừng lại khi gây nguy hiểm cho ngườiđi bộ.",
+  "정답": 1.4
+ },
+ {
+  "id": 196,
+  "문제": "196. Nếu hàng hoá vận chuyển trên xe ô tô bị rơi ở khu vực bảo vệ người cao tuổi, gây thương tích cho ngườicao tuổi và vết thương đó được chẩn đoán là phải điều trị trong vòng 2 tuần, 2 hình thức xử phạt theoLuật Trường hợp đặc biệt về xử lý tai nạn giao thông là gì?",
+  "보기1": "① Bị xử phạt hình sự bất kể người bị thiệt hại có ý định xử phạt như thế nào.",
+  "보기2": "② Không bị xử phạt nếu thoả thuận được với người bị thiệt hại.",
+  "보기3": "③ Không bị xử phạt nếu đã tham gia loại bảo hiểm có thể bồi thường toàn bộ thiệt hại.",
+  "보기4": "④ Bị xử phạt hình sự bất kể đã tham gia loại bảo hiểm có thể bồi thường toàn bộ thiệt hại.",
+  "정답": 1.4
+ },
+ {
+  "id": 197,
+  "문제": "197. Trong các cách sau, đâu là cách đi bộ qua đường đúng nhất đối với đường không có vạch sang đườngtheo Luật Giao thông đường bộ?",
+  "보기1": "① Đi sang qua ngay phía sau chiếc xe vừa đi qua.",
+  "보기2": "② Đi qua nhanh khi không có xe lưu thông.",
+  "보기3": "③ Đây là nơi không có lối đi bộ qua đường nên có thể đi qua bất cứ nơi nào.",
+  "보기4": "④ Đi qua nơi có khoảng cách ngắn nhất trên đường.",
+  "정답": 4
+ },
+ {
+  "id": 198,
+  "문제": "198. Theo Luật Giao thông đường bộ, nội dung nào sau đây không đúng với giải thích về cách đi bộ qua vạchđi bộ sang đường?",
+  "보기1": "① Đi bằng phương tiện di chuyển cá nhân có thể đi qua đường.",
+  "보기2": "② Có thể qua đường với xe dạng ghế dùng hỗ trợ đi bộ.",
+  "보기3": "③ Có thể qua đường bằng xe đạp.",
+  "보기4": "④ Có thể kéo xe đẩy trẻ em qua đường.",
+  "정답": 3
+ },
+ {
+  "id": 199,
+  "문제": "199. Sau đây là mô tả về phương pháp lưu thông của các phương tiện giao thông theo Luật Giao thông đườngbộ. Câu nào không đúng?",
+  "보기1": "① Ở những đoạn đường phân chia thành vỉa hè và lòng đường xe chạy thì phải lưu thông trên lòng đường xechạy.",
+  "보기2": "② Trước khi băng qua vỉa hè, phải đi chậm lại, nhìn kỹ bên trái bên phải rồi băng qua sao cho không cản trởviệc lưu thông của người đi bộ.",
+  "보기3": "③ Phải đi về phía bên phải của tâm đường.",
+  "보기4": "④ Nếu là đường một chiều thì phải đi ở giữa tâm đường hoặc phần bên trái của đường.",
+  "정답": 2
+ },
+ {
+  "id": 200,
+  "문제": "200. Sau đây là mô tả về nội dung bảo vệ người đi bộ trong Luật Giao thông đường bộ. Câu nào sau đây làkhông đúng?",
+  "보기1": "① Khi có người đi bộ đang đi trên lối đi bộ qua đường thì phải tạm dừng ngay trước vạch đó.",
+  "보기2": "② Không được cản trở việc lưu thông của người đi bộ đang băng qua đường theo tín hiệu hoặc chỉ thị củacảnh sát giao thông.",
+  "보기3": "③ Không được cản trở việc lưu thông của người đi bộ đang băng qua đường ở đoạn đường giao nhau.",
+  "보기4": "④ Khi người đi bộ đang băng qua đường ở đường không có lối đi bộ qua đường, phải chạy chậm lại và duytrì khoảng cách an toàn.",
+  "정답": 4
+ },
+ {
+  "id": 201,
+  "문제": "201. Nếu trong lúc đang lái xe mà tất cả các đèn tín hiệu của xe và đèn tín hiệu giao thông dành cho người đibộ ở lối sang đường đều bị hỏng thì cách chạy xe qua vạch sang đường đúng là gì?",
+  "보기1": "① Nếu có người đi bộ sang đường thì phải chạy qua thật chậm.",
+  "보기2": "② Nếu không có người đang đi bộ trên lối sang đường thì không cần đi chậm lại mà băng qua nhanh chóng.",
+  "보기3": "③ Nếu chức năng của lối sang qua đường bị mất do hỏng đèn tín hiệu giao thông thì không cần đi chậm lại.",
+  "보기4": "④ Nếu có người đi bộ qua đường thì phải tạm dừng ngay trước lối sang đường.",
+  "정답": 4
+ },
+ {
+  "id": 202,
+  "문제": "202. Phương pháp phù hợp nhất để người đi bộ lưu thông trên đoạn đường không phân chia vỉa hè và đườngxe chạy nhưng có vạch trung tâm ở giữa theo Luật Giao thông đường bộ là gì?",
+  "보기1": "① Đi bộ ở giữa lòng đường.",
+  "보기2": "② Đi bộ bên phải lòng đường.",
+  "보기3": "③ Đi bộ ở sát mép đường.",
+  "보기4": "④ Đi bộ thoải mái trên toàn bộ đường.",
+  "정답": 3
+ },
+ {
+  "id": 203,
+  "문제": "203. Phương pháp lưu thông phù hợp của người lái các phương tiện giao thông được phép lưu thông trênđường dành riêng cho người đi bộ theo Luật Giao thông đường bộ?",
+  "보기1": "① Nếu có người đi bộ thì đi chậm lại.",
+  "보기2": "② Vừa bấm còi xe vừa đi.",
+  "보기3": "③ Chạy với tốc độ bằng tốc độ bước chân của người đi bộ hoặc tạm dừng xe.",
+  "보기4": "④ Nếu không có người đi bộ thì đi nhanh qua.",
+  "정답": 3
+ },
+ {
+  "id": 204,
+  "문제": "204. Phần đường nào cho phép người đi bộ đi qua bằng cách đánh dấu ranh giới bằng các kết cấu nhân tạonhư gờ vỉa hè, biển báo an toàn trong Luật Giao thông đường bộ?",
+  "보기1": "① Vỉa hè",
+  "보기2": "② Khu vực mép đường",
+  "보기3": "③ Lối đi bộ qua đường",
+  "보기4": "④ Lối xe đạp qua đường",
+  "정답": 1
+ },
+ {
+  "id": 205,
+  "문제": "205. Theo Pháp lệnh về Giao thông đường bộ, nội dung nào sau đây không phải là phương pháp băng quađường đúng khi đèn tín hiệu cho người đi bộ đang nhấp nháy?",
+  "보기1": "① Người đi bộ không được bắt đầu băng qua đường.",
+  "보기2": "② Người đang đi bộ qua đường phải nhanh chóng qua đường.",
+  "보기3": "③ Dừng qua đường và quay trở lại vỉa hè.",
+  "보기4": "④ Dừng qua đường và đợi tín hiệu tiếp theo ngay tại chỗ.",
+  "정답": 4
+ },
+ {
+  "id": 206,
+  "문제": "206. Theo Luật Giao thông đường bộ, trường hợp nào sau đây người lái xe ô tô phải đi chậm lại?",
+  "보기1": "① Khi phát hiện thấy một người dắt xe đạp và băng qua lối đi bộ qua đường",
+  "보기2": "② Khi đi qua bên cạnh một người đang đi bộ trên đoạn đường hai chiều",
+  "보기3": "③ Khi thấy người đi bộ đang băng qua lối sang đường",
+  "보기4": "④ Khi nhìn thấy người đi bộ đang đi sang đường trên đoạn đường không có lối sang đường",
+  "정답": 2
+ },
+ {
+  "id": 207,
+  "문제": "207. Theo Pháp lệnh về Giao thông đường bộ, lối đi bộ sang đường có chiều cao bằng vỉa hè được lắp đặt ởnhững đoạn đường cần hạn chế tốc độ từ ( ) km/giờ trở xuống. Đáp án nào đúng với ( )?",
+  "보기1": "① 10",
+  "보기2": "② 20",
+  "보기3": "③ 30",
+  "보기4": "④ 50",
+  "정답": 3
+ },
+ {
+  "id": 208,
+  "문제": "208. Theo Pháp lệnh về Giao thông đường bộ, đáp án nào không phải là tình huống phải tạm dừng khi đang láixe?",
+  "보기1": "① Khi trẻ em băng qua đường không có người giám hộ",
+  "보기2": "② Khi đèn tín hiệu là đèn đỏ đang nhấp nháy",
+  "보기3": "③ Khi có trẻ em đang ngồi hoặc đứng trên đường",
+  "보기4": "④ Khi đèn tín hiệu là đèn vàng đang nhấp nháy",
+  "정답": 4
+ },
+ {
+  "id": 209,
+  "문제": "209. Theo Pháp lệnh về Giao thông đường bộ, khi tín hiệu đèn dành cho người đi bộ của lối đi bộ qua đườngcó hình gạch chéo bật màu xanh lá cây thì cách xe cộ lưu thông đúng là gì?",
+  "보기1": "① Phải dừng lại.",
+  "보기2": "② Có thể rẽ phải và không gây cản trở việc băng qua đường của người đi bộ.",
+  "보기3": "③ Nếu không có người đi bộ thì có thể tiếp tục đi chậm.",
+  "보기4": "④ Có thể đi theo hướng mà người đi bộ không băng qua.",
+  "정답": 1
+ },
+ {
+  "id": 210,
+  "문제": "210. Theo Luật Giao thông đường bộ, việc người lái xe tạm thời làm cho bánh xe dừng hẳn có nghĩa là gì?",
+  "보기1": "① Đi chậm lại",
+  "보기2": "② Dừng xe",
+  "보기3": "③ Đỗ xe",
+  "보기4": "④ Tạm dừng",
+  "정답": 4
+ },
+ {
+  "id": 211,
+  "문제": "211. Khu vực nào sau đây là nơi mà xe lăn điện y tế không được phép lưu thông theo Luật Giao thông đườngbộ?",
+  "보기1": "① Đường dành riêng cho xe đạp",
+  "보기2": "② Khu vực lề đường",
+  "보기3": "③ Vỉa hè",
+  "보기4": "④ Mép đường",
+  "정답": 1
+ },
+ {
+  "id": 212,
+  "문제": "212. Cách chính xác nhất để rẽ trái tại đường giao nhau không có phân luồng giao thông là gì?",
+  "보기1": "① Trên đường thông thường, bật đèn xi nhan ngay phía trước đoạn đường giao nhau định rẽ trái sang rồi sauđó rẽ trái.",
+  "보기2": "② Đi từ từ theo vạch phân cách giữa đường trước rồi rẽ trái sang phía ngoài của khu vực chính giữa củađường giao nhau.",
+  "보기3": "③ Không thể sử dụng phía ngoài của khu vực chính giữa của đường giao nhau để rẽ trái ngay cả khi Giám đốcSở Cảnh sát tỉnh - thành phố chỉ định.",
+  "보기4": "④ Bắt buộc phải đi từ từ, còn việc có dừng tạm thời được hay không thì người lái xe sẽ phán đoán và thựchiện tuỳ theo từng tình huống.",
+  "정답": 4
+ },
+ {
+  "id": 213,
+  "문제": "213. Theo Luật Giao thông đường bộ, các làn đường được bố trí phải rộng tối thiểu ( ) mét. Trong trường hợpnày, khi được coi là trường hợp bất đắc dĩ, chẳng hạn như việc bố trí làn đường dành riêng để rẽ trái, thìcó thể bố trí từ ( ) cm trở lên. Nội dung nào dưới đây là tiêu chuẩn đúng trong ( )?",
+  "보기1": "① 5, 300",
+  "보기2": "② 4, 285",
+  "보기3": "③ 3, 275",
+  "보기4": "④ 2, 265",
+  "정답": 3
+ },
+ {
+  "id": 214,
+  "문제": "214. Nội dung nào sau đây đúng với trường hợp có thể vượt xe khác khi chiều rộng của phần đường bên phảikhông đủ 6m?",
+  "보기1": "① Trường hợp không thể kiểm tra phần đường bên phải",
+  "보기2": "② Trường hợp có thể gây cản trở giao thông cho hướng ngược lại",
+  "보기3": "③ Trường hợp xe phía trước chạy với tốc độ thấp và đảm bảo được khoảng cách an toàn với các phương tiệnkhác",
+  "보기4": "④ Trường hợp có biển báo an toàn hạn chế hoặc cấm vượt",
+  "정답": 3
+ },
+ {
+  "id": 215,
+  "문제": "215. Theo Luật Giao thông đường bộ, với đường có lượng xe lưu thông ở hai hướng khác biệt rõ rệt theokhung thời gian, thì làn đường nào giữ vai trò chỉ thị hướng lưu thông của làn xe theo đèn tín hiệu để cóthể tăng số lượng làn xe về hướng có nhiều phương tiện tham gia giao thông?",
+  "보기1": "① Làn đường cạnh vỉa hè",
+  "보기2": "② Làn đường dành riêng cho xe buýt",
+  "보기3": "③ Làn đường tăng tốc",
+  "보기4": "④ Làn xe vượt",
+  "정답": 1
+ },
+ {
+  "id": 216,
+  "문제": "216. 2. Người điều khiển tất cả loại xe trong Pháp lệnh Giao thông Đường bộ khi muốn ( ) trên đường giaonhau, phải đi chậm ở mép phải của đường trước rồi ( ). Trong trường hợp này, người điều khiển xe trên lànđường ( ), phải dừng lại theo tín hiệu đèn hoặc chú ý người đi bộ hay xe đạp đang lưu thông. Thứ tự nộidung để điền vào ( ) là?",
+  "보기1": "① Rẽ phải - Rẽ phải - Rẽ phải",
+  "보기2": "② Rẽ trái - Rẽ trái - Rẽ trái",
+  "보기3": "③ Rẽ phải - Rẽ trái - Rẽ phải",
+  "보기4": "④ Rẽ trái - Rẽ phải - Rẽ trái",
+  "정답": 1
+ },
+ {
+  "id": 217,
+  "문제": "217. Theo Luật Giao thông đường bộ, câu nào giải thích đúng về thay đổi làn đường trong số những câu giảithích sau?",
+  "보기1": "① Do trên cầu là nơi nguy hiểm nên có nhiều trường hợp hạn chế thay đổi làn đường bằng vạch liền màutrắng.",
+  "보기2": "② Nơi hạn chế thay đổi làn đường được biểu thị bằng vạch đứt màu trắng.",
+  "보기3": "③ Tại nơi cấm thay đổi làn đường, không được đổi làn đường cho dù không thể lưu thông do có chướng ngạivật chẳng hạn như công trường đang xây dựng.",
+  "보기4": "④ Mặc dù là nơi cấm thay đổi làn đường nhưng nếu thay đổi làn đường một cách an toàn thì không bị coi làvi phạm quy định.",
+  "정답": 1
+ },
+ {
+  "id": 218,
+  "문제": "218. Hành vi “nối đuôi nhau đi”, cản trở lưu thông của xe khác, khiến xe khác không thể đi qua được ngay cảkhi đèn tín hiệu cho phép tiến vào giao lộ đã đổi màu là hành vi nào?",
+  "보기1": "① Vi phạm phương thức lưu thông trên đường giao nhau",
+  "보기2": "② Vi phạm quy định tạm dừng",
+  "보기3": "③ Vi phạm phương thức thay đổi lối đi",
+  "보기4": "④ Vi phạm các biện pháp giảm thiểu tắc nghẽn",
+  "정답": 1
+ },
+ {
+  "id": 219,
+  "문제": "219. Câu nào sau đây giải thích đúng về làn đường tăng tốc trên đường cao tốc?",
+  "보기1": "① Là làn đường dành cho những xe đang đi trên đường cao tốc muốn chuyển sang làn phụ để ra khỏi cao tốc(làn giảm tốc).",
+  "보기2": "② Là làn đường giúp cho các xe tiến vào đường cao tốc có thể lấy lại tốc độ cần thiết.",
+  "보기3": "③ Là làn đường dành cho xe tăng tốc khi muốn vượt xe khác trên đường cao tốc.",
+  "보기4": "④ Là làn đường dùng để làm giảm ảnh hưởng của việc các xe to giảm tốc khi lên dốc.",
+  "정답": 2
+ },
+ {
+  "id": 220,
+  "문제": "220. Hành động phù hợp nhất khi biết mình đã vào nhầm đường cao tốc?",
+  "보기1": "① Dừng ở làn đường phụ khẩn cấp, bật đèn báo khẩn cấp để nhờ sự giúp đỡ của cảnh sát tuần tra.",
+  "보기2": "② Vì đã đi vào rồi nên cứ đi cho đến lối ra tiếp theo.",
+  "보기3": "③ Bật đèn báo khẩn cấp và lùi từ từ trên đường mình đã đi vào.",
+  "보기4": "④ Nếu làn xe lúc tiến vào là từ làn số 2 trở lên thì quay đầu xe lại để đi ra.",
+  "정답": 2
+ },
+ {
+  "id": 221,
+  "문제": "221. Theo Luật Giao thông đường bộ thì màu sắc vạch kẻ nào dưới đây bị vẽ sai?",
+  "보기1": "① Màu vàng biểu thị việc phân luồng giao thông hai chiều trong khu vực an toàn",
+  "보기2": "② Màu xanh biểu thị làn đường dành riêng cho xe buýt",
+  "보기3": "③ Màu hồng, màu xanh lá cây nhạt hoặc màu xanh lá cây biểu thị vạch chỉ dẫn màu sắc trên mặt đường",
+  "보기4": "④ Đường viền màu trắng biểu thị hạn chế tốc độ được vẽ trong khu vực bảo vệ trẻ em",
+  "정답": 4
+ },
+ {
+  "id": 222,
+  "문제": "222. Theo Pháp lệnh về Giao thông đường bộ, loại xe nào có thể đi ở làn đường bên trái trên đoạn đườngkhông phải là đường cao tốc?",
+  "보기1": "① Xe ô tô chở người và xe ô tô buýt chở người dạng vừa và nhỏ, nhỏ gọn",
+  "보기2": "② Xe khách cỡ lớn",
+  "보기3": "③ Xe tải chở hàng",
+  "보기4": "④ Xe ô tô chuyên dụng và xe mô tô 2 bánh",
+  "정답": 1
+ },
+ {
+  "id": 223,
+  "문제": "223. Đoạn đường nào cho phép xe ô tô quay đầu (U- turn)?",
+  "보기1": "① Đoạn đường có vạch liền màu vàng",
+  "보기2": "② Đoạn đường có vạch liền màu trắng",
+  "보기3": "③ Đoạn đường có vạch đứt màu trắng",
+  "보기4": "④ Đoạn đường có vạch liền màu xanh",
+  "정답": 3
+ },
+ {
+  "id": 224,
+  "문제": "224. Dưới đây là mô tả về việc phân loại giao thông theo làn đường theo Pháp lệnh về Giao thông đường bộ.Nội dung nào sau đây là sai?",
+  "보기1": "① Khi đếm thứ tự làn đường thì tính từ làn đường ở trung tâm là làn đường số 1.",
+  "보기2": "② Trường hợp đang đi với tốc độ chậm và có nguy cơ cản trở việc lưu thông bình thường của một phươngtiện khác thì phải lái xe sang làn đường bên phải của làn đường đang đi.",
+  "보기3": "③ Trên đường một chiều, làn đường số 1 được tính từ phía bên phải của con đường.",
+  "보기4": "④ Về nguyên tắc, tất cả các xe ô tô có thể đi trên làn đường số 2 ở trên đường cao tốc có 2 làn đường mộtchiều.",
+  "정답": 3
+ },
+ {
+  "id": 225,
+  "문제": "225. Theo Pháp lệnh về Giao thông đường bộ, trường hợp tầm nhìn xa của người lái xe ô tô dưới 50m do mưato thì phải lưu thông với tốc độ giảm ( ) của tốc độ tối đa. Nội dung nào đúng với quy định khiđiền vào vị trí ( )?",
+  "보기1": "① 50%",
+  "보기2": "② 40%",
+  "보기3": "③ 30%",
+  "보기4": "④ 20%",
+  "정답": 1
+ },
+ {
+  "id": 226,
+  "문제": "226. Theo Luật Giao thông đường bộ, hai tiêu chuẩn nào là đúng để xe ô tô có thể đi trên làn đường dànhriêng cho xe khách?",
+  "보기1": "① Xe ô tô chở 3 người trở lên",
+  "보기2": "② Xe tải chở 3 người trở lên",
+  "보기3": "③ Xe khách chở 3 người trở lên",
+  "보기4": "④ Xe mô tô chở 2 người trở lên",
+  "정답": 1.3
+ },
+ {
+  "id": 227,
+  "문제": "227. Theo Luật Giao thông đường bộ, khi bố trí làn đường trên đoạn đường không có phân chia vỉa hè và lòngđường thì cần phải lắp đặt gì ở hai bên đường để người đi bộ có thể đi qua một cách an toàn?",
+  "보기1": "① Khu vực an toàn",
+  "보기2": "② Biểu thị vạch hạn chế thay đổi làn phía trước",
+  "보기3": "③ Lề đường",
+  "보기4": "④ Khu vực mép đường",
+  "정답": 4
+ },
+ {
+  "id": 228,
+  "문제": "228. Nội dung nào là cách lưu thông đúng trên đường giao có làn xe 1 - làn xe 2 là làn rẽ trái?",
+  "보기1": "① Xe ô tô chở người chỉ được dùng làn xe thứ nhất để rẽ trái.",
+  "보기2": "② Xe ô tô chở người chỉ được dùng làn xe thứ hai để rẽ trái.",
+  "보기3": "③ Xe ô tô chở khách cỡ lớn chỉ được dùng làn xe thứ nhất để rẽ trái.",
+  "보기4": "④ Xe ô tô chở khách cỡ lớn chỉ được dùng làn xe thứ hai để rẽ trái.",
+  "정답": 4
+ },
+ {
+  "id": 229,
+  "문제": "229. Câu nào không đúng với mô tả về phương pháp và tốc độ di chuyển của các phương tiện giao thôngtrong Luật Giao thông đường bộ?",
+  "보기1": "① Khi muốn rẽ trái ở đoạn đường giao nhau không có đèn tín hiệu mà có xe khác đang đi thẳng thì phảinhường đường cho xe đang đi thẳng.",
+  "보기2": "② Khi dừng xe ô tô tại đoạn đường không phân biệt lòng đường và vỉa hè thì phải duy trì khoảng cách tốithiểu 50cm tính từ lề đường bên phải đến tâm đường.",
+  "보기3": "③ Trường hợp xe phía trước muốn rẽ phải ở đoạn đường giao nhau và bật đèn tín hiệu thì xe phía sau khôngđược cản trở xe phía trước.",
+  "보기4": "④ Tốc độ tối thiểu trên đường dành riêng cho xe ô tô là 40 km/giờ.",
+  "정답": 4
+ },
+ {
+  "id": 230,
+  "문제": "230. Tốc độ tối đa của một chiếc xe tải với tải trọng 3 tấn đi trên đường cao tốc bốn làn xe có tốc độ tối đa100 km/giờ là bao nhiêu?",
+  "보기1": "① 60 km/giờ",
+  "보기2": "② 70 km/giờ",
+  "보기3": "③ 80 km/giờ",
+  "보기4": "④ 90 km/giờ",
+  "정답": 3
+ },
+ {
+  "id": 231,
+  "문제": "231. Nội dung nào sau đây đúng với trường hợp người lái xe không được đi về bên trái đường?",
+  "보기1": "① Trường hợp hạn chế vượt bằng biển báo an toàn",
+  "보기2": "② Trường hợp đường một chiều",
+  "보기3": "③ Trường hợp không thể đi ở phía bên phải đường do đường đang thi công",
+  "보기4": "④ Trường hợp chiều rộng của phần đường bên phải không đủ để xe lưu thông",
+  "정답": 1
+ },
+ {
+  "id": 232,
+  "문제": "232. Nội dung nào khác xa nhất với các quy tắc đi qua giao lộ và khu vực tiến thoái lưỡng nan (DilemmaZone)?",
+  "보기1": "① Kiểm tra trước tình hình giao thông trước khi đi vào giao lộ và dự đoán mọi tình huống bằng cách duy trìkhoảng cách an toàn, giảm tốc độ và lái xe cẩn trọng.",
+  "보기2": "② Đi vào giao lộ khi tín hiệu đèn đỏ là vi phạm đèn tín hiệu.",
+  "보기3": "③ Khi đèn tín hiệu chuyển từ màu xanh sang màu vàng, nếu bánh trước đã lấn vào vạch dừng thì quan sát tìnhhình giao thông tại giao lộ và nhanh chóng đi ra khỏi khúc giao.",
+  "보기4": "④ Càng đi với tốc độ nhanh trên giao lộ thì vùng tiến thoái lưỡng nan càng ngắn lại và quyết định của ngườilái xe cũng trở nên nhanh hơn.",
+  "정답": 4
+ },
+ {
+  "id": 233,
+  "문제": "233. Sau đây là các giải thích về khoảng cách giữa các xe. Mô tả nào sau đây là đúng?",
+  "보기1": "① Khoảng cách phản xạ nhanh là khoảng cách từ lúc phát hiện nguy hiểm, giẫm bàn đạp phanh cho đến khiphanh bắt đầu hoạt động.",
+  "보기2": "② Khoảng cách phanh là khoảng cách không bị đâm vào xe trước khi xe trước dừng đột ngột.",
+  "보기3": "③ Khoảng cách an toàn là khoảng cách từ khi khởi động phanh cho đến khi dừng hoàn toàn.",
+  "보기4": "④ Khoảng cách đạp phanh là khoảng cách từ khi nhận thấy nguy hiểm đến khi xe dừng lại hẳn.",
+  "정답": 1
+ },
+ {
+  "id": 234,
+  "문제": "234. Nơi nào sau đây có thể vượt?",
+  "보기1": "① Giao lộ",
+  "보기2": "② Vạch phân cách (vạch chấm màu vàng)",
+  "보기3": "③ Trong đường hầm (làn đường vạch chấm màu trắng)",
+  "보기4": "④ Trên cầu (làn đường vạch chấm màu trắng)",
+  "정답": 2
+ },
+ {
+  "id": 235,
+  "문제": "235. Theo Luật Giao thông đường bộ, câu nào sau đây giải thích hợp lý về việc chạy xe chậm trên đường giaonhau?",
+  "보기1": "① Chạy với tốc độ chậm để có thể dừng xe ngay lập tức.",
+  "보기2": "② Chạy và duy trì tốc độ 30km/giờ.",
+  "보기3": "③ Chạy với tốc độ chậm để không gây ra tai nạn.",
+  "보기4": "④ Chạy với tốc độ đủ để tránh khi xe phía trước dừng đột ngột.",
+  "정답": 1
+ },
+ {
+  "id": 236,
+  "문제": "236. Giải thích nào đúng với tiêu chuẩn xử phạt khi điều khiển xe ô tô (ngoại trừ phương tiện di chuyển cánhân) vi phạm tốc độ tối đa trên đường?",
+  "보기1": "① Người lái xe với tốc độ quá 100 km/giờ 3 lần trở lên sẽ bị phạt tiền hình sự tối đa 5 triệu Won hoặc bị tạmgiam.",
+  "보기2": "② Người lái xe với tốc độ quá 100 km/giờ 3 lần trở lên sẽ bị phạt tù tối đa 1 năm hoặc phạt tiền hình sự tốiđa 5 triệu Won.",
+  "보기3": "③ Người lái xe với tốc độ quá 100 km/giờ 2 lần sẽ bị phạt tiền hình sự tối đa 3 triệu Won.",
+  "보기4": "④ Người lái xe với tốc độ quá 80 km/giờ sẽ bị phạt tiền hình sự tối đa 500.000 Won hoặc bị tạm giam.",
+  "정답": 2
+ },
+ {
+  "id": 237,
+  "문제": "237. Cách xử lý đúng khi định rẽ phải ở đường giao nhau không có đèn giao thông?",
+  "보기1": "① Nhanh chóng rẽ phải với tốc độ cao nếu có thể.",
+  "보기2": "② Rẽ phải sau khi chiếc xe đang đi vào đường giao nhau ở phía trước đã đi qua.",
+  "보기3": "③ Nếu có xe ở phía đối diện đang rẽ trái phía trước thì chú ý đến sự an toàn rồi rẽ phải.",
+  "보기4": "④ Khi rẽ phải từ đường rộng sang đường hẹp thì không cần chú ý đến xe khác.",
+  "정답": 2
+ },
+ {
+  "id": 238,
+  "문제": "238. Bạn muốn rẽ phải tại đoạn đường giao nhau có tín hiệu đèn giao thông và không có tín hiệu phụ trợriêng cho xe. Câu nào sau đây đúng với Pháp lệnh về Giao thông đường bộ?",
+  "보기1": "① Nếu tín hiệu của xe bật sáng màu đỏ thì tạm dừng ngay trước vạch dừng, bất kể tín hiệu dành cho ngườiđi bộ tại lối qua đường là gì.",
+  "보기2": "② Nếu tín hiệu của xe bật sáng màu xanh lá cây thì không tạm dừng ở ngay trước vạch dừng mà rẽ phải luôn.",
+  "보기3": "③ Nếu tín hiệu của xe là mũi tên màu xanh lá cây thì tạm dừng ngay trước vạch dừng, bất kể tín hiệu dànhcho người đi bộ tại lối qua đường là gì.",
+  "보기4": "④ Không tạm dừng ở ngay trước vạch dừng mà rẽ phải luôn, miễn là không cản trở sự lưu thông của xe khácvà bất kể tín hiệu của xe là gì.",
+  "정답": 4
+ },
+ {
+  "id": 239,
+  "문제": "239. Câu nào giải thích đúng nhất về cách rẽ trái và rẽ phải ở đường giao nhau?",
+  "보기1": "① Khi định rẽ phải thì phải chú ý đến xe đạp và người đi bộ đang đi hoặc đang dừng theo tín hiệu giaothông và đi qua một cách nhanh chóng.",
+  "보기2": "② Khi định rẽ trái, luôn luôn phải đi qua phía ngoài của phần trung tâm giữa đường giao nhau.",
+  "보기3": "③ Khi định rẽ phải, phải đi chậm lại dọc theo mép đường bên phải trước.",
+  "보기4": "④ Trong trường hợp định rẽ trái ở đường giao nhau không có đèn tín hiệu, nếu có người đi bộ đang đi quathì nhanh chóng đi qua phía trước người đó.",
+  "정답": 3
+ },
+ {
+  "id": 240,
+  "문제": "240. Giải thích nào đúng với khoảng cách phanh?",
+  "보기1": "① Là khoảng cách dừng hẳn sau khi người lái xe đạp phanh.",
+  "보기2": "② Là khoảng cách để tránh tai nạn khi xe trước dừng đột ngột.",
+  "보기3": "③ Cự ly chạy từ khi lái xe phát hiện nguy hiểm và đạp phanh cho đến khi xe dừng lại trên thực tế.",
+  "보기4": "④ Là quãng đường đi được từ lúc người lái xe nhận thức ra sự nguy hiểm và phản xạ đạp phanh đến trướckhi phanh thực sự hoạt động.",
+  "정답": 3
+ },
+ {
+  "id": 241,
+  "문제": "241. Cách lưu thông đúng ở đường giao nhau?",
+  "보기1": "① Trong trường hợp đèn tín hiệu màu đỏ nhấp nháy thì đi chậm chậm.",
+  "보기2": "② Trong trường hợp đèn tín hiệu màu vàng nhấp nháy thì đi qua thật nhanh.",
+  "보기3": "③ Không vượt lên trước ở đường giao nhau.",
+  "보기4": "④ Khi đến gần đường giao nhau thì luôn bật đèn pha hướng lên và tiến vào.",
+  "정답": 3
+ },
+ {
+  "id": 242,
+  "문제": "242. Sau đây là giải thích và cách sử dụng làn đường Hi-pass. Nội dung nào đúng nhất?",
+  "보기1": "① Làn đường Hi-pass luôn là làn đường số 1 nên phải chuyển từ làn đường thông thường sang làn đườngHi-pass trước rồi đi qua một cách an toàn.",
+  "보기2": "② Vạch chỉ dẫn làn đường Hi-pass của xe chở hàng có màu xanh dương, đây là làn đường chuyên dành cho xechở hàng nên có thể giữ nguyên tốc độ khi đi qua.",
+  "보기3": "③ Tốc độ đi qua khu vực Hi-pass của tất cả làn đường giới hạn tối đa 30km/giờ nên phải giảm tốc rồi đi chậmqua.",
+  "보기4": "④ Nếu đã tuân thủ tốc độ quy định khi đi qua khu vực Hi-pass của tất cả làn đường nhưng do thiết bị Hi-passbị hỏng nên không thể nhận diện được, thì chỉ cần thanh toán phí tại trạm thu phí ở điểm đến.",
+  "정답": 4
+ },
+ {
+  "id": 243,
+  "문제": "243. Biển báo tốc độ tối đa 60 km/giờ được lắp đặt tại đoạn đường dành riêng cho xe ô tô có 3 làn. Câu nàosau đây giải thích đúng về phương pháp tuân thủ tốc độ của người lái xe?",
+  "보기1": "① Lái xe với tốc độ 90km/giờ.",
+  "보기2": "② Lái xe với tốc độ 80km/giờ.",
+  "보기3": "③ Lái xe với tốc độ 70km/giờ.",
+  "보기4": "④ Lái xe với tốc độ 60km/giờ.",
+  "정답": 4
+ },
+ {
+  "id": 244,
+  "문제": "244. Theo Luật Giao thông đường bộ, tốc độ có thể giới hạn trên đường thông thường trong khu vực dân cư -khu vực thương mại và khu vực công nghiệp là bao nhiêu km/giờ?",
+  "보기1": "① Trong phạm vi 20km/giờ",
+  "보기2": "② Trong phạm vi 30km/giờ",
+  "보기3": "③ Trong phạm vi 40km/giờ",
+  "보기4": "④ Trong phạm vi 50km/giờ",
+  "정답": 4
+ },
+ {
+  "id": 245,
+  "문제": "245. Nội dung hạn chế tốc độ tối đa trong trung tâm thành phố là 50km/giờ, và đường nhánh trong khu dân cưđược hạ xuống 30km/giờ để giảm thiểu tai nạn giao thông đúng với chính sách an toàn giao thông nào?",
+  "보기1": "① Chính sách kinh tế mới New Deal",
+  "보기2": "② Tốc độ an toàn 5030",
+  "보기3": "③ Đại hội chung sức giảm thiểu tai nạn giao thông",
+  "보기4": "④ Hệ thống giao thông thông minh (ITS)",
+  "정답": 2
+ },
+ {
+  "id": 246,
+  "문제": "246. Hai nội dung nào sau đây giải thích đúng khi muốn rẽ trái ở đoạn đường giao nhau có chỉ dẫn 'Rẽ tráikhông được bảo vệ'?",
+  "보기1": "① Bắt buộc phải rẽ lúc đèn xanh khi không có xe chạy ngược chiều.",
+  "보기2": "② Phải rẽ trái lúc đèn đỏ khi tất cả các xe chạy ngược chiều dừng ngay phía trước vạch dừng xe.",
+  "보기3": "③ Nếu xảy ra tai nạn khi 'Rẽ trái không được bảo vệ' lúc đèn xanh thì sẽ phải chịu phạt do vi phạm nghĩa vụlái xe an toàn.",
+  "보기4": "④ Nếu xảy ra tai nạn khi 'Rẽ trái không được bảo vệ' lúc đèn đỏ thì sẽ phải chịu phạt do vi phạm nghĩa vụlái xe an toàn.",
+  "정답": 1.3
+ },
+ {
+  "id": 247,
+  "문제": "247. Xe đang chạy trên làn đường giữa dành riêng cho xe buýt của đường trong nội thành. Hai cách điều khiển xean toàn nhất là?",
+  "보기1": "① Liên tục nhấn còi để xe khác không chen ngang vào.",
+  "보기2": "② Người đi bộ bên phải có thể băng qua đường ở chỗ không có vạch nên phải chú ý khi lưu thông.",
+  "보기3": "③ Người đi bộ có thể đi ra từ trạm xe buýt ở bên trái nên phải đi chậm.",
+  "보기4": "④ Đèn giao thông có thể chuyển sang màu đỏ nên cần nhanh chóng đi qua.",
+  "정답": 2.3
+ },
+ {
+  "id": 248,
+  "문제": "248. Theo Luật Giao thông đường bộ, 2 phương pháp lái xe an toàn khi thay đổi làn đường là gì?",
+  "보기1": "① Khi thay đổi làn đường, phải thực hiện nhanh tối đa nhất.",
+  "보기2": "② Chỉ có thể thực hiện ở đoạn đường có vạch liền màu trắng.",
+  "보기3": "③ Phải tiến hành khi không gây cản trở cho việc lưu thông của xe đang đi.",
+  "보기4": "④ Chỉ có thể thực hiện ở đoạn đường có vạch đứt màu trắng.",
+  "정답": 3.4
+ },
+ {
+  "id": 249,
+  "문제": "249. Hai hành động điều khiển phương tiện giao thông an toàn nhất khi định rẽ phải ở đường giao nhau là gì?",
+  "보기1": "① Đèn xi nhan được bật lên ở phía sau cách trên 30m so với địa điểm rẽ phải.",
+  "보기2": "② Nếu có đường vạch liền màu trắng thì cần phải chú ý và đổi hướng sang bên phải.",
+  "보기3": "③ Rẽ phải mà không gây ảnh hưởng tới các xe đang tiến lên từ phía bên trái.",
+  "보기4": "④ Chú ý đến các phương tiện giao thông khác và rẽ phải thật nhanh.",
+  "정답": 1.3
+ },
+ {
+  "id": 250,
+  "문제": "250. Hai câu nào giải thích đúng về phương pháp lái xe khi vượt lên trước của người lái xe ô tô chở người?",
+  "보기1": "① Cần phải bảo đảm đầy đủ không gian bên trái khi bắt đầu vượt lên trước.",
+  "보기2": "② Khi vượt lên trước trên đường cao tốc thì phải lái xe trong phạm vi tốc độ giới hạn của đoạn đường đó.",
+  "보기3": "③ Có thể vượt lên trước phía bên phải trong trường hợp đã xác định an toàn.",
+  "보기4": "④ Sau khi đã đi qua phía bên trái của xe trước và không thấy có xe ở phía bên phải trong gương chiếu hậuthì tiến vào nhanh.",
+  "정답": 1.2
+ },
+ {
+  "id": 251,
+  "문제": "251. Hai phương pháp lái xe an toàn khi đi trên đường là?",
+  "보기1": "① Khi đỗ xe thì cần đỗ xe ở vùng an toàn.",
+  "보기2": "② Khi đèn chuyển màu vàng, dừng xe ở trước đường giao nhau để tuân thủ tín hiệu.",
+  "보기3": "③ Luôn giữ khoảng cách để có thể tránh va chạm khi xe phía trước phanh đột ngột.",
+  "보기4": "④ Khi vượt lên thì vượt lên phía bên trái của xe đi trước.",
+  "정답": 3.4
+ },
+ {
+  "id": 252,
+  "문제": "252. Khi vừa đi vào đường cao tốc mà có xe khẩn cấp đang chạy từ phía sau lên thì cách lái xe đúng nhất làgì?",
+  "보기1": "① Tiến vào bằng làn đường phụ khẩn cấp của làn tăng tốc rồi tăng tốc.",
+  "보기2": "② Tăng tốc đi nhanh vào đường cao tốc, lập tức đổi làn đường để cho xe khẩn cấp đi qua.",
+  "보기3": "③ Dừng ở làn đường phụ khẩn cấp để xe khẩn cấp đi qua trước rồi mới tiến vào đường cao tốc.",
+  "보기4": "④ Ở trên đường cao tốc, dừng xe và đi chậm rất nguy hiểm nên lái xe phải giữ nguyên tốc độ.",
+  "정답": 3
+ },
+ {
+  "id": 253,
+  "문제": "253. Theo Luật Giao thông đường bộ, nội dung nào dưới đây là nội dung người lái xe cần tuân thủ khi xe cứuhộ khẩn cấp lưu thông với mục đích khẩn cấp đang tiến đến gần?",
+  "보기1": "① Phải tạm dừng ở lề trái trên đường giao khi xe cứu hộ khẩn cấp tới gần đường giao.",
+  "보기2": "② Phải nhường đường để xe cứu hộ khẩn cấp được ưu tiên lưu thông ở các nơi ngoài đường giao.",
+  "보기3": "③ Đi với tốc độ cao hơn xe cứu hộ khẩn cấp để đi qua nhanh chóng.",
+  "보기4": "④ Tạm dừng tại vị trí đó và chờ cho đến khi xe cứu hộ khẩn cấp đi qua.",
+  "정답": 2
+ },
+ {
+  "id": 254,
+  "문제": "254. Cách nào là cách lái xe an toàn nhất khi đang rẽ phải trên đường giao nhau thì có xe cứu hỏa bật đèn tínhiệu và hú còi đang tiến đến gần?",
+  "보기1": "① Phải tạm dừng để tránh giao lộ.",
+  "보기2": "② Dừng ngay lập tức tại vị trí hiện tại.",
+  "보기3": "③ Đi chậm rồi rẽ phải.",
+  "보기4": "④ Đi nhanh qua đường giao rồi tiếp tục chạy.",
+  "정답": 1
+ },
+ {
+  "id": 255,
+  "문제": "255. Theo Luật Giao thông đường bộ, nội dung nào sau đây mà xe khẩn cấp không được áp dụng ngoại lệ?",
+  "보기1": "① Hạn chế tốc độ của xe ô tô",
+  "보기2": "② Cấm vượt",
+  "보기3": "③ Cấm chen ngang",
+  "보기4": "④ Bảo vệ người đi bộ",
+  "정답": 4
+ },
+ {
+  "id": 256,
+  "문제": "256. Xe khẩn cấp thì phải có những yếu tố báo hiệu đang làm nhiệm vụ khẩn cấp như còi hú, đèn nhấp nháy.Xe nào không báo hiệu khẩn cấp mà vẫn được công nhận là xe khẩn cấp?",
+  "보기1": "① Xe đi bắt các xe đỗ xe trái phép",
+  "보기2": "② Xe cứu hỏa",
+  "보기3": "③ Xe cấp cứu",
+  "보기4": "④ Xe cảnh sát truy bắt xe vi phạm tốc độ",
+  "정답": 4
+ },
+ {
+  "id": 257,
+  "문제": "257. Trong trường hợp muốn vượt lên trước xe cứu hỏa hay xe cấp cứu, hoặc đi tốc độ cao trong khu vực cấmvượt thì làm thế nào để được hưởng ngoại lệ?",
+  "보기1": "① Vừa lái xe vừa bấm còi.",
+  "보기2": "② Bảo đảm cấu trúc cần thiết cho việc lái xe an toàn theo Luật Quản lý xe ô tô và bấm còi báo động hoặcbật đèn khẩn cấp.",
+  "보기3": "③ Bật đèn trước và đi.",
+  "보기4": "④ Có thể được hưởng ngoại lệ dù không có làm cách gì đặc biệt.",
+  "정답": 2
+ },
+ {
+  "id": 258,
+  "문제": "258. Xe thường chở bệnh nhân nguy cấp đi cấp cứu thì phải làm gì để được đi giống như xe khẩn cấp?",
+  "보기1": "① Phải nhận giấy phép của đồn trưởng đồn cảnh sát.",
+  "보기2": "② Bật đèn trước hoặc đèn báo khẩn cấp.",
+  "보기3": "③ Vì có bệnh nhân đang nguy cấp nên không cần làm gì đặc biệt.",
+  "보기4": "④ Nhất định phải có xe hộ tống đi cùng.",
+  "정답": 2
+ },
+ {
+  "id": 259,
+  "문제": "259. Theo Luật Giao thông đường bộ, 2 loại xe nào dưới đây được xem là xe khẩn cấp?",
+  "보기1": "① Xe cứu hoả đang đi tới xưởng bảo dưỡng ô tô để sửa chữa hỏng hóc",
+  "보기2": "② Xe ô tô đang vận chuyển máu để truyền máu cho bệnh nhân hoặc người bị thương đang nguy hiểm tínhmạng",
+  "보기3": "③ Xe cấp cứu chở bệnh nhân xuất viện",
+  "보기4": "④ Xe ô tô được sử dụng để chở bưu phẩm khẩn cấp theo chỉ định của Giám đốc Sở Cảnh sát tỉnh - thànhphố",
+  "정답": 2.4
+ },
+ {
+  "id": 260,
+  "문제": "260. Theo Luật Giao thông đường bộ, người lái xe cấp cứu đang lưu thông với mục đích khẩn cấp có thể thựchiện 2 điều nào dưới đây?",
+  "보기1": "① Khi gây ra tai nạn giao thông, có thể tiếp tục lưu thông mà không cần xử lý cấp cứu cho người thươngvong.",
+  "보기2": "② Có thể tiếp tục lưu thông dù có gây trở ngại cho người đi bộ sang đường.",
+  "보기3": "③ Có thể lưu thông ra giữa hoặc sang bên trái đường.",
+  "보기4": "④ Có thể chen ngang ở đường đang bị tắc nghẽn.",
+  "정답": 3.4
+ },
+ {
+  "id": 261,
+  "문제": "261. Nội dung người đang điều khiển xe cứu hỏa không được làm khi đang lưu thông đúng với mục đích cứuhỏa là gì?",
+  "보기1": "① Không thắt dây an toàn",
+  "보기2": "② Lái xe khi đã uống rượu",
+  "보기3": "③ Chèn lên vạch phân luồng ở giữa",
+  "보기4": "④ Vi phạm đèn tín hiệu",
+  "정답": 2
+ },
+ {
+  "id": 262,
+  "문제": "262. Phải tham gia chương trình giáo dục an toàn giao thông định kỳ dành cho những người lái xe khẩn cấp ( )năm một lần. Chọn câu phù hợp với ( )?",
+  "보기1": "① 1",
+  "보기2": "② 2",
+  "보기3": "③ 3",
+  "보기4": "④ 5",
+  "정답": 3
+ },
+ {
+  "id": 263,
+  "문제": "263. Sau đây là giải thích về trường hợp ngoại lệ đối với xe khẩn cấp. Nội dung nào không đúng?",
+  "보기1": "① Có thể vượt lên trước ở những nơi cấm vượt lên trước.",
+  "보기2": "② Có thể chen ngang ở những nơi cấm chen ngang.",
+  "보기3": "③ Ngay cả khi có người đi bộ đang sang đường ở lối qua đường dành cho người đi bộ, vẫn có thể lưu thôngmà không cần bảo vệ người đi bộ.",
+  "보기4": "④ Có thể chạy nhanh hơn tốc độ tối đa của lưu thông đường bộ.",
+  "정답": 3
+ },
+ {
+  "id": 264,
+  "문제": "264. Xe chở máu cung cấp đang di chuyển khẩn cấp để đáp ứng yêu cầu truyền máu thì vẫn không được phéplàm gì trong các hành động sau?",
+  "보기1": "① Bật còi hú",
+  "보기2": "② Lái xe về phía bên trái đường",
+  "보기3": "③ Lái xe vượt quá tốc độ cho phép",
+  "보기4": "④ Tiếp tục đi nếu có tai nạn xảy ra",
+  "정답": 4
+ },
+ {
+  "id": 265,
+  "문제": "265. Phương tiện nào sau đây có thể được Giám đốc Sở Cảnh sát tỉnh - thành phố chỉ định là xe cứu hộ khẩncấp theo đăng ký của cá nhân hoặc cơ quan v.v?",
+  "보기1": "① Xe cứu hỏa",
+  "보기2": "② Phương tiện dùng cho kinh doanh gas được sử dụng để xử lý khẩn cấp ứng phó rò rỉ khí gas",
+  "보기3": "③ Xe cấp cứu",
+  "보기4": "④ Xe chở máu cung cấp",
+  "정답": 2
+ },
+ {
+  "id": 266,
+  "문제": "266. Phương tiện nào sau đây không phải là xe cứu hộ khẩn cấp có thể được Giám đốc Sở Cảnh sát tỉnh -thành phố chỉ định theo đăng ký của cá nhân hoặc cơ quan v.v?",
+  "보기1": "① Xe dùng cho cảnh sát được sử dụng để kiểm soát giao thông",
+  "보기2": "② Xe được sử dụng để vận chuyển bưu phẩm khẩn cấp",
+  "보기3": "③ Xe được sử dụng để sửa chữa điện thoại khẩn cấp",
+  "보기4": "④ Xe dùng cho cơ quan để thực thi công việc dân phòng như điều động để khắc phục khẩn cấp",
+  "정답": 1
+ },
+ {
+  "id": 267,
+  "문제": "267. Theo Luật Giao thông đường bộ, ngoại trừ mục đích khẩn cấp, trường hợp nào xe khẩn cấp không đượcsử dụng đèn cảnh báo?",
+  "보기1": "① Trường hợp xe cứu hoả tuần tra công tác phòng cháy, cứu trợ và cấp cứu.",
+  "보기2": "② Trường hợp xe cứu hoả di chuyển khẩn cấp để bảo trì bảo dưỡng.",
+  "보기3": "③ Trường hợp xe chuyên dùng cho nhiệm vụ dân phòng tham gia huấn luyện liên quan tới mục đích sử dụngkhẩn cấp vốn có.",
+  "보기4": "④ Trường hợp xe cảnh sát tuần tra để ngăn ngừa và trấn áp tội phạm.",
+  "정답": 2
+ },
+ {
+  "id": 268,
+  "문제": "268. Theo Luật Giao thông đường bộ, điều nào sau đây giải thích về việc xe khẩn cấp đang được điều độngkhẩn cấp vi phạm quy định giao thông?",
+  "보기1": "① Lưu thông với tốc độ 100km/giờ trên đường thông thường có 2 làn mỗi chiều.",
+  "보기2": "② Vượt lên trước trong đường hầm đã được chia làn bằng vạch liền màu trắng.",
+  "보기3": "③ Chen ngang tại đường giao nhau để rẽ sang phải.",
+  "보기4": "④ Ngay cả khi xảy ra tai nạn giao thông thiệt hại về người, vẫn tiếp tục lái xe mà không có biện pháp xử lýtai nạn cần thiết do đang được điều động khẩn cấp.",
+  "정답": 4
+ },
+ {
+  "id": 269,
+  "문제": "269. Trường hợp nào dưới đây không phải là trường hợp mà xe khẩn cấp có thể dùng đèn báo hiệu khẩn cấpngoài mục đích khẩn cấp?",
+  "보기1": "① Xe cứu hỏa đi tuần tra để phòng ngừa hỏa hoạn",
+  "보기2": "② Xe chuyên dùng để quản lý đường bộ đi tuần tra để phòng ngừa nguy hiểm trên đường",
+  "보기3": "③ Xe cứu thương đang tham gia huấn luyện liên quan đến mục đích cấp cứu khẩn cấp",
+  "보기4": "④ Xe cảnh sát đi tuần tra nhằm phòng ngừa tội phạm",
+  "정답": 2
+ },
+ {
+  "id": 270,
+  "문제": "270. Hai nội dung nào dưới đây là cách nhường đường đúng cho xe cứu hộ khẩn cấp đang lưu thông với mụcđích khẩn cấp?",
+  "보기1": "① Theo nguyên tắc thì tất cả các xe ô tô phải tấp vào lề đường bên trái.",
+  "보기2": "② Nếu xe cứu hộ khẩn cấp đang lên dốc hẹp theo hướng ngược chiều thì phải tấp vào lề bên phải để tránhvà nhường đường cho xe.",
+  "보기3": "③ Phải tạm dừng để tránh đường giao nhau ở khu vực gần khúc giao.",
+  "보기4": "④ Trường hợp nếu xe cứu hộ khẩn cấp đến gần các khu vực ngoài đường giao hoặc lân cận thì phải nhườngđường để xe cứu hộ khẩn cấp được ưu tiên lưu thông.",
+  "정답": 3.4
+ },
+ {
+  "id": 271,
+  "문제": "271. Hai lựa chọn nào dưới đây phù hợp với xe khẩn cấp?",
+  "보기1": "① Là xe được xe cảnh sát điều khiển với mục đích khẩn cấp",
+  "보기2": "② Là xe của cơ quan điều tra nhưng được dùng cho mục đích không liên quan đến điều tra",
+  "보기3": "③ Là xe cứu nạn được điều động đi kéo một phương tiện khác gặp tai nạn",
+  "보기4": "④ Là xe đang chở bệnh nhân hay người bị thương đang nguy kịch tính mạng hoặc chở máu để đi truyền",
+  "정답": 1.4
+ },
+ {
+  "id": 272,
+  "문제": "272. Nội dung nào là giải thích không đúng về nghĩa vụ của người điều khiển và người điều hành xe buýt đưađón trẻ?",
+  "보기1": "① Người điều khiển xe buýt đưa đón trẻ chỉ bật đèn hiệu khi có trẻ em và trẻ nhỏ lên xuống xe.",
+  "보기2": "② Người điều khiển xe buýt đưa đón trẻ phải chờ cho tất cả trẻ em và trẻ nhỏ đang trên xe đều đã thắt dây antoàn rồi mới xuất phát.",
+  "보기3": "③ Người điều hành xe buýt đưa đón trẻ phải dán biển báo có người bảo hộ đi cùng nếu có người bảo hộ cùngđi trên xe buýt đưa đón trẻ.",
+  "보기4": "④ Người điều hành xe buýt đưa đón trẻ không cần phải ghi chép lại lịch sử lái xe an toàn nếu có người bảo hộcùng đi trên xe.",
+  "정답": 4
+ },
+ {
+  "id": 273,
+  "문제": "273. Nơi nào trong số các khu vực sau bắt buộc phải tạm dừng bất kể có người đi bộ lưu thông hay không?",
+  "보기1": "① Đường không có vạch trung tâm và không phân chia lòng đường và vỉa hè",
+  "보기2": "② Trước vạch sang đường dành cho người đi bộ không có đèn giao thông trong khu vực bảo vệ trẻ em",
+  "보기3": "③ Đường ưu tiên cho người đi bộ",
+  "보기4": "④ Nơi nằm ngoài đường đi",
+  "정답": 2
+ },
+ {
+  "id": 274,
+  "문제": "274. Trên đoạn đường mỗi chiều có 2 làn, một chiếc xe buýt đưa đón trẻ em đi học đang chạy ở làn số 1 vớitrạng thái thông báo đang chở trẻ em hoặc trẻ nhỏ. Phương pháp lái xe nào sau đây là an toàn nhất?",
+  "보기1": "① Dù làn 2 có trống cũng không vượt lên trước.",
+  "보기2": "② Vượt lên và đi ở làn đường số 2.",
+  "보기3": "③ Bấm còi yêu cầu xe phía trước tránh đường.",
+  "보기4": "④ Quan sát xe đi ngược chiều, lấn vạch phân cách giữa đường để vượt lên trước.",
+  "정답": 1
+ },
+ {
+  "id": 275,
+  "문제": "275. Nội dung nào dưới đây giải thích đúng về khu vực bảo vệ trẻ em?",
+  "보기1": "① Được bố trí trước trường mẫu giáo hoặc trường trung học cơ sở.",
+  "보기2": "② Thị trưởng có thể cấm xe cộ lưu thông.",
+  "보기3": "③ Trẻ em trong khu vực bảo vệ trẻ em là trẻ dưới 12 tuổi.",
+  "보기4": "④ Hạn chế tốc độ lưu thông của xe ô tô dưới 30km/giờ.",
+  "정답": 4
+ },
+ {
+  "id": 276,
+  "문제": "276. Theo Luật Trường hợp đặc biệt về xử lý tai nạn giao thông, cách bị xử phạt nào sau đây là đúng trongtrường hợp đang đi với tốc độ 40km/giờ và gây tai nạn làm trẻ em bị thương trong khu vực bảo hộ trẻem?",
+  "보기1": "① Chỉ bị xử phạt hình sự khi nạn nhân yêu cầu truy cứu trách nhiệm hình sự.",
+  "보기2": "② Bị truy cứu trách nhiệm hình sự mà không cần đến ý kiến của nạn nhân.",
+  "보기3": "③ Không bị truy cứu trách nhiệm hình sự trong trường hợp có tham gia bảo hiểm toàn diện.",
+  "보기4": "④ Nếu đạt được thỏa thuận với nạn nhân thì không bị truy cứu trách nhiệm hình sự.",
+  "정답": 2
+ },
+ {
+  "id": 277,
+  "문제": "277. Nội dung nào đúng với tiêu chuẩn số người được phép chuyên chở trên xe ô tô có thể đăng ký làm xebuýt trường học? (1 trẻ em được coi là 1 hành khách đi xe)",
+  "보기1": "① Từ 11 chỗ trở lên",
+  "보기2": "② Từ 16 chỗ trở lên",
+  "보기3": "③ Từ 17 chỗ trở lên",
+  "보기4": "④ Từ 9 chỗ trở lên",
+  "정답": 4
+ },
+ {
+  "id": 278,
+  "문제": "278. Khi người lái xe ô tô con vượt quá tốc độ giới hạn tại các khu vực bảo vệ trẻ em là 25km/giờ vào lúc 08",
+  "보기1": "① 10 điểm",
+  "보기2": "② 15 điểm",
+  "보기3": "③ 30 điểm",
+  "보기4": "④ 60 điểm",
+  "정답": 3
+ },
+ {
+  "id": 279,
+  "문제": "279. Nếu người lái xe ô tô vượt lên trước chiếc xe buýt đưa đón trẻ em đi học đang lưu thông trên đường vớibiển báo đang chở trẻ em hoặc trẻ nhỏ thì sẽ bị phạt mấy điểm?",
+  "보기1": "① 10 điểm",
+  "보기2": "② 15 điểm",
+  "보기3": "③ 30 điểm",
+  "보기4": "④ 40 điểm",
+  "정답": 3
+ },
+ {
+  "id": 280,
+  "문제": "280. Theo Luật Giao thông đường bộ, câu nào sau đây phù hợp với quy định về thời gian đào tạo dành cho đốitượng phải đào tạo an toàn về xe buýt đưa đón trẻ em đi học?",
+  "보기1": "① Từ 1 giờ trở lên",
+  "보기2": "② Từ 3 giờ trở lên",
+  "보기3": "③ Từ 5 giờ trở lên",
+  "보기4": "④ Từ 6 giờ trở lên",
+  "정답": 2
+ },
+ {
+  "id": 281,
+  "문제": "281. Độ tuổi đúng của trẻ em và trẻ nhỏ trong Luật Giao thông Đường bộ?",
+  "보기1": "① Trẻ em là từ 13 tuổi trở xuống",
+  "보기2": "② Trẻ nhỏ là dưới 6 tuổi",
+  "보기3": "③ Trẻ em là dưới 15 tuổi",
+  "보기4": "④ Trẻ nhỏ là dưới 7 tuổi",
+  "정답": 2
+ },
+ {
+  "id": 282,
+  "문제": "282. Khi người lái xe ô tô con vi phạm tín hiệu giao thông ở khu vực bảo vệ trẻ em vào lúc 13",
+  "보기1": "① 50.000 Won",
+  "보기2": "② 70.000 Won",
+  "보기3": "③ 120.000 Won",
+  "보기4": "④ 150.000 Won",
+  "정답": 3
+ },
+ {
+  "id": 283,
+  "문제": "283. Phương pháp lái xe đúng nhất trong trường hợp trẻ em đang chơi trên đường mà không có người bảo hộlà gì?",
+  "보기1": "① Không quan tâm và đi qua bởi đây là lỗi của trẻ nhỏ.",
+  "보기2": "② Bấm còi để dọa trẻ và tiếp tục đi.",
+  "보기3": "③ Phải dừng lại tạm thời.",
+  "보기4": "④ Cẩn thận với trẻ nhỏ và đi qua thật nhanh.",
+  "정답": 3
+ },
+ {
+  "id": 284,
+  "문제": "284. Khi có trẻ em đang đi trên vạch sang đường dành cho người đi bộ, nội dung nào đúng với quy định và hànhđộng của người điều khiển xe theo Pháp lệnh Giao thông Đường bộ?",
+  "보기1": "① Biển báo vạch sang đường dành cho người đi bộ nhằm mục đích khuyến khích người đi bộ lưu thông trênvạch sang đường này, người điều khiển xe phải tạm dừng trước vạch sang đường này.",
+  "보기2": "② Đối với vạch sang đường dành cho người đi bộ trên đường thông thường không có đèn giao thông, nếu lỡ lấnqua vạch dừng thì chỉ cần không lấn quá sâu vào vùng vạch sang đường là được.",
+  "보기3": "③ Đối với vạch sang đường dành cho người đi bộ trên đường thông thường không có đèn giao thông, vì khôngcó đèn giao thông nên cần đi chậm qua ở phía sau trẻ.",
+  "보기4": "④ Biển báo vạch sang đường dành cho người đi bộ được đặt ở hai bên đường, tại vị trí cần thiết của nơi đã vẽvạch sang đường, người điều khiển xe phải tạm dừng trước vạch sang đường này.",
+  "정답": 4
+ },
+ {
+  "id": 285,
+  "문제": "285. Khi xe buýt đưa đón trẻ em đi học dừng lại ở đường mỗi chiều có 1 làn và đèn báo hiệu trẻ nhỏ hoặc trẻem đang lên xuống xe bật sáng thì người lái xe đang chạy ở hướng ngược lại phải làm gì?",
+  "보기1": "① Phải tạm thời dừng lại, kiểm tra an toàn rồi đi chậm qua.",
+  "보기2": "② Vừa đi chậm chậm vừa kiểm tra an toàn rồi mới đi qua.",
+  "보기3": "③ Cứ đi qua là được.",
+  "보기4": "④ Bấm còi xe và đi qua là được.",
+  "정답": 1
+ },
+ {
+  "id": 286,
+  "문제": "286. Hành động nào là hành động đúng nhất của người lái xe 'trong trường hợp va phải trẻ em' khi đang láixe?",
+  "보기1": "① Người điều khiển xe mô tô hai bánh hỏi trẻ em có bị thương không, nếu trẻ không nói gì thì phán đoán làkhông bị thương và cho xe đi tiếp.",
+  "보기2": "② Người điều khiển xe ô tô dừng xe ngay, quan sát trẻ bằng mắt thường và đánh giá không có chỗ nào bịthương thì cho xe đi tiếp.",
+  "보기3": "③ Người điều khiển xe tải đánh giá rằng trẻ không bị thương sau khi thấy trẻ ngã rồi đứng dậy được luôn vàcho xe đi tiếp.",
+  "보기4": "④ Người điều khiển xe đạp sau khi nhìn thấy trẻ bị ngã vụt đứng dậy và chạy thì cần báo cho đồn cảnh sátvà chờ ở tại hiện trường.",
+  "정답": 4
+ },
+ {
+  "id": 287,
+  "문제": "287. Người điều khiển xe có thể tiếp tục đi vì thuộc vào Tội không bị xử phạt theo nguyện vọng của nạn nhân.",
+  "보기1": "① Đây là “tội không bị xử phạt trái ý muốn của nạn nhân”, nên người điều khiển xe có thể tiếp tục đi.",
+  "보기2": "② Trẻ em không bị thương nên không phải là tai nạn giao thông và có thể rời khỏi hiện trường mà không cầncó bất kỳ xử lý nào.",
+  "보기3": "③ Bắt buộc phải thực hiện các xử lý cần thiết như liên lạc với bố mẹ v.v... rồi mới rời khỏi hiện trường.",
+  "보기4": "④ Đây là lỗi của trẻ nên người điều khiển xe chỉ cần lấy liên lạc của trẻ rồi đi về.",
+  "정답": 3
+ },
+ {
+  "id": 288,
+  "문제": "288. Theo Luật Giao thông đường bộ, ai là người có quyền chỉ định và quản lý các khu vực bảo vệ trẻ em?",
+  "보기1": "① Cục trưởng Cục Cảnh sát",
+  "보기2": "② Thị trưởng",
+  "보기3": "③ Giám đốc Sở Cảnh sát tỉnh - thành phố",
+  "보기4": "④ Bộ trưởng Bộ Giáo dục",
+  "정답": 2
+ },
+ {
+  "id": 289,
+  "문제": "289. Hai câu giải thích đúng về khu vực bảo vệ trẻ em là gì?",
+  "보기1": "① Khu vực bảo vệ trẻ em là khu vực nhất định trong các đường nằm trong vòng 100m xung quanh cổng chínhcủa trường tiểu học.",
+  "보기2": "② Trong trường hợp vi phạm dừng và đỗ xe trong khu vực bảo vệ trẻ em từ 8 giờ sáng cho đến 8 giờ tối thìsẽ bị tăng mức tiền phạt vi phạm giao thông.",
+  "보기3": "③ Thời gian qua đường của các đèn giao thông được lắp đặt trong khu vực bảo vệ trẻ em được căn cứ vàotốc độ đi bộ nhanh nhất của trẻ em.",
+  "보기4": "④ Nếu không chấp hành việc bảo vệ người đi bộ trong khu vực bảo vệ trẻ em từ 8 giờ sáng đến 8 giờ tối thìđiểm phạt sẽ tăng lên gấp 2 lần.",
+  "정답": 2.4
+ },
+ {
+  "id": 290,
+  "문제": "290. Hai giải thích đúng nhất về việc bảo vệ đặc biệt xe buýt đưa đón trẻ em đi học?",
+  "보기1": "① Cách vượt lên trước xe buýt đưa đón trẻ em đi học cũng giống như cách vượt lên trước những loại xe khác.",
+  "보기2": "② Khi trẻ em đang lên xuống xe buýt, xe đang đến từ hướng đối diện trên đường không có vạch phân cáchcũng phải kiểm tra sự an toàn rồi đi chậm lại.",
+  "보기3": "③ Khi trẻ em đang lên xuống xe buýt, xe đang đến từ hướng đối diện ở đường có mỗi chiều có 1 làn cũngphải tạm dừng để kiểm tra tính an toàn, sau đó đi chậm lại.",
+  "보기4": "④ Khi trẻ em đang lên xuống xe buýt, xe ô tô của làn đường đó và xe ô tô ở làn đường ngay bên cạnh lànđường đó phải tạm dừng để kiểm tra tính an toàn, sau đó đi chậm lại.",
+  "정답": 3.4
+ },
+ {
+  "id": 291,
+  "문제": "291. Dưới đây là mô tả về phương pháp điều khiển xe đạp theo Luật Giao thông đường bộ. Mục nào dưới đâylà sai?",
+  "보기1": "① Trường hợp ở nơi có đường dành riêng cho xe đạp thì phải đi trên đường dành riêng cho xe đạp đó.",
+  "보기2": "② Ở những nơi không có đường dành riêng cho xe đạp thì phải đi ở mép phải của đường.",
+  "보기3": "③ Người điều khiển xe đạp có thể đi ở phần mép đường (ngoại trừ khu vực cấm xe đạp có biển báo an toàn).",
+  "보기4": "④ Người điều khiển xe đạp có thể vừa đạp xe vừa băng qua đường trên lối sang đường cho người đi bộ.",
+  "정답": 4
+ },
+ {
+  "id": 292,
+  "문제": "292. Theo Luật Giao thông Đường bộ, các cơ quan bộ ngành nào cùng đưa ra các quy định cần thiết liên quanđến “Tiêu chuẩn và Quy trình Chỉ định Khu vực Bảo vệ”?",
+  "보기1": "① Khu vực bảo vệ trẻ em được chỉ định bởi quy định bộ ngành chung của Bộ Hành chính & An toàn, Bộ Phúclợi & Y tế, Bộ Giao thông & Địa chính.",
+  "보기2": "② Khu vực bảo vệ người cao tuổi được chỉ định bởi quy định bộ ngành chung của Bộ Hành chính & An toàn, BộGiao thông & Địa chính, Bộ Môi trường.",
+  "보기3": "③ Khu vực bảo vệ người khuyết tật được chỉ định bởi quy định bộ ngành chung của Bộ Hành chính & An toàn,Bộ Phúc lợi & Y tế, Bộ Giao thông & Địa chính.",
+  "보기4": "④ Khu vực bảo vệ người yếu thế trong giao thông được chỉ định bởi quy định bộ ngành chung của Bộ Hànhchính & An toàn, Bộ Môi trường, Bộ Giao thông & Địa chính.",
+  "정답": 3
+ },
+ {
+  "id": 293,
+  "문제": "293. Cách lái xe nào dưới đây là đúng để bảo vệ xe buýt đưa đón trẻ em đi học?",
+  "보기1": "① Trên đường mỗi chiều có 1 làn, người lái xe đang đi ở hướng đối diện phải tạm dừng trước khi đến gần xebuýt đưa đón trẻ đi học để kiểm tra an toàn rồi lái xe chậm lại.",
+  "보기2": "② Nếu xe buýt đưa đón trẻ em đi học bật đèn báo hiệu trẻ em đang lên xuống xe, bạn phải nhanh chóng điqua bằng làn đường không phải làn mà xe buýt đó đang dừng.",
+  "보기3": "③ Nếu không có vạch phân cách giữa đường, xe đang đi ở hướng đối diện vẫn phải tiếp tục giữ nguyên tốcđộ.",
+  "보기4": "④ Tất cả các lái xe của mọi loại xe đều có thể vượt lên trước xe buýt đưa đón trẻ em đi học, ngay cả khi xenày đang báo hiệu có trẻ em đang ở trên xe.",
+  "정답": 1
+ },
+ {
+  "id": 294,
+  "문제": "294. Hai nội dung nào dưới đây mô tả đúng về việc đăng ký xe buýt đưa đón học sinh?",
+  "보기1": "① Nếu muốn vận hành xe buýt đưa đón học sinh phải đăng ký trước với Cơ quan Giao thông Đường bộ vàđược cấp chứng nhận đăng ký.",
+  "보기2": "② Xe buýt đưa đón học sinh về nguyên tắc phải là xe ô tô có khả năng chở từ 9 hành khách trở lên (1 trẻ emđược coi là 1 hành khách đi xe).",
+  "보기3": "③ Khi đăng ký lại vì giấy đăng ký xe buýt đưa đón học sinh bị rách không thể sử dụng được, phải nộp kèmchứng nhận đăng ký đã rách không thể sử dụng cùng đơn đăng ký xin cấp lại giấy đăng ký xe buýt đưađón học sinh.",
+  "보기4": "④ Giấy đăng ký xe buýt đưa đón học sinh phải dán ở nơi dễ nhìn, phía trên bên trái cửa kính xe ô tô ở mặttrước của xe ô tô đó.",
+  "정답": 2.3
+ },
+ {
+  "id": 295,
+  "문제": "295. Nội dung nào dưới đây miêu tả đúng cách thức người lái xe buýt đưa đón học sinh cho trẻ nhỏ lên xuốngxe?",
+  "보기1": "① Trường hợp trẻ nhỏ đang lên xe phải bật đèn hiệu và đảm bảo an toàn.",
+  "보기2": "② Trường hợp giao thông phức tạp, tạm thời tắt đèn hiệu rồi cho trẻ lên xe.",
+  "보기3": "③ Cho trẻ em xuống quanh xe buýt đưa đón học sinh rồi khởi hành luôn.",
+  "보기4": "④ Ở khu vực bảo vệ trẻ em không cần thắt dây an toàn ở ghế ngồi cũng được.",
+  "정답": 1
+ },
+ {
+  "id": 296,
+  "문제": "296. Câu nào sau đây giải thích không đúng về khu vực bảo vệ trẻ em?",
+  "보기1": "① Tiền phạt vi phạm luật giao thông áp dụng cho khu vực này giống với khu vực bảo vệ người cao tuổi.",
+  "보기2": "② Biển báo 'đi chậm' có thể được lắp đặt trong khu vực bảo vệ trẻ em.",
+  "보기3": "③ Dừng và đỗ xe có thể bị cấm trong khu vực bảo vệ trẻ em.",
+  "보기4": "④ Bạn có thể bị xử phạt hình sự nếu gây tai nạn làm trẻ em bị thương, bất kể mọi hình thức thỏa thuận.",
+  "정답": 1
+ },
+ {
+  "id": 297,
+  "문제": "297. Trong khu vực bảo vệ trẻ em, trẻ em đi cùng em bé đang đi sang đường. Cách nào là cách lưu thôngđúng của người lái xe?",
+  "보기1": "① Tạm dừng xe để bảo vệ trẻ em và em bé.",
+  "보기2": "② Vì trẻ em đang vừa bảo vệ em bé vừa sang đường nên người lái xe đi chậm.",
+  "보기3": "③ Vì trẻ em và em bé vẫn đang ở phía làn đường đối diện nên đi nhanh qua.",
+  "보기4": "④ Vì bước chân của trẻ em và em bé chậm nên phải giữ khoảng cách an toàn, tránh sang bên phải để lưuthông.",
+  "정답": 1
+ },
+ {
+  "id": 298,
+  "문제": "298. Giải thích nào đúng liên quan đến khu vực bảo vệ trẻ em theo Luật Giao thông đường bộ?",
+  "보기1": "① Trường hợp xảy ra tai nạn giao thông do trẻ em băng qua đường không đúng nơi quy định thì lái xe đượcmiễn toàn bộ trách nhiệm.",
+  "보기2": "② Trường hợp người đi xe đạp va vào trẻ em khi đang đi xe thì chỉ tồn tại trách nhiệm dân sự vì xe đạpkhông phải là xe cơ giới.",
+  "보기3": "③ Nếu nhìn thấy trẻ em bất ngờ chạy vào làn đường thì không đi chậm mà phải tạm dừng.",
+  "보기4": "④ Giám đốc Sở Cảnh sát có thể chỉ định tốc độ lưu thông của xe ô tô trong phạm vi 50 km/giờ.",
+  "정답": 3
+ },
+ {
+  "id": 299,
+  "문제": "299. Sau đây là giải thích và cách lưu thông ở khu vực bảo vệ trẻ em. Hai nội dung nào đúng?",
+  "보기1": "① Trường hợp cần bảo vệ trẻ em, có thể giới hạn tốc độ lưu thông tối đa là 30km/giờ và khi lưu thông, luônphải đi chậm trong tốc độ giới hạn.",
+  "보기2": "② Trong trường hợp ① trên đây, đối tượng giới hạn tốc độ là xe ô tô, xe đạp có gắn động cơ, xe điện chạy trênđường ray, khi có trẻ em sang đường, các xe phải tạm dừng.",
+  "보기3": "③ Những con đường xung quanh trường học đặc biệt tập trung đào tạo thực hành - trải nghiệm - phát triển tàinăng hoặc trường dành cho người nước ngoài không phải là đối tượng chỉ định khu vực bảo vệ trẻ em, nênnếu có trẻ qua đường ở nơi không có vạch sang đường thì chỉ cần đi chậm lại.",
+  "보기4": "④ Ưu tiên giới hạn tốc độ và lắp đặt biển báo an toàn báo hiệu vạch sang đường ở khu vực bảo vệ trẻ em, khicó trẻ đang đứng ở xung quanh vạch trung tâm thì phải đi chậm lại.",
+  "정답": 1.2
+ },
+ {
+  "id": 300,
+  "문제": "300. Mức phạt đúng khi người lái xe chở khách có hành vi vi phạm quy định bảo vệ đặc biệt đối với xe buýtđưa đón trẻ đi học?",
+  "보기1": "① 130.000 Won",
+  "보기2": "② 90.000 Won",
+  "보기3": "③ 70.000 Won",
+  "보기4": "④ 50.000 Won",
+  "정답": 2
+ },
+ {
+  "id": 301,
+  "문제": "301. Nội dung nào là giải thích đúng về quy định đối với trẻ em & trẻ nhỏ và nghĩa vụ của người điều khiển xebuýt đưa đón trẻ theo Luật Giao thông Đường bộ?",
+  "보기1": "① Trẻ em là người từ 13 tuổi trở xuống, khi có trẻ em lên xuống xe, bắt buộc phải kiểm tra an toàn rồi mới xuấtphát.",
+  "보기2": "② Trước khi xuất phát, trừ trẻ nhỏ dưới 6 tuổi thì tất cả trẻ em đều phải thắt dây an toàn rồi mới được xuấtphát.",
+  "보기3": "③ Khi có trẻ em xuống xe, phải cho trẻ xuống ở nơi trẻ yêu cầu một cách an toàn rồi mới xuất phát chạy tiếp.",
+  "보기4": "④ Trẻ nhỏ là trẻ dưới 6 tuổi, khi có trẻ nhỏ lên xuống xe phải bật đèn hiệu.",
+  "정답": 4
+ },
+ {
+  "id": 302,
+  "문제": "302. Câu nào sau đây miêu tả đúng về phương pháp hoạt động của đèn báo màu vàng và màu đỏ được gắntrên xe buýt đưa đón trẻ em đi học để bảo vệ trẻ em?",
+  "보기1": "① Khi dừng xe, đèn báo màu đỏ phải nhấp nháy.",
+  "보기2": "② Khi phanh, đèn báo màu đỏ phải nhấp nháy.",
+  "보기3": "③ Khi muốn dừng xe trên đường, đèn báo màu vàng phải nhấp nháy.",
+  "보기4": "④ Khi đỗ xe, đèn báo màu vàng và đèn báo màu đỏ phải đồng thời nhấp nháy.",
+  "정답": 3
+ },
+ {
+  "id": 303,
+  "문제": "303. Nội dung nào không phải là quy định pháp luật trở thành căn cứ của đối tượng chỉ định khu vực bảo vệtrẻ em?",
+  "보기1": "① Luật Giáo dục Trẻ em",
+  "보기2": "② Luật Giáo dục Tiểu học - Trung học",
+  "보기3": "③ Pháp luật liên quan đến thành lập - vận hành trung tâm dạy thêm và giảng dạy ngoài giờ",
+  "보기4": "④ Luật Phúc lợi Trẻ em",
+  "정답": 4
+ },
+ {
+  "id": 304,
+  "문제": "304. Sau đây là mô tả về khu vực bảo vệ trẻ em. Câu nào không đúng?",
+  "보기1": "① Có thể tương ứng với 12 hạng mục theo Luật đặc biệt về xử lý tai nạn giao thông.",
+  "보기2": "② Có thể hạn chế tốc độ lưu thông của xe ô tô dưới 30km/giờ.",
+  "보기3": "③ Tiền phạt và điểm phạt gấp 3 lần đường thông thường.",
+  "보기4": "④ Có thể dừng, đỗ xe trong trường hợp là khu vực bảo vệ trẻ em không bị chỉ định cấm dừng - đỗ xe.",
+  "정답": 3
+ },
+ {
+  "id": 305,
+  "문제": "305. Trẻ em nào sau đây đang đi bộ không an toàn theo Luật Giao thông đường bộ?",
+  "보기1": "① Trẻ em đang đi bộ trên mép đường của lòng đường xe chạy trên đoạn đường có phân chia vỉa hè và lòngđường.",
+  "보기2": "② Trẻ em vừa đi bộ theo hướng có xe đang chạy tới từ mép đường của đường một chiều.",
+  "보기3": "③ Trẻ em đang đi bộ theo hướng đối diện với hướng của xe đang chạy tới trên lề đường của đoạn đườngkhông phân chia vỉa hè và lòng đường.",
+  "보기4": "④ Trẻ em đi bộ về phía bên phải trên vỉa hè.",
+  "정답": 1
+ },
+ {
+  "id": 306,
+  "문제": "306. Dưới đây là mô tả về bảo vệ trẻ em theo Luật Giao thông đường bộ. Câu nào không đúng?",
+  "보기1": "① Nếu có trẻ em đang băng qua đoạn đường không có lối sang đường thì phải chạy chậm lại.",
+  "보기2": "② Nếu có trẻ em đang đứng trong khu vực có vạch an toàn thì phải đi chậm lại và giữ khoảng cách an toàn.",
+  "보기3": "③ Nếu có trẻ em đang đi trên con hẻm hẹp thì phải đi chậm lại và giữ khoảng cách an toàn.",
+  "보기4": "④ Nếu có trẻ em đang lưu thông trên lối sang đường thì phải tạm dừng ở phía trước lối đi sang đường.",
+  "정답": 1
+ },
+ {
+  "id": 307,
+  "문제": "307. Theo Luật Giao thông đường bộ, nội dung nào dưới đây giải thích chính xác nghĩa vụ của người lái xe phảibảo vệ đặc biệt cho xe buýt đưa đón trẻ em?",
+  "보기1": "① Trường hợp đang đi ở làn xe ngay cạnh làn xe có xe buýt đưa đón trẻ em đi học đang dừng lại và nháyđèn đỏ thì phải tạm dừng xe.",
+  "보기2": "② Không được vượt tất cả các xe buýt đưa đón trẻ em đi học đang lưu thông trên đường.",
+  "보기3": "③ Nếu vi phạm nghĩa vụ này sẽ bị phạt 15 điểm trừ vào giấy phép lái xe.",
+  "보기4": "④ Trường hợp xe buýt đưa đón trẻ em đi học đang dừng lại và nháy đèn đỏ trên đường có 1 làn đường mộtchiều thì nghĩa vụ này được ngoại trừ.",
+  "정답": 1
+ },
+ {
+  "id": 308,
+  "문제": "308. Nội dung nào tương ứng với trường hợp người giám hộ trẻ em bị xử phạt theo Pháp lệnh về Giao thôngđường bộ?",
+  "보기1": "① Người giám hộ để trẻ em đi xe đạp trên đường của xe chạy",
+  "보기2": "② Người giám hộ để trẻ em đi xe trượt điện Kickboard trong khu vui chơi",
+  "보기3": "③ Người giám hộ để trẻ em đi xe trượt điện Kickboard trên đường của xe chạy",
+  "보기4": "④ Người giám hộ để trẻ em đi xe đạp trong khu vui chơi",
+  "정답": 3
+ },
+ {
+  "id": 309,
+  "문제": "309. Trường hợp gây thương tích cho trẻ trong khu vực bảo vệ trẻ em, mức xử phạt hình sự theo Luật về Xửphạt Tăng nặng Tội đặc biệt là?",
+  "보기1": "① Phạt tù từ 1 năm trở lên đến dưới 15 năm hoặc phạt tiền từ 5 triệu Won trở lên đến dưới 30 triệu Won",
+  "보기2": "② Phạt tù chung thân hoặc phạt tù 5 năm trở lên",
+  "보기3": "③ Phạt tù lên đến 2 năm hoặc phạt tiền đến dưới 5 triệu Won",
+  "보기4": "④ Phạt tù lên đến 5 năm hoặc phạt tiền đến dưới 20 triệu Won",
+  "정답": 1
+ },
+ {
+  "id": 310,
+  "문제": "310. Nội dung nào sau đây không đúng khi giải thích nghĩa vụ của người điều khiển xe buýt đưa đón học sinh?",
+  "보기1": "① Khi chở trẻ em trên xe buýt đưa đón học sinh phải chỉ định người giám hộ là người lớn.",
+  "보기2": "② Khi chở trẻ em trên xe buýt đưa đón học sinh chỉ phải gắn biển báo có trẻ em và có người giám hộ làngười lớn đi cùng.",
+  "보기3": "③ Phải lập và lưu hồ sơ kiểm tra việc thắt dây an toàn và xác nhận người giám hộ đi cùng.",
+  "보기4": "④ Phải nộp hồ sơ kiểm tra việc thắt dây an toàn và xác nhận người giám hộ đi cùng lên Cơ quan Giám sát cơsở vận hành xe buýt đưa đón trẻ em mỗi quý.",
+  "정답": 2
+ },
+ {
+  "id": 311,
+  "문제": "311. Hình phạt nào sau đây đúng với hình thức xử phạt trong trường hợp gắn “Biển báo có người giám hộ đicùng” khi không có người lớn giám hộ trên xe buýt đưa đón trẻ em?",
+  "보기1": "① Phạt tiền tối đa 200.000 Won hoặc tạm giam",
+  "보기2": "② Phạt tiền tối đa 300.000 Won hoặc tạm giam",
+  "보기3": "③ Phạt tiền tối đa 400.000 Won hoặc tạm giam",
+  "보기4": "④ Phạt tiền tối đa 500.000 Won hoặc tạm giam",
+  "정답": 2
+ },
+ {
+  "id": 312,
+  "문제": "312. Theo Luật Giao thông đường bộ, khu vực chỉ định nhằm bảo hộ và đảm bảo an toàn cho người cao tuổitránh khỏi nguy cơ bị tai nạn giao thông có tên là gì?",
+  "보기1": "① Khu vực bảo vệ người già",
+  "보기2": "② Khu vực phúc lợi người cao tuổi",
+  "보기3": "③ Khu vực bảo vệ người cao tuổi",
+  "보기4": "④ Khu vực an toàn người cao tuổi",
+  "정답": 3
+ },
+ {
+  "id": 313,
+  "문제": "313. Biện pháp xử lý nào dưới đây mà Giám đốc Sở Cảnh sát hay Giám đốc Sở Cảnh sát tỉnh - thành phốkhông thể thực hiện vì người cao tuổi ở 'Khu vực bảo vệ người cao tuổi'?",
+  "보기1": "① Giới hạn hay cấm xe cơ giới và xe thô sơ lưu thông.",
+  "보기2": "② Chỉ định và điều hành các đường nhánh trong khu dân cư thành đường một chiều.",
+  "보기3": "③ Giới hạn tốc độ vận hành của xe cơ giới và xe thô sơ là 30 km/giờ.",
+  "보기4": "④ Xây dựng bãi đỗ xe trên đường dành cho người cao tuổi tại các đường liên kết với cổng ra vào chính.",
+  "정답": 4
+ },
+ {
+  "id": 314,
+  "문제": "314. Phương tiện có thể bị cấm lưu thông trong khu vực bảo vệ người cao tuổi theo Luật Giao thông Đường bộlà?",
+  "보기1": "① Thiết bị di chuyển cá nhân, xe điện chạy trên đường ray",
+  "보기2": "② Xe gắn máy khoan cọc, Kickboard trẻ em",
+  "보기3": "③ Xe đạp có gắn động cơ, xe dạng ghế ngồi hỗ trợ đi bộ",
+  "보기4": "④ Xe lăn cán nền đường, dụng cụ hỗ trợ đi bộ cho người già yếu",
+  "정답": 1
+ },
+ {
+  "id": 315,
+  "문제": "315. Nội dung nào là giải thích đúng về vi phạm Luật xảy ra vào lúc khoảng 10 giờ sáng ở khu vực bảo vệ ngườicao tuổi theo Luật Giao thông Đường bộ?",
+  "보기1": "① Người điều khiển xe ben vi phạm đèn tín hiệu bị phạt tiền vi phạm 130,000 Won.",
+  "보기2": "② Người điều khiển xe ô tô chở người nếu gây cản trở lưu thông của người đi bộ cao tuổi bị phạt tiền 70,000Won.",
+  "보기3": "③ Người điều khiển xe đạp nếu cản trở người đi bộ cao tuổi qua đường ở vạch sang đường dành cho người đibộ bị phạt tiền 50,000 Won.",
+  "보기4": "④ Người điều khiển xe máy cày không thực hiện đúng nghĩa vụ bảo vệ người đi bộ bị phạt tiền 30,000 Won.",
+  "정답": 1
+ },
+ {
+  "id": 316,
+  "문제": "316. Đâu là địa điểm mà Thị trưởng không thể chỉ định làm khu vực bảo vệ người cao tuổi?",
+  "보기1": "① Trường phổ thông trung học",
+  "보기2": "② Cơ sở phúc lợi người cao tuổi",
+  "보기3": "③ Công viên đô thị",
+  "보기4": "④ Cơ sở sinh hoạt thể thao",
+  "정답": 1
+ },
+ {
+  "id": 317,
+  "문제": "317. Ai trong số những người sau không thể chỉ định khu vực bảo vệ người cao tuổi?",
+  "보기1": "① Thị trưởng thành phố Seoul",
+  "보기2": "② Thị trưởng thành phố trực thuộc trung ương",
+  "보기3": "③ Chủ tịch tỉnh Đặc khu tự trị",
+  "보기4": "④ Giám đốc Sở Cảnh sát tỉnh - thành phố",
+  "정답": 4
+ },
+ {
+  "id": 318,
+  "문제": "318. Nội dung nào là giải thích đúng về đặc điểm chung của người cao tuổi yếu thế trong giao thông?",
+  "보기1": "① Thần kinh phản xạ kém nhưng có thể phán đoán nhanh dựa trên kinh nghiệm.",
+  "보기2": "② Thị lực kém nhưng thính giác nhạy nên sẽ có thể phản ứng nhanh nhạy với cả âm thanh bé.",
+  "보기3": "③ Khả năng ứng phó với tình trạng khẩn cấp yếu nhưng khả năng nhận thức được tăng cường.",
+  "보기4": "④ Cơ thể càng già thì hành động càng không linh hoạt.",
+  "정답": 4
+ },
+ {
+  "id": 319,
+  "문제": "319. Nội dung nào đúng với biện pháp xử lý có thể thực hiện trong khu vực bảo vệ người cao tuổi như chợ v.v…theo Luật Giao thông Đường bộ?",
+  "보기1": "① Có thể hạn chế hoặc cấm xe động lực kéo, xe điện chạy trên đường ray lưu thông.",
+  "보기2": "② Có thể cấm xe khách cỡ lớn lưu thông nhưng không được hạn chế xe điện chạy trên đường ray.",
+  "보기3": "③ Có thể cấm xe hai bánh lưu thông nhưng không được hạn chế xe đạp.",
+  "보기4": "④ Không thể cấm các phương tiện dạng máy xây dựng lưu thông nhưng có thể hạn chế.",
+  "정답": 1
+ },
+ {
+  "id": 320,
+  "문제": "320. Người lái xe ô tô con phát hiện chậm có người cao tuổi đang sang đường ở lối sang đường không có đèngiao thông dành cho người đi bộ và phanh lại đột ngột nhưng đã xảy ra tai nạn giao thông gây tổnthương cho người cao tuổi (chẩn đoán mất 2 tuần điều trị). Hai câu nào sau đây giải thích đúng?",
+  "보기1": "① Do không có đèn giao thông dành cho người đi bộ nên người lái xe ô tô con hoàn toàn không có tráchnhiệm gì cả.",
+  "보기2": "② Người lái xe ô tô con phải chịu trách nhiệm dân sự.",
+  "보기3": "③ Chỉ người cao tuổi qua đường mới bị xử phạt hình sự.",
+  "보기4": "④ Người lái xe ô tô con phải chịu trách nhiệm hình sự.",
+  "정답": 2.4
+ },
+ {
+  "id": 321,
+  "문제": "321. Hai nội dung nào là cách thức đúng mà Sở trưởng Sở Cảnh sát phụ trách khu vực có thể áp dụng trongkhu vực bảo vệ người cao tuổi?",
+  "보기1": "① Cấm hoặc hạn chế xe ô tô lưu thông",
+  "보기2": "② Cấm dừng hoặc đỗ xe",
+  "보기3": "③ Bố trí bãi đỗ xe trên đường",
+  "보기4": "④ Cấm hoặc hạn chế người đi bộ qua lại",
+  "정답": 1.2
+ },
+ {
+  "id": 322,
+  "문제": "322. Cách lái xe nào dưới đây là đúng khi lái xe ngang qua một người cao tuổi trong khu vực bảo vệ người caotuổi?",
+  "보기1": "① Duy trì tốc độ ổn định và lái xe vượt qua.",
+  "보기2": "② Duy trì khoảng cách an toàn và lái xe vượt qua thật chậm.",
+  "보기3": "③ Bấm còi và lái xe nhanh vượt qua.",
+  "보기4": "④ Nháy đèn pha và lái xe qua.",
+  "정답": 2
+ },
+ {
+  "id": 323,
+  "문제": "323. Công trình thiết bị đường sá nào dưới đây không được lắp đặt trong khu vực bảo vệ người cao tuổi vì sựan toàn của người cao tuổi?",
+  "보기1": "① Thiết bị chống trơn trượt, rào chắn bảo vệ",
+  "보기2": "② Thiết bị hạn chế tốc độ, thiết bị chống trơn trượt",
+  "보기3": "③ Làn đường tăng tốc, biển báo đường thuộc khu vực bảo hộ",
+  "보기4": "④ Hàng rào bảo vệ, kính phản xạ",
+  "정답": 3
+ },
+ {
+  "id": 324,
+  "문제": "324. Câu nào dưới đây không phải là nội dung mà người lái xe cần lưu ý khi đi qua khu vực bảo vệ người caotuổi vào ban đêm?",
+  "보기1": "① Chú ý vì có thể phát sinh hiện tượng lóa mắt.",
+  "보기2": "② Tăng tốc do không có người cao tuổi nào quanh đây vào ban đêm.",
+  "보기3": "③ Lái xe đồng thời chú ý quan sát xem có người cao tuổi sang đường không.",
+  "보기4": "④ Lái xe thật cẩn thận vì người cao tuổi mặc quần áo màu đen rất khó phát hiện.",
+  "정답": 2
+ },
+ {
+  "id": 325,
+  "문제": "325. Nội dung nào là giải thích không đúng về cách lưu thông trên vạch sang đường có đèn giao thông và viphạm luật giao thông trong khu vực bảo vệ người cao tuổi?",
+  "보기1": "① Người điều khiển xe ô tô khi đèn giao thông đổi màu không xuất phát ngay mà phải quan sát kỹ xung quanhrồi mới từ từ xuất phát.",
+  "보기2": "② Người điều khiển xe ô tô chở người vi phạm đèn giao thông trong khoảng thời gian từ 8 giờ sáng đến 8 giờtối bị phạt tiền 120,000 Won.",
+  "보기3": "③ Người điều khiển xe đạp nếu có người cao tuổi chưa băng qua đường được thì phải chờ cho đến khi ngườicao tuổi này qua đường an toàn.",
+  "보기4": "④ Người điều khiển xe hai bánh nếu cản trở lưu thông của người đi bộ ở vạch sang đường trong khoảng thờigian từ 8 giờ sáng đến 8 giờ tối bị phạt tiền 90,000 Won.",
+  "정답": 4
+ },
+ {
+  "id": 326,
+  "문제": "326. Mô tả nào dưới đây về khu vực bảo vệ người cao tuổi là không đúng?",
+  "보기1": "① Trường hợp vi phạm giới hạn tốc độ trong khoảng thời gian từ 8 giờ sáng đến 8 giờ tối sẽ bị phạt tiền viphạm luật giao thông.",
+  "보기2": "② Đèn xanh cho người đi bộ sáng lâu hơn.",
+  "보기3": "③ Không thể làm bãi đỗ xe trên đường được.",
+  "보기4": "④ Có thể lắp đèn giao thông lớn hơn so với quy định để người cao tuổi có thể nhìn thấy rõ hơn.",
+  "정답": 4
+ },
+ {
+  "id": 327,
+  "문제": "327. Người lái xe ô tô con sẽ bị bao nhiêu điểm phạt nếu lái xe vượt quá tốc độ giới hạn là 25km/giờ trong khuvực bảo vệ người cao tuổi vào khoảng 11 giờ sáng?",
+  "보기1": "① 60 điểm",
+  "보기2": "② 40 điểm",
+  "보기3": "③ 30 điểm",
+  "보기4": "④ 15 điểm",
+  "정답": 3
+ },
+ {
+  "id": 328,
+  "문제": "328. Cách lái xe nào dưới đây không đúng khi tiến gần lối sang đường cho người đi bộ có đèn giao thôngtrong khu vực bảo vệ người cao tuổi?",
+  "보기1": "① Nếu có người cao tuổi sang đường sau khi tín hiệu đèn thay đổi, chờ người đó sang hẳn bên kia đường rồimới đi tiếp.",
+  "보기2": "② Dự tính sẵn trước thời điểm tín hiệu đèn thay đổi và sẵn sàng khởi hành ngay.",
+  "보기3": "③ Lái xe chậm ở tốc độ có thể dừng an toàn và phải dừng lại ngay khi tín hiệu đèn báo dừng.",
+  "보기4": "④ Hết sức chú ý và cân nhắc đến việc người cao tuổi đi bộ với tốc độ rất chậm.",
+  "정답": 2
+ },
+ {
+  "id": 329,
+  "문제": "329. Sau đây là những biện pháp có thể được áp dụng trong trường hợp được chỉ định là khu vực bảo vệngười cao tuổi. Câu nào sau đây không đúng?",
+  "보기1": "① Có thể giới hạn tốc độ dưới 30km/giờ trong khu vực bảo vệ người cao tuổi.",
+  "보기2": "② Có thể lắp biển báo chú ý do thời gian báo hiệu cho người đi bộ ở khu vực này cũng bằng với thời giancủa đèn báo hiệu cho người đi bộ thông thường.",
+  "보기3": "③ Có thể lắp đặt, bổ sung các trang thiết bị an toàn giao thông như gờ giảm tốc,...",
+  "보기4": "④ Có thể ưu tiên lắp đặt và quản lý đèn tín hiệu giao thông tại các lối sang đường cho người đi bộ trên trụcđường chính nằm gần nhất với lối ra vào chính của khu vực được chỉ định là khu vực bảo vệ.",
+  "정답": 2
+ },
+ {
+  "id": 330,
+  "문제": "330. Hành vi vi phạm quy định giao thông nào dưới đây sẽ không bị tăng mức tiền phạt nếu xảy ra trongkhoảng từ 8 giờ sáng đến 8 giờ tối trong khu vực bảo vệ người cao tuổi?",
+  "보기1": "① Vi phạm tín hiệu giao thông",
+  "보기2": "② Vi phạm cấm đỗ xe",
+  "보기3": "③ Cản trở người đi bộ trên lối sang đường",
+  "보기4": "④ Lấn vạch phân cách giữa đường",
+  "정답": 4
+ },
+ {
+  "id": 331,
+  "문제": "331. Nội dung nào là giải thích không đúng về khu vực bảo vệ người cao tuổi?",
+  "보기1": "① Khi đi qua khu vực bảo vệ người cao tuổi, phải luôn chú ý đề phòng phát sinh tình huống nguy hiểm.",
+  "보기2": "② Biển báo bảo vệ người cao tuổi là biển báo chỉ thị cần phải ưu tiên bảo vệ người cao tuổi trong khu vực bảovệ người cao tuổi.",
+  "보기3": "③ Biển báo bảo vệ người cao tuổi được đặt ở chính giữa đường nằm trong khu vực bảo vệ người cao tuổi.",
+  "보기4": "④ Người điều khiển xe ô tô chở người nếu cản trở người đi bộ qua đường ở vạch sang đường vào lúc 10 giờsáng ở khu vực bảo vệ người cao tuổi bị phạt tiền 120,000 Won.",
+  "정답": 3
+ },
+ {
+  "id": 332,
+  "문제": "332. Sau đây là mô tả về khu vực bảo vệ người cao tuổi theo Luật Giao thông đường bộ. Câu nào không đúng?",
+  "보기1": "① Quyền chỉ định và quản lý khu vực bảo vệ người cao tuổi thuộc về Thị trưởng thành phố, v.v.",
+  "보기2": "② Có thể chỉ định khu vực nhất định làm khu bảo vệ người cao tuổi để bảo vệ người cao tuổi.",
+  "보기3": "③ Có thể hạn chế sự lưu thông của các phương tiện giao thông trong khu vực bảo vệ người cao tuổi.",
+  "보기4": "④ Không thể cấm các phương tiện giao thông lưu thông trong khu vực bảo vệ người cao tuổi.",
+  "정답": 4
+ },
+ {
+  "id": 333,
+  "문제": "333. Trong những người đi bộ dưới đây, người đi bộ nào tuân thủ Luật Giao thông đường bộ?",
+  "보기1": "① Băng qua đường ở nơi không có vạch đi bộ sang đường ở đoạn đường ngắn nhất.",
+  "보기2": "② Vì không có xe đang lưu thông nên không đi bằng lối có vạch sang đường mà đi cắt chéo sang đường.",
+  "보기3": "③ Băng qua đường ở ngay phía sau xe tải chở hàng đang dừng.",
+  "보기4": "④ Đi về phía bên trái của vỉa hè.",
+  "정답": 1
+ },
+ {
+  "id": 334,
+  "문제": "334. Theo Luật Giao thông đường bộ, nếu người lái xe cao tuổi có những hành vi lái xe sau đây thì hành vi viphạm nào có mức điểm phạt cao nhất?",
+  "보기1": "① Dừng xe trên vạch đi bộ sang đường làm cản trở việc đi lại của người đi bộ.",
+  "보기2": "② Phát hiện người đi bộ muộn nên phanh gấp khiến người đi bộ suýt bị ngã xuống.",
+  "보기3": "③ Phát hiện người đi bộ băng qua đường không đúng nơi quy định và bóp còi, vượt qua nhanh trước mặtngười đi bộ.",
+  "보기4": "④ Lấn qua vạch phân cách liền màu vàng giữa đường để vượt.",
+  "정답": 4
+ },
+ {
+  "id": 335,
+  "문제": "335. Người nào sau đây không phải là đối tượng được ưu tiên theo Luật Tăng cường tiện ích di chuyển chongười yếu thế trong tham gia giao thông?",
+  "보기1": "① Trẻ em",
+  "보기2": "② Người già",
+  "보기3": "③ Thanh thiếu niên",
+  "보기4": "④ Phụ nữ có thai",
+  "정답": 3
+ },
+ {
+  "id": 336,
+  "문제": "336. Nội dung nào sau đây không phù hợp khi giải thích về đặc điểm cơ thể thông thường của người cao tuổi?",
+  "보기1": "① Hành động bị chậm lại.",
+  "보기2": "② Thị lực giảm đi nhưng thính lực được cải thiện.",
+  "보기3": "③ Phản xạ trở nên chậm chạp.",
+  "보기4": "④ Sức mạnh cơ bắp bị yếu đi.",
+  "정답": 2
+ },
+ {
+  "id": 337,
+  "문제": "337. Người cao tuổi nào lái xe đúng nhất trong những người sau đây?",
+  "보기1": "① Lái xe chậm để đảm bảo an toàn khi di chuyển đường dài.",
+  "보기2": "② Lái xe thẳng đến đích không nghỉ để tiết kiệm thời gian.",
+  "보기3": "③ Chú ý tình hình đường sá, tuân thủ tốc độ quy định khi lái xe.",
+  "보기4": "④ Chủ yếu lái xe vào ban đêm khi có ít xe cộ lưu thông.",
+  "정답": 3
+ },
+ {
+  "id": 338,
+  "문제": "338. Nội dung nào sau đây không an toàn nhất đối với người lái xe cao tuổi?",
+  "보기1": "① Nghỉ ngơi đầy đủ trước khi lái xe",
+  "보기2": "② Kiểm tra sức khỏe định kỳ",
+  "보기3": "③ Kiểm tra đường đi tới điểm đến trước khi lái xe",
+  "보기4": "④ Lái xe lúc nửa đêm",
+  "정답": 4
+ },
+ {
+  "id": 339,
+  "문제": "339. Nội dung nào không đúng với cách giải thích về việc xử lý hình sự trường hợp người lái xe ô tô trongtrạng thái chỉ chú ý phía trước và gây tai nạn giao thông khiến người cao tuổi bị thương trong 3 tuầntrong khu vực bảo vệ người cao tuổi?",
+  "보기1": "① Không bị xử lý hình sự nếu có tham gia bảo hiểm tổng hợp.",
+  "보기2": "② Bị xử lý hình sự vì có biển báo an toàn cho biết khu vực bảo vệ người cao tuổi.",
+  "보기3": "③ Không bị xử lý hình sự nếu người bị hại không muốn xử phạt.",
+  "보기4": "④ Không bị xử lý hình sự nếu thỏa hiệp.",
+  "정답": 2
+ },
+ {
+  "id": 340,
+  "문제": "340. Trường hợp người lái xe ô tô chở người chạy quá 60km/giờ so với tốc độ quy định vào khoảng 15",
+  "보기1": "① 60.000 Won, 60 điểm",
+  "보기2": "② 90.000 Won, 60 điểm",
+  "보기3": "③ 120.000 Won, 120 điểm",
+  "보기4": "④ 150.000 Won, 120 điểm",
+  "정답": 4
+ },
+ {
+  "id": 341,
+  "문제": "341. Dưới đây là mô tả về khu vực đỗ xe dành cho người khuyết tật. Nội dung nào không đúng?",
+  "보기1": "① Xe có dán nhãn đỗ xe ở khu vực đỗ xe dành cho người khuyết tật thì có thể đỗ xe ngay cả khi không cóngười khuyết tật nào đi xe.",
+  "보기2": "② Người được cấp nhãn đỗ xe ở khu vực đỗ xe dành cho người khuyết tật nếu sử dụng nhãn đỗ xe đó chomục đích bất hợp pháp như chuyển nhượng hoặc cho mượn thì có thể bị thu hồi hoặc hạn chế cấp lại.",
+  "보기3": "③ Không được có hành vi gây cản trở việc đỗ xe như xếp chồng hàng hóa hoặc chặn lối lưu thông trong khuvực đỗ xe dành cho người khuyết tật.",
+  "보기4": "④ Nếu xe không được gắn nhãn đỗ xe ở khu vực đỗ xe dành cho người khuyết tật mà đỗ xe ở khu vực đỗ xedành cho người khuyết tật thì sẽ bị phạt hành chính 100.000 Won.",
+  "정답": 1
+ },
+ {
+  "id": 342,
+  "문제": "342. Ai không phải là người đứng đầu của cơ quan cấp biển báo được đỗ xe trong khu vực đỗ xe dành riêngcho người khuyết tật?",
+  "보기1": "① Cục trưởng Cục Người có công với Tổ quốc",
+  "보기2": "② Thị trưởng, tỉnh trưởng khu tự trị địa phương",
+  "보기3": "③ Thị trưởng, Quận trưởng, Chủ tịch huyện",
+  "보기4": "④ Bộ trưởng Bộ Phúc lợi Y tế",
+  "정답": 4
+ },
+ {
+  "id": 343,
+  "문제": "343. Nội dung nào đúng khi giải thích về loại đèn người lái xe ô tô (ngoại trừ xe mô tô hai bánh) phải bậttrong trường hợp dừng xe trên đường vì hỏng xe hoặc các lý do bất khả kháng khác?",
+  "보기1": "① Đèn pha và đèn hậu",
+  "보기2": "② Đèn chiếu sáng trong xe và đèn thân xe",
+  "보기3": "③ Đèn soi biển số và đèn pha",
+  "보기4": "④ Đèn hậu và đèn thân xe",
+  "정답": 4
+ },
+ {
+  "id": 344,
+  "문제": "344. Câu nào sau đây giải thích đúng nhất về vạch đứt màu vàng ở mép đường?",
+  "보기1": "① Có thể đỗ xe và dừng xe.",
+  "보기2": "② Cấm đỗ xe nhưng có thể dừng xe.",
+  "보기3": "③ Có thể đỗ xe nhưng không được dừng xe.",
+  "보기4": "④ Cấm cả đỗ xe và dừng xe.",
+  "정답": 2
+ },
+ {
+  "id": 345,
+  "문제": "345. Nội dung nào không đúng với tiêu chuẩn cấm dừng và đỗ thiết bị di chuyển cá nhân theo Luật Giao thôngĐường bộ?",
+  "보기1": "① Trong phạm vi 10m tính từ mép đường giao nhau, trong phạm vi 5m tính từ góc đường",
+  "보기2": "② Trong phạm vi 10m tính từ vạch sang đường dành cho người đi bộ, trong phạm vi 10m tính từ mép đườnghẻm",
+  "보기3": "③ Trong phạm vi 10m tính từ bốn phía của khu vực an toàn, trong phạm vi 10m tính từ cột của trạm xe buýt",
+  "보기4": "④ Trong phạm vi 5m tính từ nơi có gắn thiết bị chữa cháy khẩn cấp, trong phạm vi 5m tính từ nơi có gắn thiếtbị cấp nước chữa cháy",
+  "정답": 1
+ },
+ {
+  "id": 346,
+  "문제": "346. Mức tiền phạt khi đỗ xe trong khu vực sạc của cơ sở sạc xe ô tô thân thiện với môi trường khi khôngphải là xe ô tô điện là bao nhiêu?",
+  "보기1": "① 30.000 Won",
+  "보기2": "② 50.000 Won",
+  "보기3": "③ 70.000 Won",
+  "보기4": "④ 100.000 Won",
+  "정답": 4
+ },
+ {
+  "id": 347,
+  "문제": "347. Khi xuống xe ô tô, cách mở cửa bằng cách vừa nắm tay cầm bằng tay cách xa cửa sổ vừa mở cửa và quansát có xe máy hay xe đạp tiến đến từ phía sau xe hay không gọi là?",
+  "보기1": "① Dutch Reach",
+  "보기2": "② Other Hand",
+  "보기3": "③ Looking Back",
+  "보기4": "④ Looking Side",
+  "정답": 1
+ },
+ {
+  "id": 348,
+  "문제": "348. Xe điện hoặc xe Hybrid kiểu sạc ngoài có thể đỗ xe trong bao lâu ở khu vực sạc có trang bị thiết bị sạc cấptốc?",
+  "보기1": "① 1 tiếng",
+  "보기2": "② 2 tiếng",
+  "보기3": "③ 3 tiếng",
+  "보기4": "④ 4 tiếng",
+  "정답": 1
+ },
+ {
+  "id": 349,
+  "문제": "349. Nội dung nào là giải thích đúng về cách và tiêu chuẩn dừng xe, đỗ xe ở nơi nghiêng dốc theo Luật Giaothông Đường bộ?",
+  "보기1": "① Phải sử dụng cục chèn bánh xe, đá chèn bánh xe v.v… theo hướng dốc nghiêng xuống để có thể phòng ngừatai nạn trượt ô tô và đường dốc đứng xuống là nơi cấm đỗ xe.",
+  "보기2": "② Hệ thống lái phải được xoay về hướng mép đường cách xa với xe và nơi nghiêng dốc là nơi cấm dừng xe.",
+  "보기3": "③ Nếu người điều khiển xe vẫn ngồi chờ trên ghế lái thì phải xoay hệ thống lái về phía đường đi và dừng xebất khả kháng do bị hư hỏng không bị tính là đỗ xe.",
+  "보기4": "④ Khi dừng xe ở nơi nghiêng gốc không phải là đường xe chạy, phải xoay hệ thống lái về hướng mép đườnggần với xe và dừng xe là trạng thái dừng tạm thời không quá 5 phút, không phải là đỗ xe.",
+  "정답": 4
+ },
+ {
+  "id": 350,
+  "문제": "350. Nếu có hành vi cản trở đỗ xe tại khu vực đỗ xe dành riêng cho người khuyết tật chẳng hạn như chấthàng hoặc chặn ngang lối đi, mức phạt vi phạm hành chính là bao nhiêu?",
+  "보기1": "① 40.000 Won",
+  "보기2": "② 200.000 Won",
+  "보기3": "③ 500.000 Won",
+  "보기4": "④ 1 triệu Won",
+  "정답": 3
+ },
+ {
+  "id": 351,
+  "문제": "351. Hai câu giải thích đúng về các nội dung người lái xe cần tuân thủ là gì?",
+  "보기1": "① Phải chịu trách nhiệm về an toàn cho khách khi khách mở cửa xuống xe.",
+  "보기2": "② Cả trong trường hợp dừng xe tạm thời để mua đồ thì cũng phải tắt máy.",
+  "보기3": "③ Người lái xe phải tắt máy và sau khi kiểm tra an toàn mới mở cửa và xuống xe.",
+  "보기4": "④ Trong trường hợp không phải là khu vực đỗ xe, cần có biện pháp để bất cứ ai cũng có thể di chuyển.",
+  "정답": 2.3
+ },
+ {
+  "id": 352,
+  "문제": "352. Hai phương pháp an toàn nhất khi đỗ xe trên đoạn đường dốc là gì?",
+  "보기1": "① Chỉ sử dụng phanh đỗ xe.",
+  "보기2": "② Xoay vô lăng về phía lề đường (là phía gần với xe).",
+  "보기3": "③ Đặt các dụng cụ có thể ngăn ngừa sự cố trơn trượt của xe ví dụ như cục chặn bánh xe vào bánh xe theohướng dốc xuống của đoạn dốc.",
+  "보기4": "④ Xe sử dụng hộp số sàn thì chỉnh số về số 0.",
+  "정답": 2.3
+ },
+ {
+  "id": 353,
+  "문제": "353. Dưới đây là nội dung giải thích về dừng và đỗ xe. Hai câu nào đúng?",
+  "보기1": "① Khi định dừng xe trên đường, phải dừng ở mép đường bên phải của làn đường.",
+  "보기2": "② Ở những nơi chỉ định phương pháp dừng và đỗ xe bằng biển báo an toàn, không cần phải tuân thủ theophương pháp đó.",
+  "보기3": "③ Ở nơi bằng phẳng, trong trường hợp là xe số thì chỉ cần cài số 1 hoặc số lùi.",
+  "보기4": "④ Phải chặn xe bằng cục chặn bánh xe ở trên đoạn đường dốc.",
+  "정답": 1.4
+ },
+ {
+  "id": 354,
+  "문제": "354. Hai nội dung tương ứng với 'đỗ xe' trong các câu dưới đây là gì?",
+  "보기1": "① Trường hợp dừng kéo dài do xe bị hỏng.",
+  "보기2": "② Tạm thời dừng lại để đề phòng nguy hiểm.",
+  "보기3": "③ Dù không quá 5 phút nhưng ở trạng thái không thể điều khiển được ngay do người lái đã rời xe.",
+  "보기4": "④ Tạm dừng lại để cho bạn xuống ở ga tàu điện ngầm.",
+  "정답": 1.3
+ },
+ {
+  "id": 355,
+  "문제": "355. Hai nội dung tương ứng với “dừng xe” trong các câu dưới đây là gì?",
+  "보기1": "① Trường hợp đợi khách ở trạng thái dừng kéo dài nhằm chở khách tại các bến đỗ xe taxi",
+  "보기2": "② Trường hợp người lái xe rời khỏi xe để bốc hàng hóa nên không thể lái ngay",
+  "보기3": "③ Trường hợp dừng lại để chờ tín hiệu",
+  "보기4": "④ Trường hợp dừng xe để hỏi đường người qua đường",
+  "정답": 3.4
+ },
+ {
+  "id": 356,
+  "문제": "356. Hai nơi nào không áp dụng ngoại lệ đặc biệt đối với khu vực cấm dừng hoặc đỗ xe theo Luật Giao thôngđường bộ?",
+  "보기1": "① Cách cửa ra vào trong khu vực bảo vệ trẻ em trong vòng 50m",
+  "보기2": "② Cách lối qua đường cho người đi bộ trong vòng 10m",
+  "보기3": "③ Cách nơi lắp đặt thiết bị chữa cháy khẩn cấp trong vòng 5m",
+  "보기4": "④ Cách bốn phía của khu vực an toàn trong vòng 10m",
+  "정답": 3.4
+ },
+ {
+  "id": 357,
+  "문제": "357. Hai nơi nào sau đây có thể đỗ xe theo Luật Giao thông đường bộ?",
+  "보기1": "① Địa điểm cách góc đường 5m",
+  "보기2": "② Địa điểm cách nơi lắp đặt trạm chứa nước chữa cháy 7m",
+  "보기3": "③ Địa điểm cách nơi lắp đặt thiết bị chữa cháy khẩn cấp 7m",
+  "보기4": "④ Địa điểm cách khu vực an toàn 5m",
+  "정답": 2.3
+ },
+ {
+  "id": 358,
+  "문제": "358. Cách lái xe an toàn nhất khi định rẽ trái ở giao lộ không có phân luồng giao thông là cách nào?",
+  "보기1": "① Dù có xe khác tiến vào trước thì vẫn chạy chậm và rẽ trái cẩn thận.",
+  "보기2": "② Nhường đường đi thẳng cho xe đi ở đường lớn hơn.",
+  "보기3": "③ Nhường đường cho xe ô tô đi thẳng nhưng có quyền ưu tiên hơn xe rẽ phải.",
+  "보기4": "④ Trước tiên, đi chậm theo vạch phân cách giữa đường và rẽ trái ở phần phía ngoài khu vực trung tâm đườnggiao nhau.",
+  "정답": 2
+ },
+ {
+  "id": 359,
+  "문제": "359. Câu nào dưới đây giải thích sai về phương pháp đi trong vòng xuyến?",
+  "보기1": "① Khi tiến vào vòng xuyến, giảm tốc độ và đi từ từ.",
+  "보기2": "② Chờ ở vạch nhường đường, dừng tạm thời và đi từ từ tiến vào trong vòng xuyến.",
+  "보기3": "③ Xe vào trong vòng xuyến trước có quyền được ưu tiên nên xe đang rẽ phải nhường.",
+  "보기4": "④ Vòng theo chiều ngược chiều kim đồng hồ.",
+  "정답": 3
+ },
+ {
+  "id": 360,
+  "문제": "360. Ở đường giao nhau không có đèn tín hiệu giao thông, trong trường hợp có xe đi vào trước và rẽ trái thìcách xử lý đúng là gì?",
+  "보기1": "① Vừa chú ý đến xe đi thẳng phía trước vừa lái xe.",
+  "보기2": "② Xe định rẽ phải thì đi chậm chậm rồi rẽ phải.",
+  "보기3": "③ Xe đi thẳng và xe rẽ phải tất cả đều phải nhường đường cho xe rẽ trái.",
+  "보기4": "④ Xe đi trên đường hẹp thì cần lái xe qua chậm.",
+  "정답": 3
+ },
+ {
+  "id": 361,
+  "문제": "361. Cách lái xe thích hợp nhất khi rẽ trái ở đường giao nhau?",
+  "보기1": "① Lái xe chậm theo vạch phân cách giữa đường và rẽ trái theo hướng bên trong giữa đường giao nhau.",
+  "보기2": "② Lái xe nhanh theo vạch phân cách giữa đường và rẽ trái theo hướng bên trong giữa đường giao nhau.",
+  "보기3": "③ Lái xe nhanh theo vạch phân cách giữa đường và rẽ trái theo hướng bên ngoài giữa đường giao nhau.",
+  "보기4": "④ Lái xe chậm theo vạch phân cách giữa đường và rẽ trái theo sự thuận tiện của người lái xe.",
+  "정답": 1
+ },
+ {
+  "id": 362,
+  "문제": "362. Cách đi đúng khi đi qua đường giao nhau không được phân luồng giao thông?",
+  "보기1": "① Trong trường hợp nếu không quan sát được trái phải thì phải đi từ từ.",
+  "보기2": "② Xe rẽ trái được ưu tiên so với xe đi thẳng.",
+  "보기3": "③ Xe rẽ phải được ưu tiên so với xe đi thẳng.",
+  "보기4": "④ Trong trường hợp chiều rộng của đường giao nhau lớn hơn chiều rộng của đường đang đi thì phải giảm tốcđộ lái xe.",
+  "정답": 4
+ },
+ {
+  "id": 363,
+  "문제": "363. Nơi nào cần bố trí vòng xuyến vì sự an toàn và đảm bảo giao thông thông thoáng?",
+  "보기1": "① Nơi thường xảy ra tai nạn bởi xe ô tô đi thẳng hoặc rẽ ở đường giao nhau",
+  "보기2": "② Nơi có trên 1 đường tiếp cận tại đường giao nhau là đường một chiều có từ 3 làn xe trở lên",
+  "보기3": "③ Nơi có lưu lượng giao thông vượt quá khả năng xử lý của vòng xuyến",
+  "보기4": "④ Nơi hiệu quả liên kết bị giảm nếu có vòng xuyến trong các đoạn cần liên kết tín hiệu",
+  "정답": 1
+ },
+ {
+  "id": 364,
+  "문제": "364. Nội dung nào là giải thích đúng về vòng xuyến?",
+  "보기1": "① Vòng xuyến có nhiều điểm xung đột hơn so với các nút giao thông tín hiệu.",
+  "보기2": "② Phải đợi ở vạch nhường đường cho đến khi có không gian trống trong vòng xuyến.",
+  "보기3": "③ Hướng dẫn phương tiện đi vào bằng việc lắp đặt đèn tín hiệu để xử lý lưu lượng giao thông trong nút giao.",
+  "보기4": "④ Xe đang rẽ cần phải nhường đường cho xe đang tiến vào.",
+  "정답": 2
+ },
+ {
+  "id": 365,
+  "문제": "365. Đường biểu thị trên mặt đường bằng vạch đứt màu trắng trong đoạn đường giao nhau để người lái xe cóthể rẽ trái một cách chính xác gọi là đường là gì?",
+  "보기1": "① Đường hướng dẫn",
+  "보기2": "② Đường nối tiếp",
+  "보기3": "③ Đường chỉ thị",
+  "보기4": "④ Đường hạn chế",
+  "정답": 1
+ },
+ {
+  "id": 366,
+  "문제": "366. Hai phương pháp lái xe an toàn nhất của người lái xe khi rẽ trái tại đường giao nhau là gì?",
+  "보기1": "① Phải chú ý xe dừng ở hướng ngược lại.",
+  "보기2": "② Chỉ cần chú ý xe rẽ phải ở hướng ngược lại.",
+  "보기3": "③ Phải chú ý các xe rẽ phải ở cùng chiều.",
+  "보기4": "④ Phải chú ý đến cả xe cùng rẽ trái bên cạnh.",
+  "정답": 2.4
+ },
+ {
+  "id": 367,
+  "문제": "367. Hai phương pháp lái xe an toàn nhất khi rẽ trái hoặc rẽ phải tại đường giao nhau là gì?",
+  "보기1": "① Khi rẽ phải, trước tiên cần đi từ từ sang lề bên phải của đường rồi sau đó mới rẽ phải.",
+  "보기2": "② Khi rẽ trái trên đường tắc nghẽn, phải nhanh chóng đi qua bất kể vạch hướng dẫn bên trái là gì.",
+  "보기3": "③ Khi rẽ trái, trước tiên cần đi từ từ theo vạch phân cách chính giữa đường, đi vào phía trong chính giữa củađường giao nhau rồi rẽ trái.",
+  "보기4": "④ Khi rẽ trái ở đường giao nhau có vạch hướng dẫn, bánh xe trái phải đi qua phía trong vạch hướng dẫn.",
+  "정답": 1.3
+ },
+ {
+  "id": 368,
+  "문제": "368. Phương pháp đúng khi đi qua vòng xuyến là gì?",
+  "보기1": "① Ưu tiên xe đang rẽ.",
+  "보기2": "② Ưu tiên xe chuẩn bị vào vòng xuyến.",
+  "보기3": "③ Ưu tiên xe đã ra khỏi vòng xuyến.",
+  "보기4": "④ Không có thứ tự ưu tiên cho xe.",
+  "정답": 1
+ },
+ {
+  "id": 369,
+  "문제": "369. Hành vi nào dưới đây không bị cấm trong vòng xuyến?",
+  "보기1": "① Dừng xe",
+  "보기2": "② Đỗ xe",
+  "보기3": "③ Đi chậm và tạm dừng",
+  "보기4": "④ Vượt lên trước",
+  "정답": 3
+ },
+ {
+  "id": 370,
+  "문제": "370. Nội dung nào sau đây biểu thị xe quay đầu được đảm bảo quyền ưu tiên lưu thông tại bùng binh vòngxoay?",
+  "보기1": "① Xe chạy trên làn đường quay đầu xe trong bùng binh vòng xoay",
+  "보기2": "② Xe định rẽ trái trước khi vào bùng binh vòng xoay",
+  "보기3": "③ Xe định rẽ phải trước khi vào bùng binh vòng xoay",
+  "보기4": "④ Xe định rẽ trái và rẽ phải trước khi vào bùng binh vòng xoay",
+  "정답": 1
+ },
+ {
+  "id": 371,
+  "문제": "371. Câu nào giải thích sai về vòng xuyến?",
+  "보기1": "① Các phương tiện phải từ từ tiến lại gần vòng xuyến.",
+  "보기2": "② Nhường cho bất kỳ xe nào đang rẽ.",
+  "보기3": "③ Các phương tiện có thể liên tục đi vào vòng xuyến khi không có tín hiệu.",
+  "보기4": "④ Bật đèn xi nhan bên trái khi ra khỏi vòng xuyến.",
+  "정답": 4
+ },
+ {
+  "id": 372,
+  "문제": "372. Hai nội dung nào dưới đây miêu tả đúng về cách lưu thông ở vòng xuyến?",
+  "보기1": "① Trước khi vào giao lộ, tạm dừng rồi tiến vào giao lộ khi không có phương tiện nào tiến lại gần từ bên trái.",
+  "보기2": "② Rẽ ở vòng xuyến phải rẽ theo chiều kim đồng hồ.",
+  "보기3": "③ Khi đi vào - đi ra khỏi vòng xuyến không cần bật đèn xi nhan.",
+  "보기4": "④ Sau khi vào vòng xuyến phải đi nhanh và hạn chế dừng hết mức có thể.",
+  "정답": 1.4
+ },
+ {
+  "id": 373,
+  "문제": "373. Nơi nào dưới đây là nơi bạn phải tạm dừng khi lái xe theo Luật Giao thông đường bộ?",
+  "보기1": "① Gần đoạn đường quanh co.",
+  "보기2": "② Ở đoạn đường xuống dốc đứng.",
+  "보기3": "③ Gần đỉnh dốc.",
+  "보기4": "④ Đường giao nhau không phân luồng có lưu lượng giao thông lớn.",
+  "정답": 4
+ },
+ {
+  "id": 374,
+  "문제": "374. Nội dung nào đúng là nơi bắt buộc phải tạm dừng theo Luật Giao thông đường bộ?",
+  "보기1": "① Đường giao nhau không thể quan sát phải trái và không có phân luồng giao thông",
+  "보기2": "② Đường giao nhau có bật đèn tín hiệu màu xanh",
+  "보기3": "③ Trong đường hầm hoặc trên cầu có lưu lượng giao thông lớn",
+  "보기4": "④ Gần đoạn đường quanh co hoặc khu vực gần với đỉnh dốc",
+  "정답": 1
+ },
+ {
+  "id": 375,
+  "문제": "375. Nơi nào dưới đây là nơi phải tạm dừng theo Luật Giao thông đường bộ?",
+  "보기1": "① Trong hầm và trên cầu",
+  "보기2": "② Đường giao nhau có giao thông đông đúc nhưng không có đèn tín hiệu giao thông",
+  "보기3": "③ Đường dốc xuống có độ dốc lớn",
+  "보기4": "④ Gần đoạn đường quanh co",
+  "정답": 2
+ },
+ {
+  "id": 376,
+  "문제": "376. Đáp án nào không đúng với giải thích về khu vực hạn chế tốc độ khả biến?",
+  "보기1": "① Đây là hệ thống chủ động thay đổi tốc độ quy định theo hoàn cảnh.",
+  "보기2": "② Sử dụng biển báo nháy đèn hiển thị thay đổi số tốc độ quy định.",
+  "보기3": "③ Trường hợp đã quy định tốc độ tối đa bằng biển báo giới hạn tốc độ khả biến thì phải tuân theo điều này.",
+  "보기4": "④ Trường hợp tốc độ tối đa được quy định bởi biển báo hạn chế tốc độ khả biến và tốc độ tối đa của biểnbáo an toàn khác nhau thì phải tuân theo tốc độ tối đa của biển báo an toàn.",
+  "정답": 4
+ },
+ {
+  "id": 377,
+  "문제": "377. Người điều khiển ( ) trong Luật Giao thông Đường bộ khi muốn đi qua đường dân sinh giao với đườngsắt, phải ( ) trước đường dân sinh, kiểm tra an toàn rồi mới đi qua. Nội dung đúng khi điền vào ( )?",
+  "보기1": "① Tất cả xe, đi chậm",
+  "보기2": "② Tất cả xe hoặc xe dạng thiết bị xây dựng, đi chậm",
+  "보기3": "③ Tất cả xe hoặc tất cả xe điện, tạm dừng",
+  "보기4": "④ Tất cả xe hoặc xe điện chạy trên đường ray, tạm dừng",
+  "정답": 4
+ },
+ {
+  "id": 378,
+  "문제": "378. Phương pháp lái xe nào sau đây là an toàn nhất ở nút giao thông lập thể ở đường cao tốc?",
+  "보기1": "① Do tắc nghẽn xe tại nút giao thông lập thể nên phanh gấp để xe phía sau không thể tới gần nhằm phòngngừa tai nạn.",
+  "보기2": "② Tạm thời dừng lại rồi xuất phát do cảm giác về tốc độ tại nút giao thông lập thể trở nên không nhạy nữa.",
+  "보기3": "③ Nếu đã đi quá nút giao thông lập thể mà mình định đi ra thì sẽ đi ra tại nút giao tiếp theo.",
+  "보기4": "④ Tăng tốc đột ngột và đi ra tại nút giao tương ứng.",
+  "정답": 3
+ },
+ {
+  "id": 379,
+  "문제": "379. Cách xử lý đúng nhất phải thực hiện khi người lái xe của xe phía trước đưa tay trái ngang ra phía ngoàicủa thân xe là gì?",
+  "보기1": "① Đi chậm vì xe phía trước được dự đoán sẽ rẽ phải.",
+  "보기2": "② Đổi làn đường sang làn xe bên trên vì xe phía trước được dự đoán sẽ băng qua đường.",
+  "보기3": "③ Vượt lên vì xe phía trước được dự đoán sẽ quay đầu.",
+  "보기4": "④ Đi chậm vì xe phía trước được dự đoán sẽ thay đổi làn xe.",
+  "정답": 4
+ },
+ {
+  "id": 380,
+  "문제": "380. Tín hiệu bằng tay nào được sử dụng khi người lái xe định rẽ phải?",
+  "보기1": "① Đưa tay trái ra ngoài phía bên trái rồi gập khuỷu tay và đưa tay thẳng đứng lên trên.",
+  "보기2": "② Đưa tay trái ngang ra phía ngoài bên trái thân xe.",
+  "보기3": "③ Đưa tay phải ra ngoài bên phải của thân xe rồi vẫy tay theo chiều trước sau.",
+  "보기4": "④ Đưa tay trái ra ngoài thân xe rồi duỗi tay xuống 45° về phía dưới.",
+  "정답": 1
+ },
+ {
+  "id": 381,
+  "문제": "381. Khi đang định tiến vào giao lộ theo tín hiệu giao thông thì cảnh sát ra tín hiệu yêu cầu dừng lại. Trongcác cách sau đây, cách nào là cách lái xe an toàn nhất?",
+  "보기1": "① Tạm dừng ngay trước vạch dừng.",
+  "보기2": "② Nhanh chóng giảm tốc và đi chậm lại.",
+  "보기3": "③ Thực hiện theo đèn tín hiệu.",
+  "보기4": "④ Đi từ từ vào giao lộ.",
+  "정답": 1
+ },
+ {
+  "id": 382,
+  "문제": "382. Câu nào giải thích đúng về việc vượt lên trước khi vạch phân cách giữa đường là vạch đôi có cả vạch đứtmàu vàng và vạch liền màu vàng?",
+  "보기1": "① Không thể lấn vạch phân cách giữa đường rồi vượt lên trước dù cho đang ở bên vạch liền màu vàng hayvạch đứt màu vàng.",
+  "보기2": "② Có thể lấn vạch phân cách giữa đường rồi vượt lên trước ở bên có vạch đứt màu vàng.",
+  "보기3": "③ Nếu chắc chắn an toàn rồi thì có thể vượt lên trước mà không bận tâm đến vạch liền màu vàng hay vạchđứt màu vàng.",
+  "보기4": "④ Có thể lấn vạch phân cách giữa đường rồi vượt lên trước ở bên có vạch liền màu vàng.",
+  "정답": 2
+ },
+ {
+  "id": 383,
+  "문제": "383. Trong khi lái xe, cách thức lưu thông đúng nhất tại khúc giao đường sắt là cách nào dưới đây?",
+  "보기1": "① Cứ thế đi qua nếu không có tàu hỏa đến.",
+  "보기2": "② Tạm dừng để kiểm tra an toàn sau đó đi qua.",
+  "보기3": "③ Đi qua trên mức tốc độ giới hạn.",
+  "보기4": "④ Đi qua nhanh trong trường hợp rào chắn đang chuẩn bị hạ xuống.",
+  "정답": 2
+ },
+ {
+  "id": 384,
+  "문제": "384. Phương pháp nào đúng khi muốn thay đổi làn đường sang bên trái?",
+  "보기1": "① Bật đèn báo rẽ sang bên trái khi đến địa điểm cách nơi định thay đổi làn đường trên 30m (tại đường caotốc là 100m).",
+  "보기2": "② Bật đèn báo rẽ sang bên trái khi đến địa điểm cách nơi định thay đổi làn đường trên 10m (tại đường caotốc là 100m).",
+  "보기3": "③ Bật đèn báo rẽ sang bên trái khi đến địa điểm cách nơi định thay đổi làn đường trên 20m (tại đường caotốc là 80m).",
+  "보기4": "④ Bật đèn báo rẽ sang trái tại địa điểm định thay đổi làn đường.",
+  "정답": 1
+ },
+ {
+  "id": 385,
+  "문제": "385. Câu nào không đúng khi nói về tốc độ của xe ô tô theo Luật Giao thông đường bộ?",
+  "보기1": "① Tốc độ được quy định tùy theo đường thông thường, đường dành riêng cho xe ô tô, đường cao tốc và tổngsố làn xe.",
+  "보기2": "② Tại các đường thông thường không có giới hạn về tốc độ tối thiểu.",
+  "보기3": "③ Khi thời tiết xấu phải giảm tốc độ khi điều khiển xe.",
+  "보기4": "④ Trong trường hợp tốc độ tối đa được quy định bằng bảng giới hạn tốc độ tạm thời khác với tốc độ tối đađược quy định bởi những bảng hiệu an toàn còn lại thì cần phải tuân theo các bảng hiệu an toàn còn lạiđó.",
+  "정답": 4
+ },
+ {
+  "id": 386,
+  "문제": "386. Câu nào không đúng khi nói về tốc độ của xe ô tô theo Luật Giao thông đường bộ?",
+  "보기1": "① Tốc độ của xe càng lớn thì nguy cơ tai nạn giao thông càng cao nên phải hạn chế việc xe vượt quá tốc độ.",
+  "보기2": "② Giới hạn tốc độ tối thiểu để nâng cao hiệu quả giao thông tại các làn đường chuyên dành cho xe ô tô vàđường cao tốc.",
+  "보기3": "③ Cục trưởng Cục Cảnh sát hoặc Giám đốc Sở Cảnh sát tỉnh - thành phố có thể giới hạn tốc độ riêng vì sự antoàn và làm cho giao thông thông thoáng.",
+  "보기4": "④ Giám đốc Sở Cảnh sát tỉnh - thành phố là người có quyền quy định tốc độ tại đường cao tốc, các làn đườngcòn lại ngoài đường cao tốc sẽ do Cục trưởng Cục Cảnh sát quy định.",
+  "정답": 4
+ },
+ {
+  "id": 387,
+  "문제": "387. Dưới đây 2 trường hợp nào là vi phạm tín hiệu giao thông?",
+  "보기1": "① Vượt qua vạch dừng xe và dừng lại khi đèn đỏ bật lên",
+  "보기2": "② Tiến vào đoạn đường giao nhau khi đèn vàng bật lên trước khi đến đường giao nhau",
+  "보기3": "③ Khi đèn vàng nhấp nháy, vừa chú ý và vừa lái đi",
+  "보기4": "④ Khi đèn đỏ nhấp nháy, sau khi tạm thời dừng ở ngay trước vạch dừng xe, vừa chú ý các phương tiện giaothông vừa lái đi",
+  "정답": 1.2
+ },
+ {
+  "id": 388,
+  "문제": "388. Khi muốn rẽ phải tại đường giao nhau của đường có 3 làn xe mỗi chiều thì 2 phương pháp lái xe đúngnhất là?",
+  "보기1": "① Khi rẽ phải, bật đèn tín hiệu báo phương hướng cho các phương tiện khác ở ngay trước đường giao nhau.",
+  "보기2": "② Dù đèn tín hiệu dành cho người đi bộ ở phía bên phải là màu xanh thì vẫn có thể vượt qua được nếukhông có người đi bộ trên đường.",
+  "보기3": "③ Khi đèn phụ báo hiệu cho xe ở đường dành cho người đi bộ là màu đỏ thì không được đi qua cho dùkhông có người đi bộ.",
+  "보기4": "④ Trên đường mỗi chiều có 3 làn, rẽ phải ở làn số 2 thì an toàn.",
+  "정답": 2.3
+ },
+ {
+  "id": 389,
+  "문제": "389. Hai nội dung nào sau đây đúng với tiêu chuẩn xe khách và điều phải lưu ý khi điều khiển xe rẽ trái theo xekhách trong Luật Quản lý Xe ô tô?",
+  "보기1": "① Xe khách cỡ lớn là xe từ 36 chỗ trở lên. Vì là xe khách cỡ lớn nên có thể không nhìn thấy tín hiệu đèn, nênphải luôn duy trì khoảng cách an toàn và đi chậm.",
+  "보기2": "② Xe khách cỡ trung là xe 16 ~ 35 chỗ. Khi xe chở khách bật đèn rẽ hướng, xe khác có thể chen vào nên cầnrút ngắn khoảng cách xe và đi chậm.",
+  "보기3": "③ Xe khách cỡ nhỏ là xe từ 15 chỗ trở xuống. So với xe ô tô chở người thì có trọng lực lớn nên có thể bị lậtnên cần giữ khoảng cách an toàn khi lưu thông.",
+  "보기4": "④ Xe khách nhỏ gọn có dung tích xi lanh dưới 1200cc. Trọng lực tương đồng với xe ô tô chở người nhưng vẫncần giữ khoảng cách an toàn và đi theo phía sau.",
+  "정답": 1.3
+ },
+ {
+  "id": 390,
+  "문제": "390. Hai phương pháp lái xe an toàn khi thay đổi làn đường là gì?",
+  "보기1": "① Chuyển làn mà vẫn duy trì tốc độ nếu khoảng cách với xe đằng sau trên làn định chuyển đủ xa.",
+  "보기2": "② Đi chậm lại khi chuyển làn nếu khoảng cách với xe đằng sau trên làn định chuyển đủ xa.",
+  "보기3": "③ Giảm tốc độ để xe đằng sau trên làn đường định chuyển đi qua trước nếu xe đó đang tới gần.",
+  "보기4": "④ Chuyển làn nhanh chóng nếu xe đằng sau trên làn đường định chuyển đang tới gần.",
+  "정답": 1.3
+ },
+ {
+  "id": 391,
+  "문제": "391. Hai câu giải thích đúng về vạch phân làn đường là gì?",
+  "보기1": "① Trên đường cùng có đường vạch liền và đường vạch đứt thì không thể đổi làn từ đường vạch liền sangđường vạch đứt.",
+  "보기2": "② Trên đường cùng có đường vạch liền và đường vạch đứt thì có thể đổi làn từ đường vạch liền sang đườngvạch đứt.",
+  "보기3": "③ Trên đường cùng có đường vạch liền và đường vạch đứt thì không thể đổi làn từ đường vạch đứt sangđường vạch liền.",
+  "보기4": "④ Trên đường cùng có đường vạch liền và đường vạch đứt thì có thể đổi làn từ đường vạch đứt sang đườngvạch liền.",
+  "정답": 1.4
+ },
+ {
+  "id": 392,
+  "문제": "392. Trong Luật Giao thông đường bộ, đèn đỏ nhấp nháy nghĩa là gì?",
+  "보기1": "① Xe cơ giới và xe thô sơ phải vừa đi chậm vừa chú ý quan sát tình hình giao thông.",
+  "보기2": "② Xe cơ giới và xe thô sơ có thể vừa tiếp tục đi vừa chú ý quan sát tình hình giao thông.",
+  "보기3": "③ Xe cơ giới và xe thô sơ có thể vừa lùi lại vừa chú ý quan sát biển báo an toàn.",
+  "보기4": "④ Xe cơ giới và xe thô sơ phải dừng ngay trước vạch dừng rồi sau đó vừa tiếp tục đi vừa chú ý quan sát tìnhhình giao thông.",
+  "정답": 4
+ },
+ {
+  "id": 393,
+  "문제": "393. Sau đây là giải thích đoạn đường giao nhau có biển báo “rẽ trái không bảo hộ”. Câu nào đúng?",
+  "보기1": "① Có thể vừa chú ý quan sát tình hình giao thông vừa rẽ trái bất kể tín hiệu nào.",
+  "보기2": "② Có thể vừa chú ý quan sát tình hình giao thông vừa rẽ trái khi đèn đỏ.",
+  "보기3": "③ Có thể vừa chú ý quan sát tình hình giao thông vừa rẽ trái khi đèn xanh.",
+  "보기4": "④ Có thể vừa chú ý quan sát tình hình giao thông vừa rẽ trái khi đèn vàng.",
+  "정답": 3
+ },
+ {
+  "id": 394,
+  "문제": "394. Câu nào đúng khi nói về tốc độ của xe ô tô theo Luật Giao thông đường bộ?",
+  "보기1": "① Giới hạn tốc độ tối thiểu trên đường cao tốc là 50km/giờ.",
+  "보기2": "② Đường dành riêng cho xe ô tô có giới hạn tốc độ tối đa, nhưng không có giới hạn tốc độ tối thiểu.",
+  "보기3": "③ Có giới hạn tốc độ tối đa và tối thiểu trên đường thông thường.",
+  "보기4": "④ Giới hạn tốc độ tối đa trên đường cao tốc có nhiều hơn 2 làn mỗi chiều là như nhau đối với tất cả các loạiphương tiện.",
+  "정답": 1
+ },
+ {
+  "id": 395,
+  "문제": "395. Câu nào sau đây giải thích đúng về hành vi vượt xe?",
+  "보기1": "① Bạn có thể vượt xe phía trước trong trường hợp xe này cũng đang vượt một xe khác.",
+  "보기2": "② Bạn phải vượt ở bên phải khi ở trong đường hầm.",
+  "보기3": "③ Chỉ có thể được vượt trong khu vực vạch liền màu vàng trên đường mỗi chiều có 1 làn.",
+  "보기4": "④ Cấm vượt ở khu vực đường giao nhau.",
+  "정답": 4
+ },
+ {
+  "id": 396,
+  "문제": "396. Mô tả nào dưới đây về vạch phân cách giữa đường trên đường là đúng?",
+  "보기1": "① Được phép vượt nếu vạch phân cách giữa đường là vạch liền màu vàng.",
+  "보기2": "② Vạch phân cách trên đường có thể đảo chiều là vạch đứt màu vàng ngoài cùng bên trái theo hướng đi đượcchỉ bởi tín hiệu giao thông.",
+  "보기3": "③ Có thể vượt bằng cách lấn qua vạch liền màu vàng phân cách giữa đường trong trường hợp xe buýt đangdừng trên đường tỉnh lộ mỗi chiều có 1 làn.",
+  "보기4": "④ Vạch phân cách giữa đường có thể áp dụng trên đường có độ rộng tối thiểu là 4,75m.",
+  "정답": 2
+ },
+ {
+  "id": 397,
+  "문제": "397. Xe nào sau đây có thể sử dụng làn số 2 trên đường cao tốc một chiều 3 làn theo Luật Giao thông đườngbộ?",
+  "보기1": "① Xe chở hàng",
+  "보기2": "② Xe ô tô đặc chủng",
+  "보기3": "③ Máy móc thiết bị thi công",
+  "보기4": "④ Xe chở khách cỡ nhỏ, cỡ vừa",
+  "정답": 4
+ },
+ {
+  "id": 398,
+  "문제": "398. Trường hợp bất khả kháng phải lưu thông với vận tốc dưới ( ) km/giờ do lượng xe lưu thông ở làn số 1trên đường cao tốc một chiều 3 làn tăng lên thì lái xe có thể đi qua dù không vượt lên trước. Câu nào sauđây đúng với tiêu chuẩn trong ( ).",
+  "보기1": "① 80",
+  "보기2": "② 90",
+  "보기3": "③ 100",
+  "보기4": "④ 110",
+  "정답": 1
+ },
+ {
+  "id": 399,
+  "문제": "399. Nội dung nào là giải thích đúng về sử dụng trên làn đường phụ (làn đường cứu hộ) của đường cao tốc?",
+  "보기1": "① Để tránh buồn ngủ khi lái xe, có thể dừng xe trên làn đường phụ để nghỉ ngơi.",
+  "보기2": "② Đỗ xe trên làn đường phụ để ngắm bình minh.",
+  "보기3": "③ Khi các làn đường lưu thông trên đường cao tốc bị tắc nghẽn, có thể sử dụng làn đường phụ.",
+  "보기4": "④ Tiền phạt đối với người điều khiển xe ô tô chở người lưu thông trên làn đường phụ mà không có lý do chínhđáng là 60,000 Won.",
+  "정답": 4
+ },
+ {
+  "id": 400,
+  "문제": "400. Nếu theo tiêu chuẩn xe lưu thông trên làn đường của đường cao tốc có 5 làn xe một chiều thì đến làn xesố mấy được coi là làn xe bên trái? (Tuy nhiên, không có làn xe dành riêng và làn xe tăng - giảm tốc)",
+  "보기1": "① Làn số 1~2",
+  "보기2": "② Làn số 2~3",
+  "보기3": "③ Làn số 1~3",
+  "보기4": "④ Chỉ làn số 2",
+  "정답": 2
+ }
+]
