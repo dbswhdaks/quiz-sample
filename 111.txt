@@ -1,0 +1,82 @@
+import 'dart:convert';
+import 'package:dio/dio.dart';
+import 'package:drive1/quiz.dart';
+import 'package:flutter/material.dart';
+import 'package:geolocator/geolocator.dart';
+import 'package:get/get.dart';
+import 'package:latlong2/latlong.dart';
+import 'academy.dart';
+
+
+class Drive_Main extends StatelessWidget {
+  const Drive_Main({Key? key}) : super(key: key);
+
+
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      backgroundColor: Colors.white,
+      body: SingleChildScrollView(
+        child: Container(
+          child: Container(
+            width: MediaQuery.of(context).size.width,
+            child: Column(
+              mainAxisSize: MainAxisSize.max,
+              children: [
+                Row(
+                  children: [
+
+                    Expanded(child: GestureDetector(onTap: (){Get.to(Quiz());},child: Image.asset('image/quiz.png',height: 700))),
+                    //SizedBox(width: 1,),
+
+                    Expanded(child: GestureDetector(onTap: ()async{
+                      var rawResponse = await Dio().get('https://raw.githubusercontent.com/dbswhdaks/drive/main/academy.json');//운전전문학원
+                      List<dynamic> response  = jsonDecode(rawResponse.data);
+                      print(response);
+
+                      var rawResponse2 = await Dio().get('https://raw.githubusercontent.com/dbswhdaks/drive/main/license.json'); //운전면허시험장
+                      List<dynamic> response2 = jsonDecode(rawResponse2.data);
+                      print(response2);
+
+                      Position position = await Geolocator.getCurrentPosition(desiredAccuracy: LocationAccuracy.high);
+                      print(position);
+
+                      final Distance distance =  Distance();
+
+                      List kmList = List.generate(response.length,(index)=> distance.as(LengthUnit.Kilometer, LatLng( position.latitude,position.longitude), LatLng(response[index]['lat'],response[index]['lng'] ) ) as int );
+                      print(kmList.toString());
+
+                      List kmList2 = List.generate(response2.length,(index)=> distance.as(LengthUnit.Kilometer, LatLng( position.latitude,position.longitude), LatLng(response2[index]['lat'],response2[index]['lng'] ) ) as int );
+                      print(kmList2.toString());
+                            //print('여기까지괜찮아');
+
+                      for (int i = 0; i < response.length; i++) {
+                        response[i]["km"] = kmList[i];
+                      }
+
+                      for (int i = 0; i < response2.length; i++) {
+                        response2[i]["km"] = kmList2[i];
+                      }
+
+                      response.sort((a, b) => a['km'].compareTo(b['km']).toInt());
+                      response2.sort((a, b) => a['km'].compareTo(b['km']).toInt());
+
+                      //print('여기까지도 괜찮아');
+
+                      Get.to(Academy(),arguments: [response,response2]);
+
+
+                    },child: Image.asset('image/academy.png',height: 700,))),
+                  ],
+                ),
+                Text('안녕하세요',style: TextStyle(fontSize: 20,fontWeight: FontWeight.bold))
+              ],
+            ),
+          ),
+        ),
+      ),
+    );
+  }
+}
+
+
